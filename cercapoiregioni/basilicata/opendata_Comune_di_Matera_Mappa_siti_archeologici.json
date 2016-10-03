@@ -1,0 +1,27 @@
+{
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'"
+}, "row_id" : 0, "Cgid_102338" : "0", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Necropoli Madonna dell'Idris", "Cctipologia_722353061" : "Necropoli", "Cccollegamenti_internet_183084549" : "http://www.academia.edu/1497994/F._SOGLIANI_D._ROUBIS_Strategies_and_new_technologies_for_urban_archaeology_Matera_a_town_of_Unesco_World_Heritage_pp._283-298", "Cclatitudine_1650687690" : "40.66407", "Cclongitudine_1241027993" : "16.6121", "Cthe_geom_1096086090" : "0101000020E6100000B1E1E995B29C30409B20EA3E00554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'"
+}, "row_id" : 1, "Cgid_102338" : "1", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Chiesa di Santa Lucia alle Malve", "Cctipologia_722353061" : "Chiesa rupestre", "Cccollegamenti_internet_183084549" : "http://www.academia.edu/1497994/F._SOGLIANI_D._ROUBIS_Strategies_and_new_technologies_for_urban_archaeology_Matera_a_town_of_Unesco_World_Heritage_pp._283-298", "Cclatitudine_1650687690" : "40.66317", "Cclongitudine_1241027993" : "16.61247", "Cthe_geom_1096086090" : "0101000020E6100000F7C77BD5CA9C30401BD82AC1E2544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'"
+}, "row_id" : 2, "Cgid_102338" : "2", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Necropoli di Santa Lucia alle Malve", "Cctipologia_722353061" : "Necropoli", "Cccollegamenti_internet_183084549" : "http://www.academia.edu/1497994/F._SOGLIANI_D._ROUBIS_Strategies_and_new_technologies_for_urban_archaeology_Matera_a_town_of_Unesco_World_Heritage_pp._283-298", "Cclatitudine_1650687690" : "40.66308", "Cclongitudine_1241027993" : "16.61233", "Cthe_geom_1096086090" : "0101000020E6100000145CACA8C19C3040DB5031CEDF544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'"
+}, "row_id" : 3, "Cgid_102338" : "3", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Piazza San Francesco", "Cctipologia_722353061" : "Necropoli", "Cccollegamenti_internet_183084549" : "http://www.academia.edu/1497994/F._SOGLIANI_D._ROUBIS_Strategies_and_new_technologies_for_urban_archaeology_Matera_a_town_of_Unesco_World_Heritage_pp._283-298", "Cclatitudine_1650687690" : "40.66503", "Cclongitudine_1241027993" : "16.60915", "Cthe_geom_1096086090" : "0101000020E6100000C05B2041F19B3040F06DFAB31F554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'0448ccdd-692f-4966-ad0d-ac9aec5be1b2@datiopen'"
+}, "row_id" : 4, "Cgid_102338" : "4", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Banca d'Italia", "Cctipologia_722353061" : "Necropoli", "Cccollegamenti_internet_183084549" : "http://www.academia.edu/1497994/F._SOGLIANI_D._ROUBIS_Strategies_and_new_technologies_for_urban_archaeology_Matera_a_town_of_Unesco_World_Heritage_pp._283-298", "Cclatitudine_1650687690" : "40.66553", "Cclongitudine_1241027993" : "16.60886", "Cthe_geom_1096086090" : "0101000020E6100000B2D7BB3FDE9B3040E140481630554440"
+}
+], "__count" : "0"
+}
+}

@@ -1,0 +1,207 @@
+{
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 0, "Cgid_102338" : "0", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Leonardo", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.662238", "Cclongitudine_1241027993" : "16.611671", "Cthe_geom_1096086090" : "0101000020E610000060E97C78969C30409015FC36C4544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 1, "Cgid_102338" : "1", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cripta di Porta Empia o San Giacomo", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.666032", "Cclongitudine_1241027993" : "16.612691", "Cthe_geom_1096086090" : "0101000020E6100000B58D3F51D99C3040740B5D8940554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 2, "Cgid_102338" : "2", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cappuccino Vecchio", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.653033", "Cclongitudine_1241027993" : "16.619395", "Cthe_geom_1096086090" : "0101000020E6100000514EB4AB909E3040B91AD99596534440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 3, "Cgid_102338" : "3", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Santa Cesarea", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.669572", "Cclongitudine_1241027993" : "16.6091869999999", "Cthe_geom_1096086090" : "0101000020E6100000DE25E2ADF39B30409E280989B4554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 4, "Cgid_102338" : "4", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Giovanni in Monterrone", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.663947", "Cclongitudine_1241027993" : "16.612207", "Cthe_geom_1096086090" : "0101000020E6100000DD611399B99C30407FA31D37FC544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 5, "Cgid_102338" : "5", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Lupo al Guirro o Crocifisso al Guirro", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.644292", "Cclongitudine_1241027993" : "16.549305", "Cthe_geom_1096086090" : "0101000020E61000007F87A2409F8C30408789062978524440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 6, "Cgid_102338" : "6", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Madonna degli Angeli", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.669938", "Cclongitudine_1241027993" : "16.613344", "Cthe_geom_1096086090" : "0101000020E6100000A532C51C049D3040802C4487C0554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 7, "Cgid_102338" : "7", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Santa Maria de Olivara o San Nicola all'Annunziata", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.605767", "Cclongitudine_1241027993" : "16.657816", "Cthe_geom_1096086090" : "0101000020E610000019C91EA166A830407EFFE6C5894D4440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 8, "Cgid_102338" : "8", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cripta del Cristo", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.6863239999999", "Cclongitudine_1241027993" : "16.5129969999999", "Cthe_geom_1096086090" : "0101000020E610000018F279C553833040D03AFF76D9574440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 9, "Cgid_102338" : "9", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Madonna delle Grazie", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.66398", "Cclongitudine_1241027993" : "16.610212", "Cthe_geom_1096086090" : "0101000020E610000073A087DA369C30405B99F04BFD544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 10, "Cgid_102338" : "10", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Madonna del Giglio", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.602989", "Cclongitudine_1241027993" : "16.695011", "Cthe_geom_1096086090" : "0101000020E61000003A5CAB3DECB13040836C59BE2E4D4440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 11, "Cgid_102338" : "11", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Martino dei Lombardi", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.6661649999999", "Cclongitudine_1241027993" : "16.607911", "Cthe_geom_1096086090" : "0101000020E6100000F0E0270EA09B3040A55E0CE544554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 12, "Cgid_102338" : "12", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Nicola de Cupa", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.662117", "Cclongitudine_1241027993" : "16.611242", "Cthe_geom_1096086090" : "0101000020E61000000FF10F5B7A9C30401590F63FC0544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 13, "Cgid_102338" : "13", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Rocco", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.667631", "Cclongitudine_1241027993" : "16.6084889999999", "Cthe_geom_1096086090" : "0101000020E6100000AEF962EFC59B3040DC65BFEE74554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 14, "Cgid_102338" : "14", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Potito", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.666527", "Cclongitudine_1241027993" : "16.6123249999999", "Cthe_geom_1096086090" : "0101000020E6100000D485C954C19C30405473B9C150554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 15, "Cgid_102338" : "15", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Michele di Serra Sant'Angelo", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.634684", "Cclongitudine_1241027993" : "16.635376", "Cthe_geom_1096086090" : "0101000020E6100000CEA96400A8A23040B1A547533D514440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 16, "Cgid_102338" : "16", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Nicola al Saraceno", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "pericoloso", "Cclatitudine_1650687690" : "40.61598", "Cclongitudine_1241027993" : "16.653728", "Cthe_geom_1096086090" : "0101000020E6100000C07ADCB75AA73040BB7EC16ED84E4440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 17, "Cgid_102338" : "17", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Sant'Agnese", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.663594", "Cclongitudine_1241027993" : "16.615597", "Cthe_geom_1096086090" : "0101000020E61000000684D6C3979D304032E9EFA5F0544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 18, "Cgid_102338" : "18", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cappella di Sant'Andrea ' Masseria Irene", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.59367", "Cclongitudine_1241027993" : "16.681398", "Cthe_geom_1096086090" : "0101000020E6100000508F6D1970AE3040E44EE960FD4B4440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 19, "Cgid_102338" : "19", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cripta dei Grottini", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "pericoloso", "Cclatitudine_1650687690" : "40.704959", "Cclongitudine_1241027993" : "16.486657", "Cthe_geom_1096086090" : "0101000020E6100000965E9B8D957C3040AC02B5183C5A4440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 20, "Cgid_102338" : "20", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Santi Simeone e Giuda", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.664526", "Cclongitudine_1241027993" : "16.6104689999999", "Cthe_geom_1096086090" : "0101000020E6100000AD3846B2479C3040BDAB1E300F554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 21, "Cgid_102338" : "21", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Villaggio di Murgia Timone Porta orientale", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.672899", "Cclongitudine_1241027993" : "16.635211", "Cthe_geom_1096086090" : "0101000020E6100000390F27309DA230406C41EF8D21564440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 22, "Cgid_102338" : "22", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Benedetto alla Civita", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.668148", "Cclongitudine_1241027993" : "16.611778", "Cthe_geom_1096086090" : "0101000020E61000008C69A67B9D9C3040A471A8DF85554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 23, "Cgid_102338" : "23", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Santa Maria de Armenis", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.66228", "Cclongitudine_1241027993" : "16.6110049999999", "Cthe_geom_1096086090" : "0101000020E61000002AB1DCD26A9C3040BF654E97C5544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 24, "Cgid_102338" : "24", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cappella di San Giovanni da Matera", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.670296", "Cclongitudine_1241027993" : "16.618549", "Cthe_geom_1096086090" : "0101000020E610000038F92D3A599E3040DF516342CC554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 25, "Cgid_102338" : "25", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "S. Maria della Palomba (3)", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.679372", "Cclongitudine_1241027993" : "16.606296", "Cthe_geom_1096086090" : "0101000020E610000014B2F336369B3040B8E864A9F5564440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 26, "Cgid_102338" : "26", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Beata Maria Vergine dei Derelitti", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.671016", "Cclongitudine_1241027993" : "16.617422", "Cthe_geom_1096086090" : "0101000020E6100000B7D4415E0F9E3040DF8B2FDAE3554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 27, "Cgid_102338" : "27", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Pietro Barisano", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.6687289999999", "Cclongitudine_1241027993" : "16.609424", "Cthe_geom_1096086090" : "0101000020E6100000C3651536039C3040747170E998554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 28, "Cgid_102338" : "28", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Inedita Rione Casalnuovo", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.662125", "Cclongitudine_1241027993" : "16.6121209999999", "Cthe_geom_1096086090" : "0101000020E6100000C3313CF6B39C3040986E1283C0544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 29, "Cgid_102338" : "29", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cappella di San Vito alla Murgia", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.666789", "Cclongitudine_1241027993" : "16.6187189999999", "Cthe_geom_1096086090" : "0101000020E6100000D4694E5E649E3040912A8A5759554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 30, "Cgid_102338" : "30", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Torre della Fontana", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.666902", "Cclongitudine_1241027993" : "16.606259", "Cthe_geom_1096086090" : "0101000020E6100000DAE731CA339B304089D1730B5D554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 31, "Cgid_102338" : "31", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Santi Pietro e Paolo", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.665413", "Cclongitudine_1241027993" : "16.6092459999999", "Cthe_geom_1096086090" : "0101000020E6100000E837BD8BF79B3040A8AAD0402C554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 32, "Cgid_102338" : "32", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Sant'Angelo della Mensa", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "pericoloso", "Cclatitudine_1650687690" : "40.642729", "Cclongitudine_1241027993" : "16.636562", "Cthe_geom_1096086090" : "0101000020E610000059E02BBAF5A230406C98A1F144524440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 33, "Cgid_102338" : "33", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "SS. Crocifisso a Scattolino", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.649664", "Cclongitudine_1241027993" : "16.607894", "Cthe_geom_1096086090" : "0101000020E6100000446FF1F09E9B3040BCB1A03028534440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 34, "Cgid_102338" : "34", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cripta del Vitisciulo", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.616892", "Cclongitudine_1241027993" : "16.655456", "Cthe_geom_1096086090" : "0101000020E61000008CF7E3F6CBA73040FF942A51F64E4440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 35, "Cgid_102338" : "35", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "SS. Crocifisso della Gravinella", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.68222", "Cclongitudine_1241027993" : "16.5926319999999", "Cthe_geom_1096086090" : "0101000020E6100000099012BBB6973040AC5626FC52574440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 36, "Cgid_102338" : "36", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Grotta Funeraria", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.634632", "Cclongitudine_1241027993" : "16.6354289999999", "Cthe_geom_1096086090" : "0101000020E6100000F7ED9579ABA230405F7F129F3B514440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 37, "Cgid_102338" : "37", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Asceterio di Murgia Timone o di San Lupo", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.664807", "Cclongitudine_1241027993" : "16.6160369999999", "Cthe_geom_1096086090" : "0101000020E61000002220D099B49D30407193516518554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 38, "Cgid_102338" : "38", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cappella di Masseria Brucoli", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.677627", "Cclongitudine_1241027993" : "16.6166109999999", "Cthe_geom_1096086090" : "0101000020E61000007A5AEF37DA9D30407CF1457BBC564440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 39, "Cgid_102338" : "39", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Crocifisso Vecchio", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.667495", "Cclongitudine_1241027993" : "16.611885", "Cthe_geom_1096086090" : "0101000020E6100000B8E9CF7EA49C30402C9FE57970554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 40, "Cgid_102338" : "40", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Oratorio dell'Ofra", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.639251", "Cclongitudine_1241027993" : "16.631229", "Cthe_geom_1096086090" : "0101000020E61000006B49473998A13040B8770DFAD2514440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 41, "Cgid_102338" : "41", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Santo Stefano al Cinto", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.663257", "Cclongitudine_1241027993" : "16.610555", "Cthe_geom_1096086090" : "0101000020E6100000C7681D554D9C3040EAEBF99AE5544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 42, "Cgid_102338" : "42", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cripta delle Tre Croci", "Ccaccessibile_1129397054" : "", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.684542", "Cclongitudine_1241027993" : "16.516013", "Cthe_geom_1096086090" : "0101000020E6100000944F8F6D19843040855E7F129F574440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 43, "Cgid_102338" : "43", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Inedita vicino San Paolo", "Ccaccessibile_1129397054" : "no", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.668571", "Cclongitudine_1241027993" : "16.6097019999999", "Cthe_geom_1096086090" : "0101000020E61000002C4E266E159C3040EA060ABC93554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 44, "Cgid_102338" : "44", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Santa Lucia alle Malve", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.663333", "Cclongitudine_1241027993" : "16.612711", "Cthe_geom_1096086090" : "0101000020E610000043E6CAA0DA9C3040C5AD8218E8544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 45, "Cgid_102338" : "45", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Guglielmo", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.670206", "Cclongitudine_1241027993" : "16.610109", "Cthe_geom_1096086090" : "0101000020E6100000CAFE791A309C30409FCA694FC9554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 46, "Cgid_102338" : "46", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Placido", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.668953", "Cclongitudine_1241027993" : "16.6097709999999", "Cthe_geom_1096086090" : "0101000020E61000007D0CC7F3199C3040D2C77C40A0554440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 47, "Cgid_102338" : "47", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cappella di Acito San Campo", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.658633", "Cclongitudine_1241027993" : "16.620522", "Cthe_geom_1096086090" : "0101000020E6100000D272A087DA9E30407F880D164E544440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 48, "Cgid_102338" : "48", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "Cripta della Scaletta", "Ccaccessibile_1129397054" : "con guida", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.592993", "Cclongitudine_1241027993" : "16.671603", "Cthe_geom_1096086090" : "0101000020E61000003FE5982CEEAB3040E3E0D231E74B4440"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'16bd3624-1094-4d7c-9e12-8fb75ea0a4b8@datiopen'"
+}, "row_id" : 49, "Cgid_102338" : "49", "Regione": "Basilicata", "codice_provincia": "MT","comune": "Matera", "id_comune": "6810", "Ccnome_94815740" : "San Nicola dei Greci", "Ccaccessibile_1129397054" : "si", "Ccnote_94815957" : "", "Cclatitudine_1650687690" : "40.668241", "Cclongitudine_1241027993" : "16.611532", "Cthe_geom_1096086090" : "0101000020E61000001D75745C8D9C3040556CCCEB88554440"
+}
+], "__count" : "0"
+}
+}

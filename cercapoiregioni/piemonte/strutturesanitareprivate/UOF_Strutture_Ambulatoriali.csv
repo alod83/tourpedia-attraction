@@ -1,0 +1,65 @@
+id;ID_UNITAOPERATIVA;INVIANTE;AZIENDA;CODICE_STRUTTURA;STRUTTURA;CODICE_AREA;AREA;CODICE_SPECIALITA;SUBCODICE_SPECIALITA;PROGRESSIVO_UO;DESCRIZIONE;PUBBLICA_PRIVATA;ATTIVAZIONE
+1;8607;700;201;500002;STUDIO MEDICO MIRAFIORI SRL;9;Area funzioni territoriali;2;0;1;STUDIO MEDICO MIRAFIORI SRL - str. basse;PRIVATA;01/05/1980
+2;8608;701;201;500003;RAFFAELLO S.R.L.;9;Area funzioni territoriali;2;0;1;RAFFAELLO S.R.L.;PRIVATA;01/11/1996
+3;8605;702;201;500005;A.N.S.A. S.R.L.;9;Area funzioni territoriali;2;0;1;A.N.S.A. S.R.L.;PRIVATA;01/10/1997
+4;8609;703;201;500007;POLIAMBULATORIO STATUTO SPA;9;Area funzioni territoriali;2;0;1;POLIAMBULATORIO STATUTO SPA;PRIVATA;01/01/1988
+5;8610;704;201;500008;CHIROS S.R.L.;9;Area funzioni territoriali;2;0;1;CHIROS S.R.L.;PRIVATA;01/07/1996
+6;8606;705;201;500011;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Centro Diagnostico Cernaia - Cernaia;PRIVATA;01/01/1988
+7;8611;705;201;500012;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;CENTRO DIAGNOSTICO CERNAIA - fabro;PRIVATA;01/01/1988
+8;8612;706;201;500013;FISIO SRL CENTRO MED. LINGOTTO;9;Area funzioni territoriali;2;0;1;FISIO SRL CENTRO MED. LINGOTTO;PRIVATA;01/02/1996
+9;8613;707;201;500014;IST.FISICOTERAPICO DI TORINO;9;Area funzioni territoriali;2;0;1;IST.FISIOTERAPICO DI TORINO;PRIVATA;01/01/1988
+10;8614;708;201;500015;LARC SRL;9;Area funzioni territoriali;2;0;1;SPAM LAMBDA SRL;PRIVATA;01/01/1988
+11;7669;705;201;500022;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Poliambulatorio  - CDC  S.Remo;PRIVATA;01/01/1998
+12;7945;709;201;500023;PKT SRL;9;Area funzioni territoriali;2;0;1;Poliambulatorio  - PKT;PRIVATA;01/07/1982
+13;8313;705;201;500028;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Poliambulatorio  CDC Villarbasse;PRIVATA;03/08/2004
+14;9432;742;201;500098;Dott. Mazzarella;9;Area funzioni territoriali;2;0;1;Unità territoriale;PRIVATA;01/01/2000
+15;8618;733;201;500117;IMT- MEDIL S.P.A.;9;Area funzioni territoriali;2;0;1;IMT - MEDIL S.p.A.;PRIVATA;17/02/2003
+16;8620;700;201;500123;STUDIO MEDICO MIRAFIORI SRL;9;Area funzioni territoriali;2;0;1;STUDIO MEDICO MIRAFIORI SRL-passo buole;PRIVATA;01/01/2004
+17;8621;737;201;500127;IRMET S.p.A;9;Area funzioni territoriali;2;0;1;IRMET S.p.A.;PRIVATA;14/06/2004
+18;9459;705;201;500153;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;CENTRO DIAGNOSTICO CERNAIA - montecuccoli;PRIVATA;01/07/2007
+19;10499;622;201;500172;SRL SANTA CROCE - POLIAMBULATORIO STATUTO - VIA ;9;Area funzioni territoriali;2;0;1;Poliambulatorio R.R.F.;PRIVATA;08/06/2009
+20;10500;622;201;500172;SRL SANTA CROCE - POLIAMBULATORIO STATUTO - VIA ;9;Area funzioni territoriali;2;0;2;Poliambulatorio Laboratorio Analisi;PRIVATA;08/06/2009
+21;13311;710;201;500176;S.K.T. S.R.L. - STUDIO KINESITERAPICO TORINESE;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale A;PRIVATA;23/11/2010
+22;13525;705;201;500177;C.D.C. VIA DON GRAZIOLI;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale A;PRIVATA;01/01/2011
+23;8533;711;202;500029;I.F.O.R.;9;Area funzioni territoriali;2;0;1;IFOR srl;PRIVATA;26/07/2004
+24;8193;712;202;500031;L.A.M.A.T.;9;Area funzioni territoriali;2;0;1;LAMAT srl  Lab.privato analisi cliniche;PRIVATA;01/07/1996
+25;8626;713;202;500032;PUNTO DEGA SRL;9;Area funzioni territoriali;2;0;1;Punto DE.GA srl;PRIVATA;01/10/1994
+26;8179;705;202;500033;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;CDC C.so Toscana;PRIVATA;01/01/1988
+27;7747;708;202;500035;LARC SRL;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/01/1988
+28;7732;708;202;500036;LARC SRL;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;11/03/2003
+29;9428;714;202;500037;NUOVA LAMP S.R.L.;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/01/2001
+30;8183;735;202;500119;R.I.B.A. S.P.A;9;Area funzioni territoriali;2;0;1;Riba spa;PRIVATA;01/07/2003
+31;12851;714;202;500175;NUOVA LAMP S.R.L.;9;Area funzioni territoriali;2;0;1;NUOVA LAMP SRL sede v. Arborio;PRIVATA;04/08/2010
+32;8386;705;203;500039;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Poliambulatorio C.D.C. ;PRIVATA;01/01/1988
+33;8396;655;203;500042;CASA DI CURA CELLINI;7;Area altro supporto ospedaliera;15;0;1;Centro Medico San Luca ;PRIVATA;01/01/1988
+34;8329;715;203;500043;STUDIO MEDICO FISIOTERAPICO S.R.L.;9;Area funzioni territoriali;2;0;1;Studio Medico Fisioterapico S.r.l.;PRIVATA;01/08/2003
+35;8165;716;203;500044;INDAGINI RICERCHE MEDICHE;9;Area funzioni territoriali;2;0;1;Poliambulatorio I.R.M.;PRIVATA;01/01/1988
+36;8417;713;203;500096;PUNTO DE.GA. S.R.L.;9;Area funzioni territoriali;2;0;1;Poliambulatorio Mulltispecialistico Punto DE.GA. s.r.l.;PRIVATA;01/05/1999
+37;8292;738;203;500141;C.F.T. KINETOS S.A.S DI BONOMO M. E C.;9;Area funzioni territoriali;2;0;1;R.R.F. di 1 livello;PRIVATA;20/09/2004
+38;9727;744;203;600093;CONSORZIO PIEMONTESE PER LA PREVENZIONE E LA REPRESSIONE DEL DOPING;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;09/07/2007
+39;8195;714;204;500047;NUOVA LAMP S.R.L.;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/07/1999
+40;8196;717;204;500048;ISTITUTO MALPIGHI;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/01/1988
+41;8294;739;204;500142;STUDIO MEDICO CANAVESANO S.R.L.;9;Area funzioni territoriali;2;0;1;Diagnostica per Immagini di 1 livello;PRIVATA;26/07/2004
+42;8260;718;205;500050;POLIAMBULATORIO MEDICO CHIERESE;9;Area funzioni territoriali;2;0;1;Poliambulatorio Medico Chierese;PRIVATA;01/01/1988
+43;7387;719;205;500051;Laboratorio Medico C. Battisti;9;Area funzioni territoriali;2;0;1;Laboratorio Analisi;PRIVATA;25/03/2003
+44;8155;720;205;500052;Centro Diagnostico LA-RA Srl;9;Area funzioni territoriali;2;0;1;LA.RA. ;PRIVATA;01/01/1988
+45;9294;705;205;500055;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/01/1988
+46;9433;705;206;500057;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;07/02/2006
+47;9434;730;206;500101;CENTRO DIAGNOSTICO CIGLIANESE CIGLIANO;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/01/2002
+48;8657;745;207;500122;CENTRO DIAGNOSTICO BIELLESE;9;Area funzioni territoriali;2;0;1;Laboratorio analisi;PRIVATA;05/08/2003
+49;8754;746;207;500148;CENTRO SPECIAL. BIELLESE FISIOKINESITERAPIA E RIABILITAZIONE;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;24/01/2005
+50;8471;705;208;500066;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Attivita' specialistico-ambulatoriale;PRIVATA;01/01/1988
+51;8466;721;208;500067;DOC SERVICE FISIOKINESITERAPIA;9;Area funzioni territoriali;2;0;1;Recupero e Rieducazione Funzionale I livello;PRIVATA;01/01/1988
+52;8312;741;209;600068;cooperativa medicina attiva;9;Area funzioni territoriali;1;0;1;cooperativa medicina attiva;PRIVATA;01/07/2004
+53;7858;722;210;500072;PASTEUR  LABORATORIO ANALISI CUNEO;9;Area funzioni territoriali;2;0;1;Poliambulatorio Multifunzionale Pasteur ;PRIVATA;01/01/1975
+54;7851;705;210;500135;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Poliambulatorio Multispecialistico C.D.C. Fascia A;PRIVATA;02/01/2005
+55;13214;749;210;600116;AMBULATORIO CASA SPERANZA;9;Area funzioni territoriali;1;0;1;AMBULATORIO DI RIABILITAZIONE CASA SPERANZA - BOVES;PRIVATA;01/01/2010
+56;8317;723;211;500074;CENTRO MEDICO ALBESE;9;Area funzioni territoriali;2;0;1;Unità territoriale;PRIVATA;01/01/1980
+57;7798;705;212;500077;CENTRO DIAGNOSTICO CERNAIA;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/01/1988
+58;7636;724;213;500081;STUDIO RADIOLOGICO CENTOCANNONI;9;Area funzioni territoriali;2;0;1;Diagnostica per Immagini I livello;PRIVATA;01/11/1992
+59;9435;725;213;500082;STATIC CENTRO CHIROTERAPEUTICO;9;Area funzioni territoriali;2;0;1;Unità territoriale;PRIVATA;14/02/2005
+60;9436;726;213;500084;DOTT.CRISTOFORO PONZANO & C.;9;Area funzioni territoriali;2;0;1;Poliambulatorio Territoriale;PRIVATA;01/01/2006
+61;7634;727;213;500086;STUDIO RADIOLOG. OMODEO ZORINI;9;Area funzioni territoriali;2;0;1;Diagnostica per immagini i livello;PRIVATA;01/01/1979
+62;7471;728;213;500089;STUDIO RADIOLOGICO DR. FOCO;9;Area funzioni territoriali;2;0;1;Studio Radiologico Dr. Foco;PRIVATA;01/11/1996
+63;7473;729;213;500092;STUDIO RADIOLOGICO NEWIMA;9;Area funzioni territoriali;2;0;1;Studio Radiologico Newima;PRIVATA;01/02/1998
+64;7452;736;213;500121;LABORATORIO S. MARIA DEL DR. W. QUAGLIA;9;Area funzioni territoriali;2;0;1;Laboratorio S. Maria del Dott. W. Quaglia;PRIVATA;16/01/1980

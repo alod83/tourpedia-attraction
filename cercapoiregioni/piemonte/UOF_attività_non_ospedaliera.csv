@@ -1,0 +1,1574 @@
+id;ID_UNITAOPERATIVA;INVIANTE;AZIENDA;CODICE_STRUTTURA;STRUTTURA;CODICE_AREA;AREA;CODICE_SPECIALITA;SUBCODICE_SPECIALITA;PROGRESSIVO_UO;DESCRIZIONE;PUBBLICA_PRIVATA;ATTIVAZIONE
+1;10712;;201;;;9;Area funzioni territoriali;1;0;1;SS - Alcologia Torino 1 Ovest;PUBBLICA;01/01/2009
+2;10713;;201;;;9;Area funzioni territoriali;1;0;2;AA - Istituto Penale Minorile Ferrante Aporti;PUBBLICA;01/01/2010
+3;5409;;201;;;9;Area funzioni territoriali;1;0;3;SSD - Centro Salute Mentale Distretto 3;PUBBLICA;17/11/2004
+4;14012;;201;;;9;Area funzioni territoriali;1;0;7;SSD - Disabilita' Sensoriale ed Oftalmologia Sociale;PUBBLICA;01/01/2010
+5;5417;;201;;;9;Area funzioni territoriali;1;0;8;AA - R.S.A.  Gradisca - Spalato;PUBBLICA;28/07/2004
+6;14044;;201;;;9;Area funzioni territoriali;1;0;9;Strutture non inserite in Dipartimenti;PUBBLICA;05/10/2012
+7;9146;;201;;;9;Area funzioni territoriali;1;0;22;SSD - Oculistica Riabilitativa CRV;PUBBLICA;09/11/2006
+8;9286;;201;;;9;Area funzioni territoriali;1;0;24;SS - Malattie Metaboliche e Diabetolgia - Valletta;PUBBLICA;08/03/2007
+9;5996;;201;;;9;Area funzioni territoriali;1;0;32;Altro - NPI Territoriale;PUBBLICA;28/07/2004
+10;7919;;201;;;9;Area funzioni territoriali;1;0;34;SC - Distretti 1 - 8;PUBBLICA;26/09/2002
+11;6014;;201;;;9;Area funzioni territoriali;1;0;34;SC - Assistenza Sanitaria Territoriale ;PUBBLICA;28/07/2004
+12;6016;;201;;;9;Area funzioni territoriali;1;0;35;SS - Promozione della salute;PUBBLICA;28/07/2004
+13;7920;;201;;;9;Area funzioni territoriali;1;0;35;SC - Distretti 9 - 10;PUBBLICA;26/09/2002
+14;6017;;201;;;9;Area funzioni territoriali;1;0;36;SSD - Assistenza Integrativa e Protesica;PUBBLICA;28/07/2004
+15;7921;;201;;;9;Area funzioni territoriali;1;0;36;SC - Residenzialita Anziani e Adulti Disabili;PUBBLICA;26/09/2002
+16;6020;;201;;;9;Area funzioni territoriali;1;0;38;SS - Integrazione Disabili Adulti;PUBBLICA;28/07/2004
+17;7923;;201;;;9;Area funzioni territoriali;1;0;38;SC - UVOS;PUBBLICA;26/09/2002
+18;6025;;201;;;9;Area funzioni territoriali;1;0;40;SC - Recupero e Riabilitazione Funzionale;PUBBLICA;28/07/2004
+19;8419;;201;;;9;Area funzioni territoriali;1;0;40;SC - Psichiatria 1 - 8;PUBBLICA;26/09/2002
+20;8422;;201;;;9;Area funzioni territoriali;1;0;41;SS - Ambulatorio Psichiatrico 1 - 8;PUBBLICA;26/09/2002
+21;6028;;201;;;9;Area funzioni territoriali;1;0;42;SS - Prestazioni Domiciliari;PUBBLICA;28/07/2004
+22;8436;;201;;;9;Area funzioni territoriali;1;0;45;SC - Neuropsichiatria Torino 1 Est;PUBBLICA;26/09/2002
+23;6081;;201;;;9;Area funzioni territoriali;1;0;48;SC - Distretto 3;PUBBLICA;28/07/2004
+24;8452;;201;;;9;Area funzioni territoriali;1;0;49;SC - Psichiatria 9 - 10;PUBBLICA;26/09/2002
+25;6092;;201;;;9;Area funzioni territoriali;1;0;49;SC - Distretto 2 ;PUBBLICA;28/07/2004
+26;8453;;201;;;9;Area funzioni territoriali;1;0;50;SS - Ambulatorio Psichiatrico 9 - 10  Coordinamento Assistenza Formazione;PUBBLICA;26/09/2002
+27;8483;;201;;;9;Area funzioni territoriali;1;0;51;SC - Percorsi di cura, Igiene e Organizzazione dei Poliambulatori;PUBBLICA;26/09/2002
+28;6825;;201;;;9;Area funzioni territoriali;1;0;56;SSD - Vigilanza sulle professioni sanitarie - Guardia Medica;PUBBLICA;28/07/2004
+29;8512;;201;;;9;Area funzioni territoriali;1;0;56;AA - Riabilitazione;PUBBLICA;26/09/2002
+30;6946;;201;;;9;Area funzioni territoriali;1;0;57;SSD - Attivita Ispettiva Farmacie Territoriali;PUBBLICA;28/07/2004
+31;8524;;201;;;9;Area funzioni territoriali;1;0;57;AA - Riabilitazione Distretto 1 - 8;PUBBLICA;26/09/2002
+32;8526;;201;;;9;Area funzioni territoriali;1;0;58;AA - Riabilitazione Distretti 9 - 10;PUBBLICA;26/09/2002
+33;7275;;201;;;9;Area funzioni territoriali;1;0;59;SS - Comitato Zonale;PUBBLICA;28/07/2004
+34;8530;;201;;;9;Area funzioni territoriali;1;0;59;SC - Cure Domiciliari;PUBBLICA;26/09/2002
+35;8535;;201;;;9;Area funzioni territoriali;1;0;62;AA - Consultoriali Familiari;PUBBLICA;26/09/2002
+36;8562;;201;;;9;Area funzioni territoriali;1;0;68;AA - Centro I.S.I.;PUBBLICA;26/09/2002
+37;8564;;201;;;9;Area funzioni territoriali;1;0;69;SC - Assistenza Farmaceutica Territoriale;PUBBLICA;26/09/2002
+38;8567;;201;;;9;Area funzioni territoriali;1;0;71;SC - SER.T Torino 1 Est;PUBBLICA;26/09/2002
+39;8581;;201;;;9;Area funzioni territoriali;1;0;76;SS - Alcoologia Torino 1 Est;PUBBLICA;26/09/2002
+40;8584;;201;;;9;Area funzioni territoriali;1;0;78;AA - Malattie Metaboliche e Diabetolgia - Oftalmico;PUBBLICA;26/09/2002
+41;8585;;201;;;9;Area funzioni territoriali;1;0;79;AA - Malattie Metaboliche e Diabetolgia - Pellico;PUBBLICA;26/09/2002
+42;8636;;201;;;9;Area funzioni territoriali;1;0;80;AA - R.S.A. Via Plava 75;PUBBLICA;26/09/2002
+43;8637;;201;;;9;Area funzioni territoriali;1;0;81;AA - R.S.A. - Hospice  VALLETTA;PUBBLICA;01/07/2004
+44;10202;;201;;;9;Area funzioni territoriali;1;0;84;AA - Cure Palliative;PUBBLICA;01/01/2009
+45;5403;;201;;;9;Area funzioni territoriali;2;0;1;SC - Psichiatria 2;PUBBLICA;28/07/2004
+46;5404;;201;;;9;Area funzioni territoriali;2;0;2;SSD - Centro Salute Mentale Distretto 2;PUBBLICA;28/07/2004
+47;10538;;201;;;9;Area funzioni territoriali;2;0;3;AA - Malattie Metaboliche e Diabetologia - DX 2-3;PUBBLICA;01/11/2009
+48;5416;;201;;;9;Area funzioni territoriali;2;0;7;SS - Area della Semiresidenzialita Riabilitativa;PUBBLICA;28/07/2004
+49;5418;;201;;;9;Area funzioni territoriali;2;0;9;SC - SER.T Torino 1 Ovest;PUBBLICA;28/07/2004
+50;5421;;201;;;9;Area funzioni territoriali;2;0;10;SS - Ambulatori dipendenze 2;PUBBLICA;28/07/2004
+51;5422;;201;;;9;Area funzioni territoriali;2;0;11;SS - Ambulatori dipendenze 3;PUBBLICA;28/07/2004
+52;8484;;201;;;9;Area funzioni territoriali;2;0;12;AA - Specialistica Poliambulatorio  D1 - SanSecondo;PUBBLICA;26/09/2002
+53;8485;;201;;;9;Area funzioni territoriali;2;0;13;AA - Specialistica Poliambulatorio - D8 - Pellico;PUBBLICA;26/09/2002
+54;7776;;201;;;9;Area funzioni territoriali;2;0;13;AA - Psichiatria Distretto 1;PUBBLICA;26/09/2002
+55;8486;;201;;;9;Area funzioni territoriali;2;0;14;AA - Specialistica Poliambulatorio - D9 - Corsica;PUBBLICA;26/09/2002
+56;7781;;201;;;9;Area funzioni territoriali;2;0;14;AA - Psichiatria Distretto 8;PUBBLICA;26/09/2002
+57;8488;;201;;;9;Area funzioni territoriali;2;0;15;AA - Specialistica Poliambulatorio D10 - Valletta;PUBBLICA;26/09/2002
+58;7788;;201;;;9;Area funzioni territoriali;2;0;15;AA - Psichiatria Distretto 10;PUBBLICA;26/09/2002
+59;8523;;201;;;9;Area funzioni territoriali;2;0;16;AA - Libera Professione Territoriale;PUBBLICA;28/12/2004
+60;6062;;201;;;9;Area funzioni territoriali;2;0;17;AA - Specialistica Poliambulatorio - D3 - Monginevro ;PUBBLICA;28/07/2004
+61;6076;;201;;;9;Area funzioni territoriali;2;0;19;AA - Specialistica Poliambulatorio - D2 - Biscarra-Gorizia;PUBBLICA;28/07/2004
+62;6355;;201;;;9;Area funzioni territoriali;2;0;21;Altro - C.A.L. - Boston;PUBBLICA;28/07/2004
+63;5939;;201;;;9;Area funzioni territoriali;2;0;22;SS - Ambulatori nuove dipendenze;PUBBLICA;28/07/2004
+64;5940;;201;;;9;Area funzioni territoriali;2;0;23;AA -  Alcologia Torino 1 Ovest;PUBBLICA;28/07/2004
+65;5972;;201;;;9;Area funzioni territoriali;2;0;24;AA - Consultori Territoriali Pediatrici;PUBBLICA;28/07/2004
+66;9026;;201;;;9;Area funzioni territoriali;2;0;27;SS - Geriatria Territoriale;PUBBLICA;01/01/2006
+67;10214;;201;;;9;Area funzioni territoriali;2;0;29;SC - Psichiatria 3;PUBBLICA;01/01/2009
+68;10215;;201;;;9;Area funzioni territoriali;2;0;30;SSD - SPDC Mauriziano;PUBBLICA;01/01/2009
+69;8423;;201;;;9;Area funzioni territoriali;2;0;42;SSD - Residenzialita  Psichiatrica ;PUBBLICA;26/09/2002
+70;8437;;201;;;9;Area funzioni territoriali;2;0;46;SS - Percorso Cronicita in Eta Evolutiva;PUBBLICA;26/09/2002
+71;6059;;201;;;9;Area funzioni territoriali;2;0;46;SS - Ambulatorio Psichiatrico 3;PUBBLICA;28/07/2004
+72;6061;;201;;;9;Area funzioni territoriali;2;0;47;SS - Ambulatorio Psichiatrico 2;PUBBLICA;28/07/2004
+73;8441;;201;;;9;Area funzioni territoriali;2;0;47;SS - Percorso Crescita;PUBBLICA;26/09/2002
+74;8449;;201;;;9;Area funzioni territoriali;2;0;48;AA - Attivita Psichiatrica Distretto 9;PUBBLICA;26/09/2002
+75;7936;;201;;;9;Area funzioni territoriali;2;0;60;SSD - Consultori  Familiari;PUBBLICA;28/07/2004
+76;8538;;201;;;9;Area funzioni territoriali;2;0;63;AA - Attivita' Consultoriale Distretto 1;PUBBLICA;26/09/2002
+77;8552;;201;;;9;Area funzioni territoriali;2;0;64;AA - Attivita' Consultoriale Distretto 8;PUBBLICA;26/09/2002
+78;8555;;201;;;9;Area funzioni territoriali;2;0;65;AA - Attivita' Consultoriale Distretto 9 - Corsica;PUBBLICA;26/09/2002
+79;8558;;201;;;9;Area funzioni territoriali;2;0;66;AA - Attivita' Consultoriale Distretto 9 - Ventimiglia;PUBBLICA;26/09/2002
+80;8560;;201;;;9;Area funzioni territoriali;2;0;67;AA - Attivita' Consultoriale Distretto 10;PUBBLICA;26/09/2002
+81;8572;;201;;;9;Area funzioni territoriali;2;0;72;SS - Ambulatorio dipendenze 1;PUBBLICA;26/09/2002
+82;8575;;201;;;9;Area funzioni territoriali;2;0;73;SS - Ambulatorio dipendenze 8;PUBBLICA;26/09/2002
+83;8576;;201;;;9;Area funzioni territoriali;2;0;74;SS - Ambulatorio dipendenze 9;PUBBLICA;26/09/2002
+84;8580;;201;;;9;Area funzioni territoriali;2;0;75;SS - Ambulatorio dipendenze 10;PUBBLICA;26/09/2002
+85;6537;;201;;;10;Area funzioni di prevenzione;1;0;1;SC - Igiene e Sanita' Pubblica;PUBBLICA;26/09/2002
+86;6538;;201;;;10;Area funzioni di prevenzione;1;0;2;SC - SPRESAL A;PUBBLICA;26/09/2002
+87;6539;;201;;;10;Area funzioni di prevenzione;1;0;3;SC - Igiene Alimenti e Nutrizione;PUBBLICA;26/09/2002
+88;6540;;201;;;10;Area funzioni di prevenzione;1;0;4;SC - Veterinario area C;PUBBLICA;26/09/2002
+89;6541;;201;;;10;Area funzioni di prevenzione;1;0;5;SSD - Epidemiologia ed Educazione sanitaria;PUBBLICA;26/09/2002
+90;7768;;201;;;10;Area funzioni di prevenzione;1;0;12;SS - Igiene Umana e Profilassi;PUBBLICA;26/09/2002
+91;7864;;201;;;10;Area funzioni di prevenzione;1;0;17;SS - Igiene Edilizia e Urbana;PUBBLICA;26/09/2002
+92;7865;;201;;;10;Area funzioni di prevenzione;1;0;18;SS - Igiene Alimenti e Bevande;PUBBLICA;26/09/2002
+93;8644;;201;;;10;Area funzioni di prevenzione;1;0;19;SS - Farmacovigilanza Veterinaria;PUBBLICA;26/09/2002
+94;7900;;201;;;10;Area funzioni di prevenzione;1;0;20;SS - Medicina del Lavoro;PUBBLICA;26/09/2002
+95;7902;;201;;;10;Area funzioni di prevenzione;1;0;21;SC - SPRESAL B;PUBBLICA;26/09/2002
+96;7904;;201;;;10;Area funzioni di prevenzione;1;0;23;SS - Vigilanza e Controllo Alimenti Zootecnici;PUBBLICA;26/09/2002
+97;7910;;201;;;10;Area funzioni di prevenzione;1;0;26;SS - Vigilanza Benessere Animale;PUBBLICA;26/09/2002
+98;7911;;201;;;10;Area funzioni di prevenzione;1;0;27;SC - Medicina Legale Torino 1 Est;PUBBLICA;26/09/2002
+99;7912;;201;;;10;Area funzioni di prevenzione;1;0;28;SS - Attivita' Medico Legale Distretto 1-2-8;PUBBLICA;26/09/2002
+100;7914;;201;;;10;Area funzioni di prevenzione;1;0;29;SS - Attivita' Medico Legale Distretto  3-9-10;PUBBLICA;26/09/2002
+101;7915;;201;;;10;Area funzioni di prevenzione;1;0;30;SS - Attivita' Obitoriali;PUBBLICA;26/09/2002
+102;7917;;201;;;10;Area funzioni di prevenzione;1;0;32;SS - Commissioni Patenti speciali;PUBBLICA;26/09/2002
+103;8401;;201;;;10;Area funzioni di prevenzione;1;0;39;SS - Igiene della Nutrizione;PUBBLICA;26/02/2002
+104;10064;;201;;;10;Area funzioni di prevenzione;1;0;47;SC - Programmi e Risorse della Prevenzione;PUBBLICA;01/01/2009
+105;6767;;201;;;10;Area funzioni di prevenzione;1;0;51;SC - Medicina Legale Torino 1 Ovest;PUBBLICA;28/07/2004
+106;6770;;201;;;10;Area funzioni di prevenzione;1;0;52;SS - Medicina dello Sport;PUBBLICA;28/07/2004
+107;10065;;201;;;10;Area funzioni di prevenzione;1;0;63;SC - Veterinaria A;PUBBLICA;01/01/2009
+108;10066;;201;;;10;Area funzioni di prevenzione;1;0;64;SC - Veterinaria B;PUBBLICA;01/01/2009
+109;10067;;201;;;10;Area funzioni di prevenzione;1;0;65;SC - Presidio Multizonale Profilassi e Polizia Veterinaria;PUBBLICA;01/01/2009
+110;10068;;201;;;10;Area funzioni di prevenzione;1;0;66;SC - Centro Controllo Malattie;PUBBLICA;01/01/2009
+111;10069;;201;;;10;Area funzioni di prevenzione;1;0;67;SS - Autorizzazioni amministrative;PUBBLICA;01/01/2009
+112;10071;;201;;;10;Area funzioni di prevenzione;1;0;72;SS - Igiene Urbana Veterinaria e Zoonosi;PUBBLICA;01/01/2009
+113;10072;;201;;;10;Area funzioni di prevenzione;1;0;73;SS - Ispezione Veterinaria;PUBBLICA;01/01/2009
+114;10073;;201;;;10;Area funzioni di prevenzione;1;0;74;SS - Vigilanza Veterinaria;PUBBLICA;01/01/2009
+115;10074;;201;;;10;Area funzioni di prevenzione;1;0;75;SS - Audit Veterinario;PUBBLICA;01/01/2009
+116;10075;;201;;;10;Area funzioni di prevenzione;1;0;82;SS - Vigilanza e Gestione Emergenza Sanitaria;PUBBLICA;01/01/2009
+117;10111;;201;;;10;Area funzioni di prevenzione;1;0;83;SS - Sopralluoghi Medico Legali;PUBBLICA;01/01/2009
+118;5908;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;1;SC - Affari Generali ;PUBBLICA;28/07/2004
+119;5909;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;2;SC - Formazione Sviluppo Professionale;PUBBLICA;28/07/2004
+120;6545;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;3;SC - Risorse Multiprofessionali;PUBBLICA;26/09/2002
+121;6557;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;6;SC - Economico Finanziario;PUBBLICA;26/09/2002
+122;6559;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;7;SC - Amministrazione del Personale;PUBBLICA;26/09/2002
+123;6561;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;8;SC - Assistenza Legale;PUBBLICA;26/09/2002
+124;6562;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;9;SC - Logistica;PUBBLICA;26/09/2002
+125;6564;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;10;SC - Tecnico Progetti Integrati A;PUBBLICA;26/09/2002
+126;6566;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;11;SC - Servizio Patrimonio;PUBBLICA;26/09/2002
+127;5844;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;12;SC - Sistema Informatico;PUBBLICA;23/11/2004
+128;5899;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;13;SC - Gestione Approvigionamenti;PUBBLICA;28/07/2004
+129;5901;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;15;SC - Tecnico Progetti Integrati B;PUBBLICA;28/07/2004
+130;7854;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;16;SC - Gestione Attrezzature Sanitarie;PUBBLICA;26/09/2002
+131;5902;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;16;SC - Telecomunicazioni e Impiantistica elettronica;PUBBLICA;28/07/2004
+132;5904;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;17;SS - Gestione del Rischio Assicurativo;PUBBLICA;28/07/2004
+133;10216;;201;;;11;Area funzioni generali e supp tecn/amm;1;0;86;SC - Gestione dei Servizi Amm.vi Ospedalieri e Territoriali;PUBBLICA;01/01/2009
+134;6543;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;2;SC - Controllo di Gestione;PUBBLICA;26/09/2002
+135;5911;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;4;AA - Ufficio Stampa;PUBBLICA;28/07/2004
+136;6546;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;4;AA - Ufficio Servizio Prevenzione e Protezione Torino 1 Est;PUBBLICA;26/09/2002
+137;6555;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;5;SS - Medico Competente Torino 1 Est;PUBBLICA;26/09/2002
+138;5912;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;5;SSD - Programmazione e Organizzazione Sanitaria;PUBBLICA;28/07/2004
+139;6575;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;6;SS - Rischio Infettivo Torino 1 Est;PUBBLICA;26/09/2002
+140;6576;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;7;SSD - Ufficio Qualita';PUBBLICA;26/09/2002
+141;5923;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;8;SC - Prevenzione e Protezione ;PUBBLICA;28/07/2004
+142;5924;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;9;SC - Prevenzione e Rischio Infettivo;PUBBLICA;28/07/2004
+143;5925;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;10;SS - Medico Competente Torino 1 Ovest;PUBBLICA;28/07/2004
+144;5926;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;11;SSD - Gestione Emergenza Interna;PUBBLICA;28/07/2004
+145;5928;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;12;SSD - Accreditamento e risk management;PUBBLICA;28/07/2004
+146;5938;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;13;Collegio Sindacale;PUBBLICA;28/07/2004
+147;8582;;201;;;11;Area funzioni generali e supp tecn/amm;2;0;18;SS - Organizzazione delle Professioni Sanitarie;PUBBLICA;26/09/2002
+148;12842;;202;;;9;Area funzioni territoriali;1;0;3;RSA VIA VALGIOIE;PUBBLICA;01/04/1992
+149;5431;;202;;;9;Area funzioni territoriali;1;0;4;SC Assistenza SanitariaTerritoriale ;PUBBLICA;17/11/2004
+150;5441;;202;;;9;Area funzioni territoriali;1;0;5;SC Geriatria territoriale;PUBBLICA;18/11/2004
+151;5448;;202;;;9;Area funzioni territoriali;1;0;6;SC Cure Domiciliari e Disabilita';PUBBLICA;18/11/2004
+152;5666;;202;;;9;Area funzioni territoriali;1;0;8;SC Direzione Distretto Circ 4;PUBBLICA;01/01/1995
+153;12844;;202;;;9;Area funzioni territoriali;1;0;9;CDA VIA VALGIOIE;PUBBLICA;01/02/2002
+154;10004;;202;;;9;Area funzioni territoriali;1;0;11;SC Psichiatria 1 Residenzialita';PUBBLICA;01/11/2008
+155;6431;;202;;;9;Area funzioni territoriali;1;0;21;SC Direzione Distretto Circ 5;PUBBLICA;01/01/1995
+156;13900;;202;;;9;Area funzioni territoriali;1;0;23;Sosd Case Supportate;PUBBLICA;01/11/2008
+157;6436;;202;;;9;Area funzioni territoriali;1;0;24;Centro di rieducazione per l'eta' evolutiva;PUBBLICA;01/01/1995
+158;8273;;202;;;9;Area funzioni territoriali;1;0;25;SC Direzione Distretto Circ 6;PUBBLICA;04/06/1996
+159;8274;;202;;;9;Area funzioni territoriali;1;0;26;SC Direzione Distretto Circ 7;PUBBLICA;30/06/1996
+160;8277;;202;;;9;Area funzioni territoriali;1;0;27;SoSD Appropriatezza prescrittiva;PUBBLICA;01/01/1998
+161;6952;;202;;;9;Area funzioni territoriali;1;0;27;SC Assistenza farmaceutica territoriale;PUBBLICA;11/06/1999
+162;8279;;202;;;9;Area funzioni territoriali;1;0;28;SC Pneumologia  A territoriale;PUBBLICA;01/01/1939
+163;6985;;202;;;9;Area funzioni territoriali;1;0;28;SoS Settore handicap e  disabilita';PUBBLICA;27/11/2002
+164;8281;;202;;;9;Area funzioni territoriali;1;0;29;SC Pneumologia  B Prevenzione TB;PUBBLICA;01/01/1980
+165;7270;;202;;;9;Area funzioni territoriali;1;0;30;SoSD Cure palliative;PUBBLICA;27/11/2002
+166;10012;;202;;;9;Area funzioni territoriali;1;0;31;SoSD Centri Diurni, Associazionismo e affidi familiari;PUBBLICA;01/10/2008
+167;8284;;202;;;9;Area funzioni territoriali;1;0;32; Psicologia;PUBBLICA;31/01/2001
+168;14088;;202;;;9;Area funzioni territoriali;1;0;34;Somministrazione Metadone co Osp. San Giovanni Bosco;PUBBLICA;01/01/2012
+169;8301;;202;;;9;Area funzioni territoriali;1;0;35;SC Medicina del Lavoro;PUBBLICA;31/07/2001
+170;8540;;202;;;9;Area funzioni territoriali;1;0;37;SoS ospedalizzazione domiciliare;PUBBLICA;01/01/2002
+171;8359;;202;;;9;Area funzioni territoriali;1;0;38;SoS Allergologia  e allergopatie professionali;PUBBLICA;30/07/2001
+172;10230;;202;;;9;Area funzioni territoriali;1;0;59;SoS Attivita' poliamb. territoriali Dist Circ 4;PUBBLICA;01/11/2008
+173;10231;;202;;;9;Area funzioni territoriali;1;0;60;SoS Attivita' poliamb. territoriali Distr Circ 5;PUBBLICA;01/11/2008
+174;10232;;202;;;9;Area funzioni territoriali;1;0;61;SoS Attivita' poliamb.territoriali Distr Circ 6;PUBBLICA;01/11/2008
+175;10233;;202;;;9;Area funzioni territoriali;1;0;62;SoS Attivita' poliamb. territoriali distr Circ 7;PUBBLICA;01/11/2008
+176;5217;;202;;;9;Area funzioni territoriali;2;0;2;Poliambulatorio Territoriale Cavezzale;PUBBLICA;01/01/1992
+177;5551;;202;;;9;Area funzioni territoriali;2;0;3;Poliambulatorio Toscana;PUBBLICA;01/01/1988
+178;5430;;202;;;9;Area funzioni territoriali;2;0;3;Poliambulatorio Territoriale Montanaro;PUBBLICA;17/11/2004
+179;8326;;202;;;9;Area funzioni territoriali;2;0;4;Poliambulatorio Territoriale  Anglesio;PUBBLICA;01/01/1988
+180;8355;;202;;;9;Area funzioni territoriali;2;0;5;Poliambulatorio Territoriale Savona 24;PUBBLICA;01/01/1988
+181;6086;;202;;;9;Area funzioni territoriali;2;0;6;Poliambulatorio Le Chiuse;PUBBLICA;01/01/1988
+182;6090;;202;;;9;Area funzioni territoriali;2;0;7;Poliambulatorio Pacchiotti;PUBBLICA;01/01/1988
+183;6106;;202;;;9;Area funzioni territoriali;2;0;8;Poliambulatorio Del Ridotto;PUBBLICA;01/01/1988
+184;10711;;202;;;9;Area funzioni territoriali;2;0;9;Ambulatorio di agopuntura via degli Abeti;PUBBLICA;13/04/2010
+185;10803;;202;;;9;Area funzioni territoriali;2;0;10;Ambulatorio per i disturbi pervasivi dello sviluppo in eta' adulta;PUBBLICA;01/04/2010
+186;6588;;202;;;9;Area funzioni territoriali;2;0;11;SC Ostetricia-ginecologia-Consultori familiari Pediatria di comunita';PUBBLICA;01/01/1988
+187;13888;;202;;;9;Area funzioni territoriali;2;0;12;Sos Sviluppo-riabilitazione-disabilita';PUBBLICA;01/11/2008
+188;14099;;202;;;9;Area funzioni territoriali;2;0;13;Settore assistenza psichiatrica detenuti;PUBBLICA;01/01/2013
+189;5804;;202;;;9;Area funzioni territoriali;2;0;14;SC Psichiatria 3 circ 5;PUBBLICA;01/01/1995
+190;5929;;202;;;9;Area funzioni territoriali;2;0;15;SC Psichiatria 2 circ 4;PUBBLICA;01/01/1995
+191;6129;;202;;;9;Area funzioni territoriali;2;0;17;Attivita' NPI territoriale;PUBBLICA;01/01/1995
+192;9924;;202;;;9;Area funzioni territoriali;2;0;20;SoS Sert Distretto Circ 4;PUBBLICA;01/11/2008
+193;8053;;202;;;9;Area funzioni territoriali;2;0;21;SC Patologie delle dipendenze 2;PUBBLICA;15/03/1981
+194;9925;;202;;;9;Area funzioni territoriali;2;0;22;SoS Sert Distretto Circ 5;PUBBLICA;01/11/2008
+195;6433;;202;;;9;Area funzioni territoriali;2;0;23;SC Patologie delle Dipendenze 1;PUBBLICA;30/04/1996
+196;9926;;202;;;9;Area funzioni territoriali;2;0;24;SoS Struttura Pronta Assistenza;PUBBLICA;01/11/2008
+197;9927;;202;;;9;Area funzioni territoriali;2;0;25;SC Patologie delle Dipendenze 3;PUBBLICA;01/11/2008
+198;10163;;202;;;9;Area funzioni territoriali;2;0;26;Settore Dipendenze detenuti;PUBBLICA;01/11/2008
+199;14100;;202;;;9;Area funzioni territoriali;2;0;27;Settore assistenza psichiatrica detenuti;PUBBLICA;01/01/2013
+200;8282;;202;;;9;Area funzioni territoriali;2;0;30;SC Psichiatria 4 circ 6;PUBBLICA;01/01/1978
+201;8283;;202;;;9;Area funzioni territoriali;2;0;31;SC Psichiatria 5 circ 7;PUBBLICA;31/07/2001
+202;8297;;202;;;9;Area funzioni territoriali;2;0;34;SoS Alcologia ;PUBBLICA;31/07/2001
+203;10172;;202;;;9;Area funzioni territoriali;2;0;35;SoS Attivita' sanitarie stranieri temporaneamente presenti;PUBBLICA;01/11/2008
+204;10220;;202;;;9;Area funzioni territoriali;2;0;36;Sos Sert circ 7;PUBBLICA;01/11/2008
+205;10476;;202;;;9;Area funzioni territoriali;2;0;37;SC Presidio sanitario per la tutela della salute Lorusso e Cutugno;PUBBLICA;01/01/2009
+206;8541;;202;;;9;Area funzioni territoriali;2;0;44;SC Neuropsichiatria Infantile 2;PUBBLICA;01/01/1988
+207;8578;;202;;;9;Area funzioni territoriali;2;0;52;SoSD  Area Comunitaria ;PUBBLICA;31/07/2001
+208;13896;;202;;;10;Area funzioni di prevenzione;1;0;1;Sos attivit obitoriale;PUBBLICA;01/11/2008
+209;5412;;202;;;10;Area funzioni di prevenzione;1;0;3;SC Medicina Legale Territoriale e della sicurezza sociale;PUBBLICA;31/07/2001
+210;6142;;202;;;10;Area funzioni di prevenzione;1;0;18;SC Prevenzione rischio infettivo;PUBBLICA;09/03/2001
+211;6948;;202;;;10;Area funzioni di prevenzione;1;0;26;SC Medicina legale consulenziale;PUBBLICA;01/01/1995
+212;5637;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;3;SC Gestione economica finanziaria;PUBBLICA;01/01/1995
+213;5644;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;4;SoSD Attivita' ispettiva controllo e contenzioso del lavoro;PUBBLICA;05/11/2003
+214;5646;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;5;SC Patrimoniale e Rilevazioni contabili ;PUBBLICA;05/11/2003
+215;5648;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;6;SoS  Legale e contenzioso;PUBBLICA;01/01/1995
+216;13895;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;7;Sos  Rapporti con strutture accreditate;PUBBLICA;01/11/2008
+217;7813;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;33;SC Tecnico progetti integrali area ovest;PUBBLICA;07/10/1998
+218;7814;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;34;SoSD Manutenzione, edilizia e impianti;PUBBLICA;14/12/2001
+219;7822;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;35;SC Economato;PUBBLICA;12/04/1999
+220;8059;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;36;SC  Ingegneria clinica area ovest;PUBBLICA;17/12/2004
+221;10047;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;44;Direzione Tecnica Area Est;PUBBLICA;01/11/2008
+222;8551;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;46;SC Amministrazione del Personale;PUBBLICA;31/07/2001
+223;8557;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;50;SC  Provveditorato;PUBBLICA;31/07/2001
+224;8559;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;51;SC Tecnico progetti integrali area est;PUBBLICA;31/07/2001
+225;10048;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;52;Direzione Tecnica Area Ovest;PUBBLICA;01/11/2008
+226;10124;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;56;SoS Tutele;PUBBLICA;01/11/2008
+227;10164;;202;;;11;Area funzioni generali e supp tecn/amm;1;0;57;SC Personale convenzionato e altre forme di lavoro atipico;PUBBLICA;01/11/2008
+228;14171;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;1;DIREZIONE GENERALE;PUBBLICA;22/08/2013
+229;5619;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;4;SC Relazioni esterne;PUBBLICA;30/04/1996
+230;5638;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;5;SC Affari generali;PUBBLICA;01/01/1995
+231;8561;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;6;SoSD Programmazione e sviluppo organizzativo;PUBBLICA;31/07/2001
+232;8565;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;8;SC Organizzazione e politiche del personale;PUBBLICA;31/07/2001
+233;8568;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;9;SC ICT;PUBBLICA;31/07/2001
+234;6131;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;9;SC Sistema informativo;PUBBLICA;30/04/1996
+235;6134;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;10;SC Controllo di gestione;PUBBLICA;30/04/1996
+236;8569;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;10;SoSD Medico competente SGB, Circ 6 e 7;PUBBLICA;31/07/2001
+237;8570;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;11;SoSDServizio Infermieristico,Ostetrico,Tecnico Sanitario e della Riabilitazione;PUBBLICA;31/07/2001
+238;6135;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;11;SoSD Qualita' e Accreditamento;PUBBLICA;27/11/2002
+239;8571;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;12;SoSD  Libera Professione;PUBBLICA;31/07/2001
+240;6138;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;13;SC Prevenzione e protezione  - compreso Hopital du Piemont;PUBBLICA;14/12/2001
+241;6139;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;14;SoSD Medico competente OMV, OAS, Circ 4 e 5;PUBBLICA;14/12/2001
+242;10165;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;27;SC Ingegneria clinica area est;PUBBLICA;01/11/2008
+243;10168;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;28;SC Promozione della salute;PUBBLICA;01/11/2008
+244;10169;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;29;SoS Ricerche statistiche ed epidemiologiche;PUBBLICA;01/11/2008
+245;10170;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;32;SoS Umanizzazione dei percorsi assistenziali;PUBBLICA;01/11/2008
+246;10171;;202;;;11;Area funzioni generali e supp tecn/amm;2;0;33;SoSD sistema qualita' e gestione del rischio;PUBBLICA;01/11/2008
+247;8385;;203;;;9;Area funzioni territoriali;1;0;1;Distretto Collegno -attivita' distrettuale;PUBBLICA;01/01/1995
+248;8387;;203;;;9;Area funzioni territoriali;1;0;2;Distretto Rivoli -attivita' distrettuale;PUBBLICA;01/01/1995
+249;8474;;203;;;9;Area funzioni territoriali;1;0;3;Distretto Orbassano -attivita' distrettuale;PUBBLICA;01/01/1995
+250;8392;;203;;;9;Area funzioni territoriali;1;0;4;Distretto Giaveno -attivita' distrettuale;PUBBLICA;01/01/1995
+251;8335;;203;;;9;Area funzioni territoriali;1;0;5;Distretto Susa -attivita' distrettuale;PUBBLICA;01/01/1995
+252;9638;;203;;;9;Area funzioni territoriali;1;0;6;Distretto Venaria -attivita' distrettuale;PUBBLICA;04/11/2008
+253;9728;;203;;;9;Area funzioni territoriali;1;0;7;Distretto Pinerolo -attivita' distrettuale;PUBBLICA;01/01/2009
+254;9729;;203;;;9;Area funzioni territoriali;1;0;8;Distretto Val Pellice -attivita' distrettuale;PUBBLICA;01/01/2009
+255;9730;;203;;;9;Area funzioni territoriali;1;0;9;Distretto Val Chisone -attivita' distrettuale;PUBBLICA;01/01/2009
+256;5329;;203;;;9;Area funzioni territoriali;1;0;10;S.C. Attivita' e progetti integrati socio-sanitari;PUBBLICA;16/11/2004
+257;4427;;203;;;9;Area funzioni territoriali;1;0;11;S.S. Residenzialita' per anziani ;PUBBLICA;29/03/2001
+258;6801;;203;;;9;Area funzioni territoriali;1;0;12;RSA  Girasole;PUBBLICA;02/11/2004
+259;4426;;203;;;9;Area funzioni territoriali;1;0;13;S.C. Servizio Territoriale di Continuita' delle cure;PUBBLICA;01/01/1995
+260;9732;;203;;;9;Area funzioni territoriali;1;0;14;S.S. Cure Domiciliari - Sede Pinerolo;PUBBLICA;01/01/2009
+261;9733;;203;;;9;Area funzioni territoriali;1;0;15;S.S. Cure Domiciliari - Sede Collegno;PUBBLICA;01/01/2009
+262;5521;;203;;;9;Area funzioni territoriali;1;0;17;S.S. Cure palliative;PUBBLICA;02/11/2004
+263;4439;;203;;;9;Area funzioni territoriali;1;0;18;S.C. Vigilanza e Controllo Farmaceutico;PUBBLICA;01/01/1995
+264;10144;;203;;;9;Area funzioni territoriali;1;0;20;S.C. Psichiatria Area Rivoli Giaveno Venaria Susa;PUBBLICA;01/01/2009
+265;10137;;203;;;9;Area funzioni territoriali;1;0;21;S.C. Psichiatria Area Collegno Orbassano;PUBBLICA;01/01/2009
+266;10150;;203;;;9;Area funzioni territoriali;1;0;23;S.C. Psichiatria Area Pinerolo, Val Pellice, Val Chisone e Germanasca;PUBBLICA;01/01/2009
+267;10151;;203;;;9;Area funzioni territoriali;1;0;24;S.C. Ser.T. Dora Riparia;PUBBLICA;01/01/2009
+268;10153;;203;;;9;Area funzioni territoriali;1;0;25;S.C. Ser.T. Sangone;PUBBLICA;01/01/2009
+269;10152;;203;;;9;Area funzioni territoriali;1;0;26;S.C. Ser.T. Pinerolo;PUBBLICA;01/01/2009
+270;4435;;203;;;9;Area funzioni territoriali;1;0;28;S.C. Psicologia;PUBBLICA;29/03/2001
+271;4878;;203;;;9;Area funzioni territoriali;1;0;30;S.C. Neuropsichiatria Infantile;PUBBLICA;02/11/2004
+272;4409;;203;;;9;Area funzioni territoriali;1;0;31;S.C. Recupero Riabilitazione Funzionale Area Val Susa;PUBBLICA;01/01/1995
+273;5851;;203;;;9;Area funzioni territoriali;1;0;34;Emergenza 118-area ex 10;PUBBLICA;02/11/2004
+274;8490;;203;;;9;Area funzioni territoriali;1;0;35;Emergenza Territoriale 118-area ex 5;PUBBLICA;01/01/1995
+275;8942;;203;;;9;Area funzioni territoriali;1;0;36;Altro - Tutela attivita' sportive e Dip Prevenzione - attivita' clinica;PUBBLICA;01/03/1999
+276;13612;;203;;;9;Area funzioni territoriali;1;0;37;S.S. Assistenza Integrativa e Protesica;PUBBLICA;21/04/2011
+277;6517;;203;;;9;Area funzioni territoriali;2;0;2;Distretto Collegno -Poliambulatori Territoriali;PUBBLICA;01/01/1995
+278;4852;;203;;;9;Area funzioni territoriali;2;0;3;Distretto Rivoli -Poliambulatori Territoriali;PUBBLICA;01/01/1988
+279;6620;;203;;;9;Area funzioni territoriali;2;0;5;Distretto Orbassano -Poliambulatori Territoriali;PUBBLICA;01/01/1981
+280;10656;;203;;;9;Area funzioni territoriali;2;0;6;Distretto Giaveno - Poliambulatori Territoriali;PUBBLICA;01/01/2010
+281;8333;;203;;;9;Area funzioni territoriali;2;0;7;Distretto Susa -Poliambulatori Territoriali;PUBBLICA;01/01/1988
+282;9806;;203;;;9;Area funzioni territoriali;2;0;8;Distretto Venaria -Poliambulatori Territoriali;PUBBLICA;01/01/2009
+283;5376;;203;;;9;Area funzioni territoriali;2;0;9;Distretto Pinerolo -Poliambulatorio Territoriale;PUBBLICA;17/11/2004
+284;5575;;203;;;9;Area funzioni territoriali;2;0;10;Distretto Val Pellice -Poliambulatorio Territoriale;PUBBLICA;02/11/2004
+285;5377;;203;;;9;Area funzioni territoriali;2;0;11;Distretto Val Chisone -Poliambulatorio Territoriale;PUBBLICA;17/11/2004
+286;4437;;203;;;9;Area funzioni territoriali;2;0;12;S.C. Psichiatria Area Rivoli Giaveno Venaria Susa-attivita' clinica;PUBBLICA;29/03/2001
+287;4438;;203;;;9;Area funzioni territoriali;2;0;13;S.C. Psichiatria Area Collegno Orbassano - attivita' clinica;PUBBLICA;29/03/2001
+288;6007;;203;;;9;Area funzioni territoriali;2;0;15;S.C. Psichiatria Area Pinerolo, Val Pellice e Valli Chisone-attivita' clinica;PUBBLICA;02/11/2004
+289;2029;;203;;;9;Area funzioni territoriali;2;0;16;S.C. Ser.T. Dora Riparia - attivita' clinica;PUBBLICA;01/01/1995
+290;2119;;203;;;9;Area funzioni territoriali;2;0;18;S.C. Ser.T. Sangone - attivita' clinica;PUBBLICA;01/01/1995
+291;6047;;203;;;9;Area funzioni territoriali;2;0;19;S.C. Ser.T. Pinerolo - attivita' clinica;PUBBLICA;02/11/2004
+292;4418;;203;;;9;Area funzioni territoriali;2;0;20;S.S. Attivita' consultoriali;PUBBLICA;29/03/2001
+293;9456;;203;;;9;Area funzioni territoriali;3;0;1;Altro - Attivita' clinica Medicina Legale;PUBBLICA;01/01/1995
+294;9909;;203;;;10;Area funzioni di prevenzione;1;0;1;S.S. Infezioni in ambiente sanitario;PUBBLICA;01/01/2009
+295;5306;;203;;;10;Area funzioni di prevenzione;1;0;2;S.S. Tutela attivita' sportive e Promozione attivita' motorie;PUBBLICA;01/03/1999
+296;8513;;203;;;10;Area funzioni di prevenzione;1;0;3;S.S. Prevenzione attiva -ex UVOS Prevenzione Serena;PUBBLICA;01/01/1999
+297;5006;;203;;;10;Area funzioni di prevenzione;1;0;4;S.C.D.U. Servizio Sovrazonale di Epidemiologia;PUBBLICA;01/01/1999
+298;13921;;203;;;10;Area funzioni di prevenzione;1;0;5;S.S. Osservatorio delle Dipendenze;PUBBLICA;01/11/2010
+299;13922;;203;;;10;Area funzioni di prevenzione;1;0;6;S.S. Osservatorio rischi da lavoro;PUBBLICA;01/11/2010
+300;13557;;203;;;10;Area funzioni di prevenzione;1;0;11;S.C. DoRS;PUBBLICA;01/01/2011
+301;13573;;203;;;10;Area funzioni di prevenzione;1;0;12;S.S. Senologia;PUBBLICA;01/04/2009
+302;10512;;203;;;10;Area funzioni di prevenzione;1;0;13;S.C. Epidemiosorveglianza e Servizio sovrazonale veterinario;PUBBLICA;01/08/2009
+303;4425;;203;;;10;Area funzioni di prevenzione;1;0;14;S.S. Anagrafe Zootecnica;PUBBLICA;28/11/2002
+304;5064;;203;;;10;Area funzioni di prevenzione;1;0;15;S.S. Nucleo Interarea di Vigilanza Veterinaria NIVV;PUBBLICA;02/11/2004
+305;4422;;203;;;10;Area funzioni di prevenzione;1;0;16;S.C. Sanita' Animale;PUBBLICA;01/01/1995
+306;5062;;203;;;10;Area funzioni di prevenzione;1;0;17;S.C. Igiene della Produzione Alimenti origine Animale;PUBBLICA;02/11/2004
+307;13559;;203;;;10;Area funzioni di prevenzione;1;0;19;S.S. Controllo Ufficiale settore commercializz alimenti OA;PUBBLICA;01/11/2010
+308;5063;;203;;;10;Area funzioni di prevenzione;1;0;20;S.C. Igiene degli Allevamenti;PUBBLICA;02/11/2004
+309;4424;;203;;;10;Area funzioni di prevenzione;1;0;21;S.C. Igiene Urbana Veterinaria;PUBBLICA;01/01/1995
+310;4419;;203;;;10;Area funzioni di prevenzione;1;0;26;S.C. Servizio Igiene e Sanita' Pubblica SISP;PUBBLICA;01/01/1995
+311;9910;;203;;;10;Area funzioni di prevenzione;1;0;27;S.S. Controllo Malattie Infettive e vaccinazioni;PUBBLICA;01/01/2009
+312;4421;;203;;;10;Area funzioni di prevenzione;1;0;28;S.C. Servizio Igiene degli Alimenti e della Nutrizione-SIAN;PUBBLICA;01/01/1995
+313;10527;;203;;;10;Area funzioni di prevenzione;1;0;29;S.S. Sorveglianza e Prevenzione nutrizionale;PUBBLICA;01/10/2009
+314;4420;;203;;;10;Area funzioni di prevenzione;1;0;30;S.C. Servizio Prevenzione e Sicurezza Ambienti di Lavoro;PUBBLICA;01/01/1995
+315;10624;;203;;;10;Area funzioni di prevenzione;1;0;31;S.S. Monitoraggio e Valutazione Malattie Professionali;PUBBLICA;01/02/2010
+316;13558;;203;;;10;Area funzioni di prevenzione;1;0;32;S.S. Supporto Amministrativo;PUBBLICA;01/11/2010
+317;5302;;203;;;10;Area funzioni di prevenzione;1;0;33;S.C. Medicina Legale;PUBBLICA;01/01/1995
+318;9964;;203;;;10;Area funzioni di prevenzione;1;0;34;S.S. Gestione Medico Legale del contenzioso sanitario;PUBBLICA;01/01/2009
+319;13880;;203;;;10;Area funzioni di prevenzione;1;0;36;S.S. Commissione Medica Locale - Patenti Speciali;PUBBLICA;01/10/2011
+320;13882;;203;;;10;Area funzioni di prevenzione;16;0;1;Dipartimento di Prevenzione;PUBBLICA;25/08/2008
+321;5881;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;13;S.C. Tecnico;PUBBLICA;02/11/2004
+322;12511;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;14;S.S. Energetica, Impianti Elettrici e Telecomunicazioni;PUBBLICA;01/07/2010
+323;12512;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;15;S.S. Impianti Meccanici;PUBBLICA;01/07/2010
+324;12513;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;16;S.S. Tecnico Edile, Grandi Opere e Manutenzione;PUBBLICA;01/07/2010
+325;5884;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;17;S.C. Ingegneria Clinica;PUBBLICA;02/11/2004
+326;5880;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;18;S.C. Affari Generali;PUBBLICA;02/11/2004
+327;4447;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;19;S.C. Legale;PUBBLICA;01/01/1995
+328;5866;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;21;S.C. Economato e Logistica;PUBBLICA;02/11/2004
+329;4448;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;22;S.C. Provveditorato;PUBBLICA;01/01/1995
+330;4451;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;23;S.C. Patrimoniale;PUBBLICA;01/01/1995
+331;5371;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;24;S.C. Sistema Informatico;PUBBLICA;16/11/2004
+332;5857;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;25;S.S. Gestione del patrimonio Informatico;PUBBLICA;02/11/2004
+333;5877;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;30;S.C. Personale Dipendente;PUBBLICA;02/11/2004
+334;4445;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;31;S.C. Personale Convenzionato e a rapporto libero professionale;PUBBLICA;01/01/1995
+335;4446;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;35;S.C. Economico Finanziario;PUBBLICA;01/01/1995
+336;9836;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;39;S.S. Servizio sovrazonale Farmaceutico per l'Emergenza;PUBBLICA;01/01/2009
+337;2028;;203;;;11;Area funzioni generali e supp tecn/amm;1;0;40;S.C. Settore Farmaceutico;PUBBLICA;01/01/1995
+338;5316;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;2;S.S. Controllo Interno e organi collegiali;PUBBLICA;16/11/2004
+339;4441;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;3;S.C. Prevenzione Protezione e Sicurezza;PUBBLICA;01/01/1995
+340;5299;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;7;S.C. Comunicazione e Relazioni Esterne;PUBBLICA;16/11/2004
+341;5853;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;8;S.C. Servizio Infermieristico Tecnico e Riabilitativo;PUBBLICA;02/11/2004
+342;9738;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;9;S.S. Medico Competente;PUBBLICA;01/01/2009
+343;4452;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;10;S.C. Pianificazione, Qualita' e gestione del rischio clinico delle attivita' sanitarie;PUBBLICA;29/03/2001
+344;5310;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;11;S.S. Qualita' e Accreditamento;PUBBLICA;16/11/2004
+345;12415;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;12;S.C. Informazione e Addestramento per la Sicurezza;PUBBLICA;01/06/2010
+346;14183;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;13;SEDE LEGALE AZIENDA - ASL TO3;PUBBLICA;01/01/2008
+347;5300;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;26;S.C. Organizzazione Sviluppo Risorse Umane;PUBBLICA;16/11/2004
+348;5304;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;27;S.C. Programmazione e Controllo di gestione;PUBBLICA;16/11/2004
+349;5307;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;33;S.C. Ricerca e Formazione;PUBBLICA;16/11/2004
+350;5309;;203;;;11;Area funzioni generali e supp tecn/amm;2;0;34;S.S. Progetti di promozione della salute;PUBBLICA;16/11/2004
+351;14018;;204;;;9;Area funzioni territoriali;1;0;3;S.S.D. Assistenza Integrativa e Protesica;PUBBLICA;05/10/2012
+352;5514;;204;;;9;Area funzioni territoriali;1;0;8;S.S Farmacia Territoriale Cirie';PUBBLICA;31/12/2003
+353;4970;;204;;;9;Area funzioni territoriali;1;0;12;S.C. Distretto  Settimo Torinese;PUBBLICA;04/11/2004
+354;4971;;204;;;9;Area funzioni territoriali;1;0;13;S.C. Distretto  Chivasso - San Mauro;PUBBLICA;04/11/2004
+355;4972;;204;;;9;Area funzioni territoriali;1;0;14;S.S. Area territoriale San Mauro;PUBBLICA;04/11/2004
+356;8939;;204;;;9;Area funzioni territoriali;1;0;15;S.S. Cure Domiciliari Cirie;PUBBLICA;01/06/2005
+357;4973;;204;;;9;Area funzioni territoriali;1;0;15;S.C. Farmacia Territoriale;PUBBLICA;04/11/2004
+358;6180;;204;;;9;Area funzioni territoriali;1;0;17;S.C. Distretto  Cirie';PUBBLICA;31/12/2003
+359;4977;;204;;;9;Area funzioni territoriali;1;0;19;S.C. C.S.M. B Chivasso-Settimo-San Mauro ;PUBBLICA;04/11/2004
+360;4911;;204;;;9;Area funzioni territoriali;1;0;22;S.S.Farmacia Territoriale Ivrea;PUBBLICA;01/01/1998
+361;8630;;204;;;9;Area funzioni territoriali;1;0;27;Cure palliative A;PUBBLICA;01/01/2005
+362;7052;;204;;;9;Area funzioni territoriali;1;0;28;S.S.Cure Domiciliari Ivrea - Cuorgne';PUBBLICA;06/12/2004
+363;8054;;204;;;9;Area funzioni territoriali;1;0;32;S.C. A.S.T.;PUBBLICA;20/12/2004
+364;9692;;204;;;9;Area funzioni territoriali;1;0;38;Cure Domiciliari 6;PUBBLICA;12/11/2008
+365;9693;;204;;;9;Area funzioni territoriali;1;0;39;S.S. Cure Domiciliari Chivasso;PUBBLICA;22/10/2008
+366;9694;;204;;;9;Area funzioni territoriali;1;0;40;S.S. Cure Domiciliari Settimo Torinese;PUBBLICA;12/11/2008
+367;9695;;204;;;9;Area funzioni territoriali;1;0;41;S.S. Cure Domiciliari San Mauro;PUBBLICA;22/10/2008
+368;9701;;204;;;9;Area funzioni territoriali;1;0;42;S.S Commissione di Vigilanza;PUBBLICA;22/10/2008
+369;9715;;204;;;9;Area funzioni territoriali;1;0;43;S.C. S.A.T. ;PUBBLICA;22/10/2008
+370;9731;;204;;;9;Area funzioni territoriali;1;0;44;S.C. Distretto  Ivrea;PUBBLICA;22/10/2008
+371;9734;;204;;;9;Area funzioni territoriali;1;0;45;S.C. Distretto  Cuorgne';PUBBLICA;22/10/2008
+372;9785;;204;;;9;Area funzioni territoriali;1;0;46;S.S.D. U.O.C.P. Cirie' di coordinamento;PUBBLICA;22/10/2008
+373;9786;;204;;;9;Area funzioni territoriali;1;0;47;S.S.D. U.O.C.P. Ivrea;PUBBLICA;22/10/2008
+374;9954;;204;;;9;Area funzioni territoriali;2;0;1;S.C. C.S.M. Cirie'-Ivrea-Cuorgne';PUBBLICA;22/10/2008
+375;5400;;204;;;9;Area funzioni territoriali;2;0;2;S.C. Ser.T  A ;PUBBLICA;31/12/2003
+376;5406;;204;;;9;Area funzioni territoriali;2;0;3;S.S. C.S.M. Distretto  Cirie';PUBBLICA;31/12/2003
+377;7297;;204;;;9;Area funzioni territoriali;2;0;5;Poliambulatori Territoriali Cirie';PUBBLICA;31/12/2003
+378;5225;;204;;;9;Area funzioni territoriali;2;0;7;Poliambulatori Territoriali Ivrea;PUBBLICA;15/11/2004
+379;6618;;204;;;9;Area funzioni territoriali;2;0;9;ALTRO - Poliambulatorio Territoriale Cuorgne';PUBBLICA;01/12/2004
+380;8412;;204;;;9;Area funzioni territoriali;2;0;10;Poliambulatori Territoriali Chivasso;PUBBLICA;27/12/2004
+381;13837;;204;;;9;Area funzioni territoriali;2;0;11;Poliambulatorio Territoriale A;PUBBLICA;27/03/2012
+382;13838;;204;;;9;Area funzioni territoriali;2;0;12;Poliambulatorio Territoriale A;PUBBLICA;28/03/2012
+383;13839;;204;;;9;Area funzioni territoriali;2;0;13;Poliambulatorio Territoriale A;PUBBLICA;28/03/2012
+384;5778;;204;;;9;Area funzioni territoriali;2;0;16;S.S.D. Consultori ;PUBBLICA;31/12/2003
+385;4974;;204;;;9;Area funzioni territoriali;2;0;16;S.S. Alcoologia B;PUBBLICA;04/11/2004
+386;4975;;204;;;9;Area funzioni territoriali;2;0;17;S.C. Ser.T. B ;PUBBLICA;04/11/2004
+387;4976;;204;;;9;Area funzioni territoriali;2;0;18;S.S. Ser.T. Distretto Settimo - Distretto San Mauro;PUBBLICA;04/11/2004
+388;4906;;204;;;9;Area funzioni territoriali;2;0;20;S.C. Ser.T  C ;PUBBLICA;01/01/1999
+389;5645;;204;;;9;Area funzioni territoriali;2;0;22;S.S. C.S.M. Distretto  Settimo Torinese;PUBBLICA;22/11/2004
+390;5647;;204;;;9;Area funzioni territoriali;2;0;23;S.S. C.S.M. Distretto  Chivasso;PUBBLICA;22/11/2004
+391;5680;;204;;;9;Area funzioni territoriali;2;0;24;S.S. Residenzialita';PUBBLICA;22/11/2004
+392;4988;;204;;;9;Area funzioni territoriali;2;0;25;S.S. C.S.M. Distretto  Ivrea;PUBBLICA;05/11/2004
+393;5681;;204;;;9;Area funzioni territoriali;2;0;25;S.S.D Unita' di Psicoterapia;PUBBLICA;22/11/2004
+394;4989;;204;;;9;Area funzioni territoriali;2;0;26;S.S. C.S.M. Distretto  Cuorgne';PUBBLICA;01/01/1999
+395;9955;;204;;;9;Area funzioni territoriali;2;0;30;S.S. Attivita' di tutela ispettiva e di verifica qualita';PUBBLICA;22/10/2008
+396;10238;;204;;;9;Area funzioni territoriali;2;0;32;Consultori Chivasso;PUBBLICA;22/10/2008
+397;9681;;204;;;9;Area funzioni territoriali;2;0;33;S.S Penitenziaria C;PUBBLICA;21/10/2008
+398;9782;;204;;;9;Area funzioni territoriali;2;0;34;S.S. Alcoologia A ;PUBBLICA;22/10/2008
+399;9787;;204;;;9;Area funzioni territoriali;2;0;35;S.S Ser.T Distretto Ivrea - Distretto Cuorgne';PUBBLICA;22/10/2008
+400;9788;;204;;;9;Area funzioni territoriali;2;0;36;S.S. Alcoologia C ;PUBBLICA;22/10/2008
+401;10239;;204;;;9;Area funzioni territoriali;2;0;37;Consultori Ivrea;PUBBLICA;22/10/2008
+402;9322;;204;;;9;Area funzioni territoriali;3;0;1;ALTRO - HOSPICE - Villa Sclopis;PUBBLICA;27/01/2007
+403;9783;;204;;;9;Area funzioni territoriali;3;0;3;S.S.D.Assistenza Primaria;PUBBLICA;22/10/2008
+404;9784;;204;;;9;Area funzioni territoriali;3;0;4;S.S.D. U.O.C.P. Chivasso;PUBBLICA;22/10/2008
+405;4928;;204;;;10;Area funzioni di prevenzione;1;0;1;S.S. S.I.S.P. Chivasso;PUBBLICA;04/11/2004
+406;4868;;204;;;10;Area funzioni di prevenzione;1;0;1;S.C. S.I.A.N. Ivrea;PUBBLICA;01/01/1998
+407;4929;;204;;;10;Area funzioni di prevenzione;1;0;2;S.S.D. S.P.R.E.S.A.L. Chivasso;PUBBLICA;04/11/2004
+408;4930;;204;;;10;Area funzioni di prevenzione;1;0;3;S.S. Sorveglianza e Prevenzione Nutrizionale;PUBBLICA;04/11/2004
+409;5466;;204;;;10;Area funzioni di prevenzione;1;0;4;S.S. S.I.S.P. Cirie';PUBBLICA;31/12/2003
+410;4931;;204;;;10;Area funzioni di prevenzione;1;0;4;S.S. Servizio Veterinario Area A Chivasso;PUBBLICA;04/11/2004
+411;4886;;204;;;10;Area funzioni di prevenzione;1;0;5;S.C. S.I.S.P.;PUBBLICA;01/01/1999
+412;5468;;204;;;10;Area funzioni di prevenzione;1;0;5;S.S. S.I.A.N. Cirie';PUBBLICA;31/12/2003
+413;4932;;204;;;10;Area funzioni di prevenzione;1;0;5;S.S. Servizio Veterinario Area B Chivasso;PUBBLICA;04/11/2004
+414;4887;;204;;;10;Area funzioni di prevenzione;1;0;6;S.C. S.P.R.E.S.A.L.;PUBBLICA;01/01/1998
+415;4933;;204;;;10;Area funzioni di prevenzione;1;0;6;S.S.Servizio Veterinario Area C Chivasso;PUBBLICA;04/11/2004
+416;5469;;204;;;10;Area funzioni di prevenzione;1;0;6;S.S. S.PRE.S.A.L. Cirie';PUBBLICA;23/12/2003
+417;4888;;204;;;10;Area funzioni di prevenzione;1;0;7;Servizio veterinario area A di coordinamento Ivrea;PUBBLICA;01/01/1998
+418;4889;;204;;;10;Area funzioni di prevenzione;1;0;8;S.C. Servizio Veterinario Area B Ivrea;PUBBLICA;01/01/1998
+419;4890;;204;;;10;Area funzioni di prevenzione;1;0;9;S.C. Servizio Veterinario Area C ;PUBBLICA;01/01/1998
+420;5532;;204;;;10;Area funzioni di prevenzione;1;0;9;S.S. Medicina legale Cirie;PUBBLICA;31/12/2003
+421;14020;;204;;;10;Area funzioni di prevenzione;1;0;10;S.S.D. Unità di Organizzazione e Valutazione Screening;PUBBLICA;05/10/2012
+422;14034;;204;;;10;Area funzioni di prevenzione;1;0;11;S.C. Direzione Integrata della Prevenzione ;PUBBLICA;05/10/2012
+423;4967;;204;;;10;Area funzioni di prevenzione;1;0;24;S.S.D. N.I.V. Chivasso;PUBBLICA;04/11/1998
+424;8121;;204;;;10;Area funzioni di prevenzione;1;0;24;S.C. Servizio Veterinario Area A ;PUBBLICA;23/12/2003
+425;8122;;204;;;10;Area funzioni di prevenzione;1;0;25;S.C. Servizio Veterinario Area B Cirie' di coordinamento;PUBBLICA;31/12/2003
+426;5683;;204;;;10;Area funzioni di prevenzione;1;0;26;S.C. S.I.A.N. Chivasso di coordinamento;PUBBLICA;22/11/2004
+427;8124;;204;;;10;Area funzioni di prevenzione;1;0;26;Servizio Veterinario Area C di coordinamento;PUBBLICA;31/12/2003
+428;5685;;204;;;10;Area funzioni di prevenzione;1;0;27;S.S. Sorveglianza malattie infettive e vaccinazioni;PUBBLICA;22/11/2004
+429;5688;;204;;;10;Area funzioni di prevenzione;1;0;28;S.S.D. N.I.V.  Ivrea di coordinamento;PUBBLICA;22/11/2004
+430;8047;;204;;;10;Area funzioni di prevenzione;1;0;30;S.C. Medicina Legale;PUBBLICA;20/12/2004
+431;8049;;204;;;10;Area funzioni di prevenzione;1;0;31;S.S.D. Medicina Sportiva;PUBBLICA;20/12/2004
+432;7697;;204;;;10;Area funzioni di prevenzione;1;0;32;S.S.Medicina Legale Ivrea;PUBBLICA;15/12/2004
+433;7699;;204;;;10;Area funzioni di prevenzione;1;0;33;S.S. Anagrafe Veterinaria;PUBBLICA;15/12/2004
+434;8502;;204;;;10;Area funzioni di prevenzione;1;0;34;S.S.D. Epidemiologia;PUBBLICA;28/12/2004
+435;9790;;204;;;10;Area funzioni di prevenzione;1;0;48;S.S.D. Promozione della Salute;PUBBLICA;22/10/2008
+436;4935;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;1;S.C. Affari Generali;PUBBLICA;04/11/2004
+437;14046;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;2;Ufficio Logistica;PUBBLICA;30/10/2012
+438;4937;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;3;S.C. Sistemi Informativi;PUBBLICA;04/11/2004
+439;4939;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;4;S.C. Formazione;PUBBLICA;04/11/2004
+440;14047;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Ufficio convenzioni residenzialita;PUBBLICA;30/10/2012
+441;4950;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;7;S.C. Amministrazione del Personale;PUBBLICA;04/11/2004
+442;4951;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;8;S.C. Economico-Finanziario;PUBBLICA;04/11/2004
+443;4953;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;9;S.C. Legale ;PUBBLICA;04/11/2004
+444;4954;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;10;S.C. Economato ;PUBBLICA;04/11/2004
+445;4955;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;11;S.C. Servizio Tecnico;PUBBLICA;04/11/2004
+446;4979;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;21;S.C. Patrimoniale;PUBBLICA;04/11/2004
+447;9673;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;30;S.S. Gestione normativa e contenzioso personale dipendente;PUBBLICA;22/10/2008
+448;9674;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;31;S.S. Laurea infermieristica;PUBBLICA;22/10/2008
+449;9675;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;32;S.C. O.S.R.U.;PUBBLICA;22/10/2008
+450;9676;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;35;Ingegneria clinica;PUBBLICA;22/10/2008
+451;9677;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;36;S.C. Provveditorato;PUBBLICA;22/10/2008
+452;9678;;204;;;11;Area funzioni generali e supp tecn/amm;1;0;37;S.S.D. Attrezzature sanitarie;PUBBLICA;22/10/2008
+453;14170;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;1;Segreteria Direzione Generale;PUBBLICA;21/08/2013
+454;4936;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;2;S.C. Programmazione e controllo di gestione;PUBBLICA;04/11/2004
+455;4940;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;5;S.S.D. U.R.P. ;PUBBLICA;04/11/2004
+456;4941;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;6;S.C. Qualita';PUBBLICA;04/11/2004
+457;4947;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;7;Servizio Prevenzione e Protezione;PUBBLICA;04/11/2004
+458;7392;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;8;S.C. Medico competente- Prevenzione e Protezione;PUBBLICA;13/12/2004
+459;7394;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;9;S.S.D. S.I.T.R.O. ;PUBBLICA;13/12/2004
+460;9669;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;19;S.C. Risk Management;PUBBLICA;22/10/2008
+461;9670;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;21;Ufficio Comunicazione;PUBBLICA;22/10/2008
+462;9671;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;27;Ufficio Tutele;PUBBLICA;22/10/2008
+463;9672;;204;;;11;Area funzioni generali e supp tecn/amm;2;0;28;Ufficio Libera Professione;PUBBLICA;22/10/2008
+464;5485;;205;;;9;Area funzioni territoriali;1;0;2;S.C. Neuropschiatria Infantile di Moncalieri;PUBBLICA;01/01/2000
+465;5686;;205;;;9;Area funzioni territoriali;1;0;4;S.C. Servizio di Psicologia;PUBBLICA;22/11/2004
+466;13562;;205;;;9;Area funzioni territoriali;1;0;10;Distretto di Chieri - Cure Domiciliari;PUBBLICA;01/01/2011
+467;13563;;205;;;9;Area funzioni territoriali;1;0;11;Distretto di Moncalieri - Cure Domiciliari;PUBBLICA;01/01/2011
+468;13564;;205;;;9;Area funzioni territoriali;1;0;13;Distretto di Nichelino - Cure Domiciliari;PUBBLICA;01/01/2011
+469;13565;;205;;;9;Area funzioni territoriali;1;0;14;Distretto di Carmagnola - Cure Domiciliari;PUBBLICA;01/01/2011
+470;5752;;205;;;9;Area funzioni territoriali;1;0;16;S.S. Dip. Area Comunitaria;PUBBLICA;23/11/2004
+471;5763;;205;;;9;Area funzioni territoriali;1;0;17;S.C. Assistenza per le Tossico-Dipendenze;PUBBLICA;23/11/2004
+472;6798;;205;;;9;Area funzioni territoriali;1;0;67;S.C. Assistenza Farmaceutica Territoriale;PUBBLICA;02/12/2004
+473;6804;;205;;;9;Area funzioni territoriali;1;0;70;Residenza Latour RSA;PUBBLICA;02/12/2004
+474;6822;;205;;;9;Area funzioni territoriali;1;0;71;Valutazioni Socio Sanitarie;PUBBLICA;02/12/2004
+475;10179;;205;;;9;Area funzioni territoriali;1;0;73;Commissione di Vigilanza;PUBBLICA;01/01/2009
+476;9118;;205;;;9;Area funzioni territoriali;2;0;1;Cardiologia del Territorio;PUBBLICA;01/07/2006
+477;5745;;205;;;9;Area funzioni territoriali;2;0;10;S.S. CSM - Chieri;PUBBLICA;23/11/2004
+478;5746;;205;;;9;Area funzioni territoriali;2;0;11;S.S. CSM - Carmagnola;PUBBLICA;23/11/2004
+479;5748;;205;;;9;Area funzioni territoriali;2;0;13;S.C. Psichiatria;PUBBLICA;23/11/2004
+480;6063;;205;;;9;Area funzioni territoriali;2;0;14;Poliambulatorio di Moncalieri;PUBBLICA;01/01/2005
+481;6268;;205;;;9;Area funzioni territoriali;2;0;15;Poliambulatorio di Chieri;PUBBLICA;26/11/2004
+482;6273;;205;;;9;Area funzioni territoriali;2;0;16;Poliambulatorio di Santena;PUBBLICA;26/11/2004
+483;6358;;205;;;9;Area funzioni territoriali;2;0;17;Poliambulatorio di Carmagnola;PUBBLICA;01/01/2005
+484;6359;;205;;;9;Area funzioni territoriali;2;0;18;Poliambulatorio di Carignano;PUBBLICA;01/01/2005
+485;6434;;205;;;9;Area funzioni territoriali;2;0;19;Poliambulatorio di Nichelino;PUBBLICA;01/01/2005
+486;5773;;205;;;9;Area funzioni territoriali;2;0;20;S.S. Sert Moncalieri;PUBBLICA;23/11/2004
+487;5774;;205;;;9;Area funzioni territoriali;2;0;21;S.S. Sert Nichelino;PUBBLICA;23/11/2004
+488;5810;;205;;;9;Area funzioni territoriali;2;0;22;S.S. Dip. Alcoologia e Tabagismo;PUBBLICA;23/11/2004
+489;6001;;205;;;9;Area funzioni territoriali;2;0;35;S.C. Distretto di Chieri;PUBBLICA;15/10/2002
+490;6003;;205;;;9;Area funzioni territoriali;2;0;36;S.C. Distretto di Moncalieri;PUBBLICA;01/01/2000
+491;6004;;205;;;9;Area funzioni territoriali;2;0;37;S.C. Distretto di Nichelino;PUBBLICA;01/01/2000
+492;6005;;205;;;9;Area funzioni territoriali;2;0;38;S.C. Distretto di Carmagnola;PUBBLICA;01/01/2000
+493;5750;;205;;;9;Area funzioni territoriali;2;0;75;S.S. CSM - Moncalieri;PUBBLICA;23/11/2004
+494;5751;;205;;;9;Area funzioni territoriali;2;0;76;S.S. CSM - Nichelino;PUBBLICA;23/11/2004
+495;5770;;205;;;9;Area funzioni territoriali;2;0;77;S.S. Sert Chieri;PUBBLICA;23/11/2004
+496;5771;;205;;;9;Area funzioni territoriali;2;0;78;S.S. Sert Carmagnola;PUBBLICA;23/11/2004
+497;10721;;205;;;9;Area funzioni territoriali;2;0;81;S.S. Psicologia Area Minori;PUBBLICA;01/07/2010
+498;10723;;205;;;9;Area funzioni territoriali;2;0;82;S.S. Psicologia Area Adulti;PUBBLICA;01/07/2010
+499;6527;;205;;;10;Area funzioni di prevenzione;1;0;40;S.C. SISP;PUBBLICA;30/11/2004
+500;6532;;205;;;10;Area funzioni di prevenzione;1;0;41;S.S. Prevenzione delle Malattie Infettive;PUBBLICA;30/11/2004
+501;6533;;205;;;10;Area funzioni di prevenzione;1;0;42;S.S. Igiene dell'Abitato;PUBBLICA;30/11/2004
+502;6544;;205;;;10;Area funzioni di prevenzione;1;0;43;S.C. SIAN;PUBBLICA;30/11/2004
+503;6547;;205;;;10;Area funzioni di prevenzione;1;0;44;S.S. Igiene degli Alimenti e delle Bevande;PUBBLICA;30/11/2004
+504;6548;;205;;;10;Area funzioni di prevenzione;1;0;45;S.S. Igiene della Nutrizione;PUBBLICA;30/11/2004
+505;6549;;205;;;10;Area funzioni di prevenzione;1;0;46;S.C. SPRESAL;PUBBLICA;30/11/2004
+506;6550;;205;;;10;Area funzioni di prevenzione;1;0;47;S.S. Infortuni e Malattie Professionali;PUBBLICA;30/11/2004
+507;6551;;205;;;10;Area funzioni di prevenzione;1;0;48;S.S. Prevenzione dei Rischi Lavorativi;PUBBLICA;30/11/2004
+508;6552;;205;;;10;Area funzioni di prevenzione;1;0;49;S.S. Nucleo Ispettivo Veterinario Interarea;PUBBLICA;30/11/2004
+509;6554;;205;;;10;Area funzioni di prevenzione;1;0;50;S.C. Servizio Veterinario Area A;PUBBLICA;30/11/2004
+510;6556;;205;;;10;Area funzioni di prevenzione;1;0;51;S.S. Igiene Urbana Veterinaria;PUBBLICA;30/11/2004
+511;6560;;205;;;10;Area funzioni di prevenzione;1;0;52;S.S. Anagrafe Veterinaria;PUBBLICA;30/11/2004
+512;6563;;205;;;10;Area funzioni di prevenzione;1;0;53;S.S. Controllo ed Eradicazione delle Malattie Infettive e Diffusive negli Allevamenti;PUBBLICA;30/11/2004
+513;6567;;205;;;10;Area funzioni di prevenzione;1;0;54;S.C. Servizio Veterinario Area B;PUBBLICA;30/11/2004
+514;6568;;205;;;10;Area funzioni di prevenzione;1;0;55;S.S. Audit Igiene Alimenti di Origine Animale e Loro Derivati;PUBBLICA;30/11/2004
+515;6570;;205;;;10;Area funzioni di prevenzione;1;0;56;S.S. Ispezione e Vigilanza Permanente;PUBBLICA;30/11/2004
+516;6571;;205;;;10;Area funzioni di prevenzione;1;0;57;S.C. Servizio Veterinario Area C;PUBBLICA;30/11/2004
+517;6572;;205;;;10;Area funzioni di prevenzione;1;0;58;S.S. Igiene della Produzione Primaria di Alimenti di Origine Animale;PUBBLICA;30/11/2004
+518;6574;;205;;;10;Area funzioni di prevenzione;1;0;59;S.S. Dip. UVOS Unita' di Valutazione e Organizzazione degli Screening ;PUBBLICA;30/11/2004
+519;6743;;205;;;10;Area funzioni di prevenzione;1;0;63;S.C. Medicina Legale;PUBBLICA;01/12/2004
+520;10539;;205;;;11;Area funzioni generali e supp tecn/amm;1;0;1;S.C. Reti di comunicazione e tecnologie;PUBBLICA;16/02/2009
+521;5856;;205;;;11;Area funzioni generali e supp tecn/amm;1;0;23;S.C. Amministrazione del Personale;PUBBLICA;24/11/2004
+522;5874;;205;;;11;Area funzioni generali e supp tecn/amm;1;0;26;S.C. Contabilita' Generale e dei Costi;PUBBLICA;24/11/2004
+523;5886;;205;;;11;Area funzioni generali e supp tecn/amm;1;0;29;S.C. Affari Generali e Legali;PUBBLICA;24/11/2004
+524;5887;;205;;;11;Area funzioni generali e supp tecn/amm;1;0;30;S.C. Approvvigionamento e Logistica;PUBBLICA;24/11/2004
+525;6579;;205;;;11;Area funzioni generali e supp tecn/amm;1;0;60;S.C. Tecnico ;PUBBLICA;30/11/2004
+526;5398;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;5;S.S. Medico Competente;PUBBLICA;01/01/2005
+527;5812;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;6;S.S. Controllo di Gestione;PUBBLICA;23/11/2004
+528;5820;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;9;S.C. Organizzazione e Sviluppo Risorse Umane e Qualita';PUBBLICA;23/11/2004
+529;5821;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;10;S.S. Centro di Formazione;PUBBLICA;23/11/2004
+530;5824;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;13;S.C. Servizio Interno di Prevenzione e Protezione dai Rischi;PUBBLICA;23/11/2004
+531;7121;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;21;Segreteria Direzione Generale;PUBBLICA;07/12/2004
+532;5889;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;32;S.C. Patrimoniale;PUBBLICA;24/11/2004
+533;10188;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;74;Ufficio Comunicazione;PUBBLICA;01/01/2009
+534;10637;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;79;Ufficio Tutele;PUBBLICA;29/08/2008
+535;10641;;205;;;11;Area funzioni generali e supp tecn/amm;2;0;80;S.S. delle Professioni Sanitarie;PUBBLICA;09/12/2009
+536;10543;;206;;;9;Area funzioni territoriali;1;0;1;Gestione disabilita';PUBBLICA;01/01/2009
+537;10729;;206;;;9;Area funzioni territoriali;1;0;2;Geriatria RSA e Alzheimer - UVA;PUBBLICA;01/05/2010
+538;12342;;206;;;9;Area funzioni territoriali;1;0;3;Medicina Penitenziaria;PUBBLICA;01/05/2010
+539;13585;;206;;;9;Area funzioni territoriali;1;0;5;Assistenza integrativa e protesica;PUBBLICA;02/05/2011
+540;9668;;206;;;9;Area funzioni territoriali;1;0;24;Tecnologie Sanitarie;PUBBLICA;01/01/2009
+541;6857;;206;;;9;Area funzioni territoriali;1;0;35;Psicologia;PUBBLICA;01/09/2004
+542;6991;;206;;;9;Area funzioni territoriali;1;0;38;S.E.T. 118;PUBBLICA;01/09/2004
+543;6994;;206;;;9;Area funzioni territoriali;1;0;39;Attivita' rianimatoria base elisoccorso ;PUBBLICA;03/12/2004
+544;7056;;206;;;9;Area funzioni territoriali;1;0;41;Farmaceutica territoriale;PUBBLICA;01/09/2004
+545;7072;;206;;;9;Area funzioni territoriali;1;0;44;Assistenza Sanitaria Territoriale ;PUBBLICA;01/09/2004
+546;7116;;206;;;9;Area funzioni territoriali;1;0;48;Distretto di Vercelli;PUBBLICA;01/09/2004
+547;7117;;206;;;9;Area funzioni territoriali;1;0;49;Distretto della Valsesia;PUBBLICA;01/09/2004
+548;9352;;206;;;9;Area funzioni territoriali;1;0;61;Ufficio di vigilanza e verifica strutture private;PUBBLICA;01/04/2007
+549;9399;;206;;;9;Area funzioni territoriali;1;0;62;Cure Palliative - Hospice;PUBBLICA;11/06/2007
+550;7349;;206;;;9;Area funzioni territoriali;2;0;12;Attivita' ambulatoriale;PUBBLICA;01/09/2004
+551;9655;;206;;;9;Area funzioni territoriali;2;0;19;Ser.T - Borgosesia -;PUBBLICA;01/01/2009
+552;9656;;206;;;9;Area funzioni territoriali;2;0;20;Alcoldipendenza e altre forme di dipendenza;PUBBLICA;01/01/2009
+553;9074;;206;;;9;Area funzioni territoriali;2;0;22;Centri diurni - Vercelli;PUBBLICA;11/04/2006
+554;6361;;206;;;9;Area funzioni territoriali;2;0;23;Unita' Modulare di Psichiatria - Vercelli;PUBBLICA;01/09/2004
+555;6362;;206;;;9;Area funzioni territoriali;2;0;24;Unita' Modulare di Psichiatria - Borgosesia;PUBBLICA;01/09/2004
+556;6364;;206;;;9;Area funzioni territoriali;2;0;26;CSM e Gruppi appartamento - Vercelli;PUBBLICA;01/09/2004
+557;6366;;206;;;9;Area funzioni territoriali;2;0;28;CSM e Gruppi appartamento - Borgosesia;PUBBLICA;01/09/2004
+558;9079;;206;;;9;Area funzioni territoriali;2;0;34;DH territoriale,Centro crisi diurno e Centri diurni - Borgosesia;PUBBLICA;11/04/2006
+559;7058;;206;;;9;Area funzioni territoriali;2;0;42;Ser.T.;PUBBLICA;01/09/2004
+560;7059;;206;;;9;Area funzioni territoriali;2;0;43;Terapia sostitutiva ;PUBBLICA;01/09/2004
+561;7625;;206;;;9;Area funzioni territoriali;2;0;51;Gestione consultori;PUBBLICA;01/09/2004
+562;9080;;206;;;9;Area funzioni territoriali;2;0;55;Comunita' Protetta - Gattinara;PUBBLICA;11/04/2006
+563;9660;;206;;;9;Area funzioni territoriali;3;0;3;Servizio sociale aziendale;PUBBLICA;01/01/2009
+564;9661;;206;;;9;Area funzioni territoriali;3;0;4;Servizio medicina penitenziaria;PUBBLICA;01/01/2009
+565;10724;;206;;;10;Area funzioni di prevenzione;1;0;1;Servizio Veterinario - Area A;PUBBLICA;01/05/2010
+566;10725;;206;;;10;Area funzioni di prevenzione;1;0;2;Servizio Veterinario Area C;PUBBLICA;01/05/2010
+567;10726;;206;;;10;Area funzioni di prevenzione;1;0;3;Direzione Integrata della Prevenzione;PUBBLICA;01/05/2010
+568;5762;;206;;;10;Area funzioni di prevenzione;1;0;7;Igiene alimenti e nutrizione;PUBBLICA;01/09/2004
+569;5805;;206;;;10;Area funzioni di prevenzione;1;0;8;Igiene e sanita' pubblica;PUBBLICA;01/09/2004
+570;5806;;206;;;10;Area funzioni di prevenzione;1;0;9;Prevenzione e sicurezza ambienti di lavoro;PUBBLICA;01/09/2004
+571;5809;;206;;;10;Area funzioni di prevenzione;1;0;12;Veterinario area B;PUBBLICA;01/09/2004
+572;5994;;206;;;10;Area funzioni di prevenzione;1;0;14;Igiene della nutrizione;PUBBLICA;01/09/2004
+573;5998;;206;;;10;Area funzioni di prevenzione;1;0;15;Coordinamento attivita' vaccinali e profilassi malattie infettive ;PUBBLICA;01/09/2004
+574;5999;;206;;;10;Area funzioni di prevenzione;1;0;16;Anagrafe veterinaria;PUBBLICA;01/09/2004
+575;6002;;206;;;10;Area funzioni di prevenzione;1;0;17;Sanita' animale ;PUBBLICA;01/09/2004
+576;6009;;206;;;10;Area funzioni di prevenzione;1;0;19;Vigilanza alimenti origine animale ;PUBBLICA;01/09/2004
+577;6010;;206;;;10;Area funzioni di prevenzione;1;0;20;Nucleo vigilanza interarea  ;PUBBLICA;01/09/2004
+578;9654;;206;;;10;Area funzioni di prevenzione;1;0;23;Epidemiologia;PUBBLICA;01/01/2009
+579;10474;;206;;;10;Area funzioni di prevenzione;1;0;28;Direzione Integrata della Prevenzione;PUBBLICA;01/06/2009
+580;6828;;206;;;10;Area funzioni di prevenzione;1;0;30;Medicina legale;PUBBLICA;01/09/2004
+581;6829;;206;;;10;Area funzioni di prevenzione;1;0;31;Medicina dello sport;PUBBLICA;01/09/2004
+582;6831;;206;;;10;Area funzioni di prevenzione;1;0;33;Medicina legale - Borgosesia ;PUBBLICA;01/09/2004
+583;9202;;206;;;10;Area funzioni di prevenzione;1;0;59;UVOS - Unita' di Valutazione e Organizzazione Screening;PUBBLICA;11/04/2006
+584;5636;;206;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Amministrazione del personale;PUBBLICA;01/09/2004
+585;5640;;206;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Contabilita' Economico Finanziaria;PUBBLICA;01/09/2004
+586;5642;;206;;;11;Area funzioni generali e supp tecn/amm;1;0;4;Tecnico ed Ingegneria Clinica;PUBBLICA;01/09/2004
+587;5667;;206;;;11;Area funzioni generali e supp tecn/amm;1;0;6;Provveditorato-Economato;PUBBLICA;01/09/2004
+588;9642;;206;;;11;Area funzioni generali e supp tecn/amm;1;0;22;Patrimoniale;PUBBLICA;01/01/2009
+589;8056;;206;;;11;Area funzioni generali e supp tecn/amm;1;0;53;Collegio sindacale;PUBBLICA;21/12/2004
+590;9230;;206;;;11;Area funzioni generali e supp tecn/amm;1;0;60;Affari Generali e Legali;PUBBLICA;01/02/2006
+591;5629;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;3;Sistemi Informativi ed Informatici;PUBBLICA;01/09/2004
+592;5633;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;5;Organizzazione e Sviluppo Risorse Umane;PUBBLICA;01/09/2004
+593;5677;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;8;Prevenzione e Protezione;PUBBLICA;01/09/2004
+594;5682;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;9;Medico Competente;PUBBLICA;01/09/2004
+595;5783;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;10;Servizio infermieristico, tecnico sanitario e della riabilitazione;PUBBLICA;01/09/2004
+596;9081;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;11;Qualita' e appropriatezza prescrittiva;PUBBLICA;11/04/2006
+597;14189;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;12;DIREZIONE GENERALE;PUBBLICA;01/01/1981
+598;9107;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;13;Programmazione e Controllo di gestione;PUBBLICA;19/06/2006
+599;8057;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;14;Consiglio dei sanitari;PUBBLICA;01/09/2004
+600;8058;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;15;Collegio di direzione;PUBBLICA;01/09/2004
+601;9201;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;16;URP e Comunicazione;PUBBLICA;22/05/2006
+602;9643;;206;;;11;Area funzioni generali e supp tecn/amm;2;0;17;Risk management;PUBBLICA;01/01/2009
+603;10651;;207;;;9;Area funzioni territoriali;1;0;1;Dietologia e Igiene Nutrizionale;PUBBLICA;01/03/2010
+604;5282;;207;;;9;Area funzioni territoriali;1;0;9;Farmaceutica Territoriale;PUBBLICA;18/03/2003
+605;6778;;207;;;9;Area funzioni territoriali;1;0;18;Centrale Operativa 118;PUBBLICA;18/03/2003
+606;9837;;207;;;9;Area funzioni territoriali;1;0;20;Assistenza Sanitaria Integrata;PUBBLICA;10/10/2008
+607;7048;;207;;;9;Area funzioni territoriali;1;0;22;Cure Palliative;PUBBLICA;18/03/2003
+608;7336;;207;;;9;Area funzioni territoriali;1;0;26;Distretto Sanitario N. 1 - Biella;PUBBLICA;18/03/2003
+609;7351;;207;;;9;Area funzioni territoriali;1;0;27;Distretto Sanitario N.2 - Cossato;PUBBLICA;18/03/2003
+610;9968;;207;;;9;Area funzioni territoriali;2;0;4;Area Materno Infantile eta' evolutiva NPI D2;PUBBLICA;10/10/2008
+611;9827;;207;;;9;Area funzioni territoriali;2;0;8;Area adulti e anziani Cure Primarie Distretto 1;PUBBLICA;19/12/2007
+612;7045;;207;;;9;Area funzioni territoriali;2;0;17;Area Dipendenze Ser.t  D1;PUBBLICA;18/03/2003
+613;9856;;207;;;9;Area funzioni territoriali;2;0;18;Area Dipendenze - Ser.t. D2;PUBBLICA;10/10/2008
+614;9828;;207;;;9;Area funzioni territoriali;2;0;19;Area adulti e anziani Cure Primarie Distretto 2;PUBBLICA;19/12/2007
+615;7046;;207;;;9;Area funzioni territoriali;2;0;20;DSM Unita' Modulare 1 Biella;PUBBLICA;18/03/2003
+616;7047;;207;;;9;Area funzioni territoriali;2;0;21;DSM Unita' Modulare 2 Cossato;PUBBLICA;18/03/2003
+617;9969;;207;;;9;Area funzioni territoriali;2;0;37;Area Materno Infantile eta' evolutiva NPI D1;PUBBLICA;10/10/2008
+618;9838;;207;;;9;Area funzioni territoriali;3;0;1;Vigilanza Strutture Sanitarie ;PUBBLICA;10/10/2008
+619;13959;;207;;;9;Area funzioni territoriali;3;0;2;Attivita' amministrative del Territorio;PUBBLICA;15/06/2009
+620;5182;;207;;;10;Area funzioni di prevenzione;1;0;1;Epidemiologia;PUBBLICA;18/03/2003
+621;5183;;207;;;10;Area funzioni di prevenzione;1;0;2;Servizio Igiene e Sanita' Pubblica;PUBBLICA;18/03/2003
+622;5188;;207;;;10;Area funzioni di prevenzione;1;0;3;Servizio Igiene Alimenti e Nutrizione;PUBBLICA;18/03/2003
+623;5189;;207;;;10;Area funzioni di prevenzione;1;0;4;Servizo Prevenzione e Sicurezza Ambienti di Lavoro;PUBBLICA;18/03/2003
+624;5266;;207;;;10;Area funzioni di prevenzione;1;0;6;Medicina Legale;PUBBLICA;18/03/2003
+625;7265;;207;;;10;Area funzioni di prevenzione;1;0;23;AREA A - Sanita' animale;PUBBLICA;18/03/2003
+626;9849;;207;;;10;Area funzioni di prevenzione;1;0;33;Servizio Veterinario Area B;PUBBLICA;10/10/2008
+627;9850;;207;;;10;Area funzioni di prevenzione;1;0;34;Servizio Veterinario Area C;PUBBLICA;10/10/2008
+628;9851;;207;;;10;Area funzioni di prevenzione;1;0;35;Igiene degli Alimenti;PUBBLICA;10/10/2008
+629;9852;;207;;;10;Area funzioni di prevenzione;1;0;36;Dietologia e Igiene Nutrizionale;PUBBLICA;10/10/2008
+630;13983;;207;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Assistenza Legale;PUBBLICA;18/03/2003
+631;6624;;207;;;11;Area funzioni generali e supp tecn/amm;1;0;11;Servizi Tecnici  e Manutentivi ;PUBBLICA;18/03/2003
+632;6629;;207;;;11;Area funzioni generali e supp tecn/amm;1;0;13;Gestione Economico Finanziaria;PUBBLICA;18/03/2003
+633;9843;;207;;;11;Area funzioni generali e supp tecn/amm;1;0;21;Approvvigionamento dei Beni;PUBBLICA;10/10/2008
+634;9844;;207;;;11;Area funzioni generali e supp tecn/amm;1;0;32;Acquisizione Gestione Servizi;PUBBLICA;10/10/2008
+635;5230;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;2;Servizio Prevenzione e Protezione Sicurezza Ambientale e Individuale;PUBBLICA;18/03/2003
+636;6589;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;4;Controllo di Gestione;PUBBLICA;18/03/2003
+637;6595;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;5;Sistema Informativo e Tecnologie Informatiche ;PUBBLICA;18/03/2003
+638;6601;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;6;Pubbliche Relazioni Accessibilita' e Comunicazione;PUBBLICA;18/03/2003
+639;6708;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;8;Programmazione Qualita' e Sviluppo Organizzativo ;PUBBLICA;18/03/2003
+640;8072;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;9;DIRETTORE GENERALE;PUBBLICA;18/03/2003
+641;8073;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;10;Direttore Amministrativo;PUBBLICA;18/03/2003
+642;8075;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;11;Direttore Sanitario;PUBBLICA;18/03/2003
+643;9829;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;12;Programmazione e Controllo;PUBBLICA;10/10/2008
+644;9830;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;13;Formazione e Comunicazione;PUBBLICA;10/10/2008
+645;9831;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;14;Affari Generali ;PUBBLICA;10/10/2008
+646;9832;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;15;Politiche del Personale;PUBBLICA;10/10/2008
+647;9834;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;16;Direzione delle Professioni Sanitarie;PUBBLICA;10/10/2008
+648;9835;;207;;;11;Area funzioni generali e supp tecn/amm;2;0;17;Ingegneria Clinica;PUBBLICA;10/10/2008
+649;9845;;207;;;11;Area funzioni generali e supp tecn/amm;3;0;2;Affari Patrimoniali;PUBBLICA;10/10/2008
+650;9833;;207;;;11;Area funzioni generali e supp tecn/amm;4;0;1;Amministrazione del Personale;PUBBLICA;10/10/2008
+651;7295;;208;;;9;Area funzioni territoriali;1;0;1;S.C. Distretto di Novara;PUBBLICA;01/07/2003
+652;13741;;208;;;9;Area funzioni territoriali;1;0;9;S.S.V.DIP. Servizio Assistenza Integrativa e Protesica;PUBBLICA;24/05/2011
+653;8044;;208;;;9;Area funzioni territoriali;1;0;17;S.C. Distretto di Galliate;PUBBLICA;01/07/2003
+654;8045;;208;;;9;Area funzioni territoriali;1;0;18;S.C. Distretto di Arona;PUBBLICA;01/07/2003
+655;8046;;208;;;9;Area funzioni territoriali;1;0;19;S.C. Distretto di Borgomanero;PUBBLICA;01/07/2003
+656;10206;;208;;;9;Area funzioni territoriali;1;0;23;S.S. Centro Diurno Arona-Borgomanero;PUBBLICA;01/01/2009
+657;8152;;208;;;9;Area funzioni territoriali;1;0;27;S.C. Farmacia Territoriale;PUBBLICA;01/07/2003
+658;8278;;208;;;9;Area funzioni territoriali;1;0;28;S.S.V.DIP. Cure Palliative e Terapia Antalgica - Hospice;PUBBLICA;01/07/2003
+659;10245;;208;;;9;Area funzioni territoriali;1;0;37;S.S. Coordinamento amministrativo interdistrettuale;PUBBLICA;01/01/2009
+660;10246;;208;;;9;Area funzioni territoriali;1;0;38;S.S. Coordinamento Cure Primarie e Specialistiche;PUBBLICA;01/01/2009
+661;10248;;208;;;9;Area funzioni territoriali;1;0;39;S.C. Programmazione attivita'  socio sanitarie integrate;PUBBLICA;01/01/2009
+662;10268;;208;;;9;Area funzioni territoriali;1;0;40;S.S. Interventi Socio Sanitari Multidisciplinari sulla persona;PUBBLICA;01/01/2009
+663;10269;;208;;;9;Area funzioni territoriali;1;0;41;S.S. Attivita' di vigilanza sui presidi socio assistenziali;PUBBLICA;01/01/2009
+664;10272;;208;;;9;Area funzioni territoriali;1;0;44;S.S.VDIP. Sanita' Penitenziaria;PUBBLICA;01/01/2009
+665;10273;;208;;;9;Area funzioni territoriali;1;0;45;S.S. V.DIP. Programmazione e controllo delle attivita' esterne ;PUBBLICA;01/01/2009
+666;10274;;208;;;9;Area funzioni territoriali;1;0;46;S.S. Coordinamento Area Nord SERT;PUBBLICA;01/01/2009
+667;10329;;208;;;9;Area funzioni territoriali;1;0;47;S.S. Strutture Intermedie Novara - Galliate;PUBBLICA;01/01/2009
+668;8593;;208;;;9;Area funzioni territoriali;2;0;9;Ambulatori distrettuali - Distretto di Arona;PUBBLICA;01/07/2003
+669;10204;;208;;;9;Area funzioni territoriali;2;0;14;S.S.V.DIP. Centro Salute Mentale - Strutture Intermedie - Arona;PUBBLICA;01/01/2009
+670;10205;;208;;;9;Area funzioni territoriali;2;0;15;S.S. Centro Salute Mentale - Borgomanero;PUBBLICA;01/01/2009
+671;10207;;208;;;9;Area funzioni territoriali;2;0;16;S.S. Centro Salute Mentale e DH Novara - Galliate;PUBBLICA;01/01/2009
+672;10247;;208;;;9;Area funzioni territoriali;2;0;21;S.S. Prevenzione e cura delle lesioni vascolari;PUBBLICA;01/01/2009
+673;8099;;208;;;9;Area funzioni territoriali;2;0;22;S.C. Unita' Modulare di Psichiatria Borgomanero;PUBBLICA;01/07/2003
+674;8100;;208;;;9;Area funzioni territoriali;2;0;23;S.C. Unita' Modulare di Psichiatria Novara e Galliate;PUBBLICA;01/07/2003
+675;10267;;208;;;9;Area funzioni territoriali;2;0;24;S.S. Poliambulatorio Distrettuale;PUBBLICA;01/01/2009
+676;8144;;208;;;9;Area funzioni territoriali;2;0;25;S.C. Ser.T.;PUBBLICA;01/07/2003
+677;8151;;208;;;9;Area funzioni territoriali;2;0;26;S.S.V.DIP. Alcologia;PUBBLICA;01/07/2003
+678;10331;;208;;;9;Area funzioni territoriali;2;0;27;Consultori;PUBBLICA;01/01/2009
+679;10336;;208;;;9;Area funzioni territoriali;2;0;28;Ambulatori distrettuali - Distretto di Borgomanero;PUBBLICA;01/01/2009
+680;10337;;208;;;9;Area funzioni territoriali;2;0;29;Ambulatori distrettuali Distretto di GalliateTrecate;PUBBLICA;01/01/2009
+681;10120;;208;;;10;Area funzioni di prevenzione;1;0;1;S.C. Servizio Sovrazonale di Epidemiologia - S.S.EPI;PUBBLICA;01/01/2009
+682;7388;;208;;;10;Area funzioni di prevenzione;1;0;2;S.C. SPRESAL - Servizio Prevenzione e Sicurezza negli Ambienti di Lavoro;PUBBLICA;01/07/2003
+683;10714;;208;;;10;Area funzioni di prevenzione;1;0;3;S.S.V.DIP. Epidemiosorveglianza veterinaria;PUBBLICA;28/10/2009
+684;7391;;208;;;10;Area funzioni di prevenzione;1;0;4;S.C. SIAV Area B;PUBBLICA;01/07/2003
+685;7393;;208;;;10;Area funzioni di prevenzione;1;0;5;S.C. PMPPV - Presidio Multizonale di Profilassi e Polizia Veterinaria;PUBBLICA;01/07/2003
+686;7395;;208;;;10;Area funzioni di prevenzione;1;0;6;S.C. SIAV Area A - Sanita' animale ;PUBBLICA;01/07/2003
+687;7396;;208;;;10;Area funzioni di prevenzione;1;0;7;S.C. SIAN - Servizio di Igiene degli Alimenti e della Nutrizione;PUBBLICA;01/07/2003
+688;7397;;208;;;10;Area funzioni di prevenzione;1;0;8;S.C. SIAV Area C - Igiene degli allevamenti e delle produzioni zootecniche;PUBBLICA;01/07/2003
+689;7399;;208;;;10;Area funzioni di prevenzione;1;0;9;S.C. SISP - Servizio di Igiene e Sanita' Pubblica;PUBBLICA;01/07/2003
+690;7410;;208;;;10;Area funzioni di prevenzione;1;0;11;S.C. Medicina Legale;PUBBLICA;01/07/2003
+691;7499;;208;;;10;Area funzioni di prevenzione;1;0;14;S.S.V.DIP. NIV - Nucleo di Vigilanza Interarea;PUBBLICA;01/07/2003
+692;7996;;208;;;10;Area funzioni di prevenzione;1;0;16;S.S. Servizio Locale di Epidemiologia;PUBBLICA;01/07/2003
+693;10123;;208;;;10;Area funzioni di prevenzione;1;0;17;S.S. Promozione ed educazione alla salute;PUBBLICA;01/01/2009
+694;10221;;208;;;10;Area funzioni di prevenzione;1;0;25;S.S. Igiene degli alimenti;PUBBLICA;01/01/2009
+695;10222;;208;;;10;Area funzioni di prevenzione;1;0;26;S.S. Igiene della Nutrizione;PUBBLICA;01/01/2009
+696;8598;;208;;;10;Area funzioni di prevenzione;1;0;29;S.S. Unita' Valutazione e Organizzazione Screening - U.V.O.S.;PUBBLICA;01/07/2003
+697;10223;;208;;;10;Area funzioni di prevenzione;1;0;30;S.S. Tutela della collettivit e dei singoli dai rischi sanitari degli ambienti di vita;PUBBLICA;01/01/2009
+698;10224;;208;;;10;Area funzioni di prevenzione;1;0;31;S.S. Igiene e sicurezza degli ambienti di lavoro;PUBBLICA;01/01/2009
+699;10225;;208;;;10;Area funzioni di prevenzione;1;0;32;S.S. Medicina del Lavoro;PUBBLICA;01/01/2009
+700;10226;;208;;;10;Area funzioni di prevenzione;1;0;33;S.S. Ufficio Anagrafe Veterinaria - controllo premi zootecnici;PUBBLICA;01/01/2009
+701;10227;;208;;;10;Area funzioni di prevenzione;1;0;34;S.S. Vigilanza e concentramenti animali;PUBBLICA;01/01/2009
+702;10228;;208;;;10;Area funzioni di prevenzione;1;0;35;S.S. Produzione lattiero casearia;PUBBLICA;01/01/2009
+703;10229;;208;;;10;Area funzioni di prevenzione;1;0;36;S.S. Produzione carni rosse;PUBBLICA;01/01/2009
+704;10270;;208;;;10;Area funzioni di prevenzione;1;0;42;S.S. Tutela delle disabilita';PUBBLICA;01/01/2009
+705;10271;;208;;;10;Area funzioni di prevenzione;1;0;43;S.S. Medicina Necroscopica;PUBBLICA;01/01/2009
+706;13747;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;1;S.S. Affari Legali;PUBBLICA;19/10/2011
+707;7389;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;3;S.C. Servizio Provveditorato-Economato;PUBBLICA;01/07/2003
+708;7408;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;10;S.C. Servizio Personale;PUBBLICA;01/07/2003
+709;7414;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;12;S.C. Affari Generali e Legali ;PUBBLICA;01/07/2003
+710;7415;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;13;S.C. Servizio Economico - Finanziario;PUBBLICA;01/07/2003
+711;7638;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;15;S.C. Servizio Tecnico - Patrimoniale;PUBBLICA;01/07/2003
+712;10128;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;19;S.S. Gestione Economale;PUBBLICA;01/01/2009
+713;10129;;208;;;11;Area funzioni generali e supp tecn/amm;1;0;22;S.S. Gestione Patrimoniale;PUBBLICA;01/01/2009
+714;6294;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;2;S.C. Sistema Informativo;PUBBLICA;01/07/2003
+715;7386;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;3;S.C. Nucleo Operativo per la tutela della salute e gestione della sicurezza in azienda;PUBBLICA;01/07/2003
+716;7409;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;4;S.C. Qualita' e comunicazione;PUBBLICA;01/07/2003
+717;7416;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;5;S.S. Struttura Comunicazione;PUBBLICA;01/07/2003
+718;7707;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;6;S.S. Prevenzione e Protezione;PUBBLICA;01/07/2003
+719;8201;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;7;S.S. Servizio dell'assistenza Infermieristica, Ostetrica, Tecnico-sanitaria e Riabilitazione;PUBBLICA;01/07/2003
+720;14191;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;9;Direzione Generale - Sede Legale;PUBBLICA;01/01/2008
+721;10122;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;10;S.S. Ufficio Stampa;PUBBLICA;01/01/2009
+722;10126;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;11;S.S. Controllo di Gestione;PUBBLICA;01/01/2009
+723;10127;;208;;;11;Area funzioni generali e supp tecn/amm;2;0;12;S.S. Gestione e Costituzione Rapporti di lavoro;PUBBLICA;01/01/2009
+724;12523;;209;;;9;Area funzioni territoriali;1;0;1;EP - Assistenza Penitenziaria ;PUBBLICA;01/01/2010
+725;13152;;209;;;9;Area funzioni territoriali;1;0;2;EP - Riabilitazione Psichiatrica;PUBBLICA;15/11/2010
+726;13153;;209;;;9;Area funzioni territoriali;1;0;3;EP - Psicologia dell'et evolutiva;PUBBLICA;15/11/2010
+727;13154;;209;;;9;Area funzioni territoriali;1;0;4;EP - Psicologia per la salute mentale;PUBBLICA;15/11/2010
+728;13155;;209;;;9;Area funzioni territoriali;1;0;5;EP - Psicologia delle Dipendenze;PUBBLICA;15/11/2010
+729;13185;;209;;;9;Area funzioni territoriali;1;0;6;E.P. Medicina delle dipendenze in carcere;PUBBLICA;15/11/2010
+730;14011;;209;;;9;Area funzioni territoriali;1;0;7;Direttore della Prevenzione;PUBBLICA;01/01/2009
+731;14036;;209;;;9;Area funzioni territoriali;1;0;9;PO Referente di Area Dipartimento Salute Mentale;PUBBLICA;29/12/2010
+732;14037;;209;;;9;Area funzioni territoriali;1;0;10;PO Referente di Area Territoriale;PUBBLICA;29/12/2010
+733;14038;;209;;;9;Area funzioni territoriali;1;0;11;IP Coordinamento Corsi di Laurea;PUBBLICA;29/12/2010
+734;14039;;209;;;9;Area funzioni territoriali;1;0;12;UO Programmazione e Gestione S.I.;PUBBLICA;29/12/2010
+735;14040;;209;;;9;Area funzioni territoriali;1;0;13;UO Sviluppo Organizzativo Professionale Ricerca;PUBBLICA;29/12/2010
+736;14041;;209;;;9;Area funzioni territoriali;1;0;14;IP Collaboratore SITRPO Territorio;PUBBLICA;29/12/2010
+737;10019;;209;;;9;Area funzioni territoriali;1;0;16;Assistenza psichiatrica ambulatoriale e domiciliare;PUBBLICA;01/01/2009
+738;5558;;209;;;9;Area funzioni territoriali;1;0;23;Distretto Verbania;PUBBLICA;01/01/1995
+739;5628;;209;;;9;Area funzioni territoriali;1;0;25;Distretto Domodossola;PUBBLICA;01/01/1995
+740;5678;;209;;;9;Area funzioni territoriali;1;0;28;Psicologia - SOS DIP - Area del disagio psicosociale;PUBBLICA;03/11/2003
+741;5679;;209;;;9;Area funzioni territoriali;1;0;29;educazione alla salute;PUBBLICA;01/01/2004
+742;6099;;209;;;9;Area funzioni territoriali;1;0;32;Distretto Omegna;PUBBLICA;01/01/1995
+743;6211;;209;;;9;Area funzioni territoriali;1;0;35;Direzione Dipartimento Salute Mentale;PUBBLICA;06/06/2002
+744;6221;;209;;;9;Area funzioni territoriali;1;0;36;SERT -Area disagio psicosociale;PUBBLICA;01/01/1995
+745;6223;;209;;;9;Area funzioni territoriali;1;0;37;EP - Alcologia ;PUBBLICA;01/05/2002
+746;6578;;209;;;9;Area funzioni territoriali;1;0;38;Servizio Psichiatrico Territoriale;PUBBLICA;01/01/1988
+747;10190;;209;;;9;Area funzioni territoriali;1;0;52;Presa in carico e cure primarie - VB;PUBBLICA;01/01/2009
+748;10191;;209;;;9;Area funzioni territoriali;1;0;53;Specialistica M.I. e Integrativa - VB;PUBBLICA;01/01/2009
+749;10193;;209;;;9;Area funzioni territoriali;1;0;55;Presa in carico e cure primarie - OM;PUBBLICA;01/01/2009
+750;10194;;209;;;9;Area funzioni territoriali;1;0;56;Specialistica M.I. e integrativa - OM;PUBBLICA;01/01/2009
+751;10196;;209;;;9;Area funzioni territoriali;1;0;58;Presa in carico e cure primarie - DOMO;PUBBLICA;01/01/2009
+752;10197;;209;;;9;Area funzioni territoriali;1;0;59;Specialistica M.I. e integrativa - DOMO;PUBBLICA;01/01/2009
+753;13889;;209;;;10;Area funzioni di prevenzione;1;0;1;EP - Ufficio Anagrafe Veterinaria;PUBBLICA;10/11/2010
+754;5344;;209;;;10;Area funzioni di prevenzione;1;0;2;Medicina Legale;PUBBLICA;01/01/1995
+755;5423;;209;;;10;Area funzioni di prevenzione;1;0;9;UO -  Anagrafe Veterinaria ;PUBBLICA;11/06/2001
+756;5424;;209;;;10;Area funzioni di prevenzione;1;0;10;Nucleo di Vigilanza Inter-Area Veterinaria - SOS DIP;PUBBLICA;25/06/1999
+757;5426;;209;;;10;Area funzioni di prevenzione;1;0;11;Epidemiologia;PUBBLICA;15/12/1999
+758;5427;;209;;;10;Area funzioni di prevenzione;1;0;12;EP - Alimenti;PUBBLICA;01/05/2002
+759;5428;;209;;;10;Area funzioni di prevenzione;1;0;13;EP - Nutrizione;PUBBLICA;01/05/2002
+760;5429;;209;;;10;Area funzioni di prevenzione;1;0;14;Servizio Veterinario Area A;PUBBLICA;01/01/1995
+761;5443;;209;;;10;Area funzioni di prevenzione;1;0;15;Servizio Veterinario Area B;PUBBLICA;01/01/1995
+762;5446;;209;;;10;Area funzioni di prevenzione;1;0;16;Servizio Veterinario Area C;PUBBLICA;01/06/1997
+763;5450;;209;;;10;Area funzioni di prevenzione;1;0;17;SPRESAL - Prevenzione e sicurezza ambienti di lavoro;PUBBLICA;01/01/1995
+764;5451;;209;;;10;Area funzioni di prevenzione;1;0;18;SISP - Igiene e Sanita' Pubblica;PUBBLICA;01/01/1995
+765;5452;;209;;;10;Area funzioni di prevenzione;1;0;19;SIAN - Igiene degli alimenti e della nutrizione;PUBBLICA;01/01/1995
+766;9141;;209;;;10;Area funzioni di prevenzione;1;0;22;Direzione Amministrativa del Dipartimento di Prevenzione - SOS DIP;PUBBLICA;07/12/2004
+767;14035;;209;;;10;Area funzioni di prevenzione;16;0;1;PO Referente di Area Dipartimento di Prevenzione;PUBBLICA;29/12/2010
+768;9140;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Gestione delle forniture e della logistica - Area gestione forniture e logistica;PUBBLICA;01/10/2006
+769;13890;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;2;EP - Progettazione e direzione lavori - nuove opere;PUBBLICA;01/01/2009
+770;5357;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;4;Gestione delle infrastrutture e delle tecnologie biomediche;PUBBLICA;01/01/1995
+771;5395;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;7;Gestione delle risorse Economiche e Finanziarie - Area gestione risorse economico finanziarie;PUBBLICA;01/01/1995
+772;10016;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;8;Gestione del personale - Area gestione risorse umane;PUBBLICA;01/01/2009
+773;14007;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;9;PO - Gestione procedure informatiche a supporto dello sviluppo e programmazione;PUBBLICA;01/01/2009
+774;14008;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;10;PO - Supporto alla definizione e monitoraggio dei PDTA;PUBBLICA;01/01/2009
+775;5556;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;21;Amministrazione del  personale - Area gestione risorse umane;PUBBLICA;01/01/1995
+776;10094;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;23;UO - Selezione e reclutamento personale dipendente e altre forme contrattuali;PUBBLICA;01/01/2009
+777;5589;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;24;Gestione delle tecnologie informatiche, di comunicazione e del sistema informativo ;PUBBLICA;01/01/1995
+778;10095;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;25;UO - Stato giuridico e previdenza - Area gestione risorse umane;PUBBLICA;01/01/2009
+779;10097;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;26;UO - Gestione amministrativa contratti di lavoro personale dipendente;PUBBLICA;01/01/2009
+780;10098;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;32;UO - Gestione amministrativa contratti di lavoro personale convenzionatolib. prof. -Area GRU;PUBBLICA;22/01/2009
+781;10099;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;34;UO - Ufficio amministrativo e procedure d'appalto - Area gest. infrastrutt. e tecnol. sanitarie;PUBBLICA;01/01/2009
+782;10100;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;36;UO - Manutenzione- Area gestione infrastrutture e delle tecnologie sanitarie;PUBBLICA;01/01/2009
+783;10101;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;37;UO - Anagrafe assistiti e gestione flussi informativi - Area gestione ICT;PUBBLICA;01/01/2009
+784;10102;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;38;UO - Assistenza HW e SW reti e fonia - Area Gestione ICT;PUBBLICA;01/01/2009
+785;10103;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;44;UO - Architettura del sistema informativo e ICT - Area gestione ICT;PUBBLICA;01/01/2009
+786;10104;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;48;UO - Gestione bilancio - Area Gestione risorse economico finanziarie;PUBBLICA;01/01/2009
+787;10105;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;49;UO - Contabilit generale - Area gestione risorse economico finanziarie;PUBBLICA;01/01/2009
+788;10106;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;50;UO - Gestione logistica - Area gestione forniture e logistica;PUBBLICA;01/01/2009
+789;10107;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;51;UO - Gestione approvvigionamenti - Area gestione forniture e logistica;PUBBLICA;01/01/2009
+790;10192;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;54;UO - Unità amministrativa VB ;PUBBLICA;01/01/2009
+791;10195;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;57;UO - Unità amministrativa OM ;PUBBLICA;01/01/2009
+792;10198;;209;;;11;Area funzioni generali e supp tecn/amm;1;0;60;UO - Unità amministrativa DOMO ;PUBBLICA;01/01/2009
+793;5387;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;2;Gestione budget e controllo - Area gestione budget e controllo;PUBBLICA;30/12/1997
+794;5390;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;3;Gestione degli affari legali e patrimoniali - Area gestione affari legali e patrimoniali;PUBBLICA;01/01/1995
+795;5394;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;4;Medico Competente ;PUBBLICA;01/01/1995
+796;10014;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;5;Pianificazione programmazione e controllo - Area del supporto direzionale;PUBBLICA;01/01/2009
+797;5410;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;7;Gestione delle attivit di supporto direzionale - Area del supporto direzionale;PUBBLICA;01/01/1995
+798;5420;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;9;UO - Segreteria di Direzione - Area gestione affari generali;PUBBLICA;01/01/1995
+799;13184;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;10;EP - Organizzazione, Sistema Qualit e Accreditamento;PUBBLICA;15/11/2010
+800;10015;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;11;Sviluppo e formazione delle risorse umane - Area del supporto direzionale;PUBBLICA;01/01/2009
+801;10077;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;17;Gestione risorse umane - Area gestione risorse umane;PUBBLICA;01/01/2009
+802;10082;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;18;UO - Comunicazione marketing e ufficio stampa - Area gestione affari generali;PUBBLICA;01/01/2009
+803;10083;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;19;UO - URP Ufficio relazioni con il pubblico - Area gestione affari generali;PUBBLICA;01/01/2009
+804;6071;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;20;Servizio prevenzione e protezione - Area prevenzione e protezione;PUBBLICA;24/07/1996
+805;7412;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;21;Gestione degli affari generali - Area gestione affari generali ;PUBBLICA;01/01/1995
+806;10091;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;22;UO - Provvedimenti amministrativi e rapporti con gli organi e organismi aziendali - Area G A G ;PUBBLICA;01/01/2009
+807;10108;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;24;UO - Contabilita' analitica - Area Gestione budget e controllo;PUBBLICA;01/01/2009
+808;10109;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;26;UO - Reporting - Area Gestione budget e controllo;PUBBLICA;01/01/2009
+809;10110;;209;;;11;Area funzioni generali e supp tecn/amm;2;0;27;UO - Patrimonio - Area gestione affari legali e patrimoniale;PUBBLICA;01/01/2009
+810;10080;;209;;;11;Area funzioni generali e supp tecn/amm;4;0;1;UO - Programmazione e controllo - Area del supporto direzionale;PUBBLICA;01/01/2009
+811;10081;;209;;;11;Area funzioni generali e supp tecn/amm;4;0;2;UO - Gestione eventi formativi - Area del supporto direzionale;PUBBLICA;01/01/2009
+812;10574;;210;;;9;Area funzioni territoriali;1;0;1;CENTRO DISTURBI COMPORTAMENTO ALIMENTARE CN1 ;PUBBLICA;01/01/2010
+813;5165;;210;;;9;Area funzioni territoriali;1;0;8;COMUNITA' PROTETTA TIPO B E GRUPPI APPARTAMENTO MONDOVI CN1;PUBBLICA;27/03/2002
+814;5166;;210;;;9;Area funzioni territoriali;1;0;9;S.S.  CENTRO DIURNO CEVA COMUNITA' PROTETTA TIPO B E GRUPPI APPARTAMENTO CEVA CN1;PUBBLICA;27/03/2002
+815;10616;;210;;;9;Area funzioni territoriali;1;0;15;CURE DOMICILIARI CEVA CN1;PUBBLICA;01/01/2009
+816;5566;;210;;;9;Area funzioni territoriali;1;0;18;S.C. DISTRETTO DI SALUZZO CN1;PUBBLICA;03/07/2002
+817;5967;;210;;;9;Area funzioni territoriali;1;0;20;S.C. DISTRETTO DI SAVIGLIANO - FOSSANO CN1;PUBBLICA;03/07/2002
+818;5921;;210;;;9;Area funzioni territoriali;1;0;23;NEUROPSICHIATRIA INFANTILE TERRITORIALE MONDOVI CN1;PUBBLICA;01/01/2005
+819;5937;;210;;;9;Area funzioni territoriali;1;0;24;NEUROPSICHIATRIA INFANTILE TERRITORIALE CEVA CN1;PUBBLICA;01/01/2005
+820;5941;;210;;;9;Area funzioni territoriali;1;0;25;RIABILITAZIONE TERRITORIALE CUNEO-MONDOVI CN1;PUBBLICA;01/01/2005
+821;5061;;210;;;9;Area funzioni territoriali;1;0;26;S.C. DISTRETTO DI CUNEO - BORGO SAN DALMAZZO CN1;PUBBLICA;01/01/1995
+822;5953;;210;;;9;Area funzioni territoriali;1;0;27;POLO PSICHIATRICO TERRITORIALE MONDOVI CN1;PUBBLICA;01/01/2005
+823;5954;;210;;;9;Area funzioni territoriali;1;0;28;POLO PSICHIATRICO TERRITORIALE CEVA CN1;PUBBLICA;01/01/2005
+824;6069;;210;;;9;Area funzioni territoriali;1;0;30;CURE DOMICILIARI MONDOVI CN1;PUBBLICA;11/09/2002
+825;6070;;210;;;9;Area funzioni territoriali;1;0;31;S.S. RESIDENZA ASSISTENZIALE AD ALTA VALENZA SANITARIA DOGLIANI CN1;PUBBLICA;16/04/2003
+826;5159;;210;;;9;Area funzioni territoriali;1;0;34;S.C. MEDICINA FISICA E RIABILITATIVA CUNEO-MONDOVI CN1;PUBBLICA;04/08/2000
+827;6800;;210;;;9;Area funzioni territoriali;1;0;35;DIREZIONE DIPARTIMENTO INTERAZIENDALE DI SALUTE MENTALE CN1;PUBBLICA;03/07/2002
+828;5184;;210;;;9;Area funzioni territoriali;1;0;36;CURE DOMICILIARI CUNEO CN1;PUBBLICA;04/08/2000
+829;5185;;210;;;9;Area funzioni territoriali;1;0;37;CURE DOMICILIARI DRONERO CN1;PUBBLICA;04/08/2000
+830;6078;;210;;;9;Area funzioni territoriali;1;0;38;S.C. DISTRETTO DI MONDOVI CN1;PUBBLICA;01/01/1995
+831;5176;;210;;;9;Area funzioni territoriali;1;0;39;S.C. DISTRETTO DI DRONERO CN1 ;PUBBLICA;01/01/1995
+832;5227;;210;;;9;Area funzioni territoriali;1;0;40;NEUROPSICHIATRIA INFANTILE TERRITORIALE CUNEO CN1;PUBBLICA;04/08/2000
+833;5229;;210;;;9;Area funzioni territoriali;1;0;41;CURE DOMICILIARI BORGO S. DALMAZZO CN1;PUBBLICA;04/08/2000
+834;5232;;210;;;9;Area funzioni territoriali;1;0;43;OSPEDALE DI COMUNITA' DI DEMONTE CN1;PUBBLICA;01/01/2003
+835;5305;;210;;;9;Area funzioni territoriali;1;0;44;S.C. SER.T. CN1;PUBBLICA;01/01/1995
+836;6079;;210;;;9;Area funzioni territoriali;1;0;45;S.C. DISTRETTO DI CEVA CN1;PUBBLICA;01/01/1995
+837;8872;;210;;;9;Area funzioni territoriali;1;0;46;S.S. AREA MINORI CN1;PUBBLICA;01/08/2005
+838;5384;;210;;;9;Area funzioni territoriali;1;0;47;S.S. AREA RESIDENZIALE PSICH. CUNEO CN1;PUBBLICA;21/01/2004
+839;5389;;210;;;9;Area funzioni territoriali;1;0;48;S.S. CSM CUNEO - BOVES - DRONERO CN1;PUBBLICA;04/08/2000
+840;5372;;210;;;9;Area funzioni territoriali;1;0;51;S.C. FARMACIA TERRITORIALE CN1;PUBBLICA;01/01/1995
+841;5383;;210;;;9;Area funzioni territoriali;1;0;53;S.C. PSICHIATRIA CUNEO CN1;PUBBLICA;25/10/2002
+842;9710;;210;;;9;Area funzioni territoriali;1;0;54;S.C. PSICOLOGIA CN1;PUBBLICA;01/10/2008
+843;9711;;210;;;9;Area funzioni territoriali;1;0;55;S.S. AREA ADULTI CN1;PUBBLICA;01/10/2008
+844;5574;;210;;;9;Area funzioni territoriali;1;0;65;S.C. CURE PALLIATIVE CUNEO CN1;PUBBLICA;01/10/1999
+845;5580;;210;;;9;Area funzioni territoriali;1;0;66;S.S. CENTRO RESIDENZIALE CURE PALLIATIVE - HOSPICE CN1;PUBBLICA;01/10/1999
+846;5584;;210;;;9;Area funzioni territoriali;1;0;67;CENTRO ONCOLOGICO DIURNO CN1;PUBBLICA;01/10/1999
+847;5590;;210;;;9;Area funzioni territoriali;1;0;68;ASSISTENZA DOMICILIARE CURE PALLIATIVE CN1;PUBBLICA;01/10/1999
+848;6035;;210;;;9;Area funzioni territoriali;1;0;88;CENTRO DIURNO A. MAURO CHIUSA PESIO CN1;PUBBLICA;01/01/2005
+849;6087;;210;;;9;Area funzioni territoriali;1;0;92;CENTRO DIURNO PORTATORI DI HANDICAP CERVASCA CN1;PUBBLICA;01/01/2005
+850;6101;;210;;;9;Area funzioni territoriali;1;0;96;CENTRO RESIDENZIALE A. MAURO CHIUSA PESIO CN1;PUBBLICA;01/01/2005
+851;4938;;210;;;9;Area funzioni territoriali;2;0;1;ATTIVITA' AMBULATORIALE TERRITORIALE DISTRETTO CUNEO E BORGO S.D. CN1;PUBBLICA;04/08/2000
+852;10575;;210;;;9;Area funzioni territoriali;2;0;2;AMBULATORIO DISTURBI COMPORTAMENTO ALIMENTARE CN1;PUBBLICA;01/01/2010
+853;10579;;210;;;9;Area funzioni territoriali;2;0;3;AMBULATORIO PSICOLOGIA AREA MINORI MONDOVI' CN1;PUBBLICA;01/12/2009
+854;10591;;210;;;9;Area funzioni territoriali;2;0;4;AMBULATORIO SERVIZIO AZIENDALE TUTELA SALUTE AMBITO PENITENZIARIO CUNEO CN1;PUBBLICA;01/01/2009
+855;10592;;210;;;9;Area funzioni territoriali;2;0;5;AMBULATORIO SERVIZIO AZIENDALE TUTELA SALUTE AMBITO PENITENZIARIO SALUZZO CN1;PUBBLICA;01/01/2009
+856;5116;;210;;;9;Area funzioni territoriali;2;0;6;AMBULATORIO CSM  MONDOVI' CN1;PUBBLICA;27/03/2002
+857;5117;;210;;;9;Area funzioni territoriali;2;0;7;AMBULATORIO CSM CEVA CN1;PUBBLICA;27/03/2002
+858;10593;;210;;;9;Area funzioni territoriali;2;0;8;AMBULATORIO SERVIZIO AZIENDALE TUTELA SALUTE AMBITO PENITENZIARIO FOSSANO CN1;PUBBLICA;01/01/2009
+859;13440;;210;;;9;Area funzioni territoriali;2;0;9;AMBULATORIO NEUROPSICOLOGIA E PATOLOGIE GRAVEMENTE INVALIDANTI CN1;PUBBLICA;01/01/2011
+860;13634;;210;;;9;Area funzioni territoriali;2;0;10;AMBULATORIO FISIOTERAPICO DISTRETTO SALUZZO CN1;PUBBLICA;01/04/2011
+861;5665;;210;;;9;Area funzioni territoriali;2;0;11;ATTIVITA AMBULAT. TERRITOR. DISTRETTO MONDOVI' CN1;PUBBLICA;27/03/2002
+862;5699;;210;;;9;Area funzioni territoriali;2;0;12;ATTIVITA AMBULAT. TERRITOR. DISTRETTO CEVA CN1;PUBBLICA;27/03/2002
+863;5561;;210;;;9;Area funzioni territoriali;2;0;13;ATTIVITA' AMBULATORIALE TERRITORIALE DISTR. SALUZZO CN1;PUBBLICA;03/07/2002
+864;5562;;210;;;9;Area funzioni territoriali;2;0;14;ATTIVITA AMBULAT. TERRITOR. DISTRETTO SAVIGLIANO-FOSSANO CN1;PUBBLICA;03/07/2002
+865;5160;;210;;;9;Area funzioni territoriali;2;0;23;R.R.F. AMBULATORIALE TERRITORIALE CUNEO-MONDOVI CN1;PUBBLICA;01/01/1995
+866;5213;;210;;;9;Area funzioni territoriali;2;0;24;ATTIVITA' AMBULATORIALE TERRITORIALE DISTRETTO DRONERO CN1;PUBBLICA;01/01/1995
+867;6029;;210;;;9;Area funzioni territoriali;2;0;25;AMBULATORIO CONSULTORIO FAMILIARE SAVIGLIANO CN1;PUBBLICA;03/07/2002
+868;6051;;210;;;9;Area funzioni territoriali;2;0;26;SER.T. SAVIGLIANO - SALUZZO - FOSSANO AMBULATORIALE CN1;PUBBLICA;03/07/2002
+869;6052;;210;;;9;Area funzioni territoriali;2;0;27;S.S. CSM SALUZZO CN1;PUBBLICA;03/07/2002
+870;6053;;210;;;9;Area funzioni territoriali;2;0;28;AMBULATORIO CSM SAVIGLIANO FOSSANO CN1;PUBBLICA;03/07/2002
+871;5375;;210;;;9;Area funzioni territoriali;2;0;29;LIBERA PROFESSIONE TERRITORIALE CN1;PUBBLICA;04/08/2000
+872;6073;;210;;;9;Area funzioni territoriali;2;0;33;SER.T. MONDOVI - CEVA AMBULATORIALE CN1;PUBBLICA;27/03/2002
+873;5623;;210;;;9;Area funzioni territoriali;2;0;34;PSICOLOGIA AMBULATORIALE AREA ADULTI CUNEO CN1;PUBBLICA;01/01/1995
+874;5625;;210;;;9;Area funzioni territoriali;2;0;35;PSICOLOGIA AMBULATORIALE AREA MINORI CUNEO CN1;PUBBLICA;01/01/1995
+875;5355;;210;;;9;Area funzioni territoriali;2;0;36;LOGOPEDIA E FONIATRIA AMBULATORIALE CN1;PUBBLICA;04/08/2000
+876;5587;;210;;;9;Area funzioni territoriali;2;0;37;AMBULATORIO CURE PALLIATIVE CUNEO CN1;PUBBLICA;01/10/1999
+877;9637;;210;;;9;Area funzioni territoriali;2;0;39;AMBULATORIO CONSULTORIO FAMILIARE MONDOVI CN1;PUBBLICA;03/11/2008
+878;5231;;210;;;9;Area funzioni territoriali;2;0;42;AMBULATORIO CONSULTORIO FAMILIARE CUNEO CN1;PUBBLICA;01/01/1995
+879;10453;;210;;;9;Area funzioni territoriali;2;0;54;AMBULATORIO CSM CUNEO - BOVES - DRONERO CN1;PUBBLICA;01/10/2008
+880;9797;;210;;;9;Area funzioni territoriali;2;0;58;AMBULATORIO PSICOLOGIA AREA ADULTI MONDOVI' CN1;PUBBLICA;01/10/2008
+881;5607;;210;;;9;Area funzioni territoriali;2;0;70;SER.T. AMBULATORIALE CUNEO-BOVES-DRONERO CN1;PUBBLICA;01/01/1995
+882;10342;;210;;;9;Area funzioni territoriali;2;0;71;AMBULATORIO GRANDI OBESI CEVA CN1;PUBBLICA;01/04/2009
+883;10343;;210;;;9;Area funzioni territoriali;2;0;72;AMBULATORIO GRANDI OBESI SAVIGLIANO CN1;PUBBLICA;01/04/2009
+884;10346;;210;;;9;Area funzioni territoriali;2;0;73;CENTRO SOVRAZON. AUTISMO E DISTURBI PERVASIVI DELLO SVILUPPO ADULTI CN1;PUBBLICA;01/10/2008
+885;10348;;210;;;9;Area funzioni territoriali;2;0;74;CENTRO SOVRAZON. AUTISMO E DISTURBI PERVASIVI DELLO SVILUPPO MINORI CN1;PUBBLICA;01/10/2008
+886;8805;;210;;;9;Area funzioni territoriali;3;0;1;OSPEDALE DI COMUNITA' DI BOVES CN1;PUBBLICA;01/04/2005
+887;9780;;210;;;9;Area funzioni territoriali;3;0;3;S.S. PSICOPATOLOGIA DELLO SVILUPPO E DELLA DISABILITA' CN1;PUBBLICA;01/10/2008
+888;13439;;210;;;9;Area funzioni territoriali;3;0;6;S.S. NEUROPSICOLOGIA E PATOLOGIE GRAVEMENTE INVALIDANTI CN1;PUBBLICA;01/01/2011
+889;13448;;210;;;9;Area funzioni territoriali;3;0;7;S.C. ATTIVITA' DI VIGILANZA SULLE STRUTTURE SANITARIE CN1;PUBBLICA;01/10/2010
+890;13498;;210;;;9;Area funzioni territoriali;3;0;8;S.S. PREVENZIONE E CURA DEI LEGAMI FAMIGLIARI CN1;PUBBLICA;01/12/2009
+891;13521;;210;;;9;Area funzioni territoriali;3;0;9;S.S. AREA ADOLESCENTI CN1;PUBBLICA;01/10/2010
+892;13532;;210;;;9;Area funzioni territoriali;3;0;10;CENTRO ACCOGLIENZA E SERVIZI ONCOLOGICI - CAS- CUNEO CN1;PUBBLICA;01/01/2011
+893;13641;;210;;;9;Area funzioni territoriali;3;0;11;S.S.D. ASSISTENZA INTEGRATIVA E PROTESICA CN1;PUBBLICA;12/10/2011
+894;14093;;210;;;9;Area funzioni territoriali;3;0;16;S.S.D. ATTIVITA' DI VIGILANZA STRUTTURE SOCIO-ASSISTENZIALI CN1;PUBBLICA;01/01/2013
+895;9962;;210;;;9;Area funzioni territoriali;3;0;18;S.S. SER.T. CUNEO-BOVES-DRONERO CN1;PUBBLICA;30/12/2008
+896;9971;;210;;;9;Area funzioni territoriali;3;0;19;S.S. SER.T. SAVIGLIANO - SALUZZO - FOSSANO CN1;PUBBLICA;08/01/2009
+897;9972;;210;;;9;Area funzioni territoriali;3;0;20;S.S. SER.T. MONDOVI - CEVA CN1;PUBBLICA;08/01/2009
+898;10234;;210;;;9;Area funzioni territoriali;3;0;22;S.S.D. CENTRO UNICO DI PRENOTAZIONE CN1;PUBBLICA;01/10/2008
+899;10235;;210;;;9;Area funzioni territoriali;3;0;23;S.S.D. SERVIZIO AZIENDALE TUTELA DELLA SALUTE IN AMBITO PENITENZIARIO CN1;PUBBLICA;01/01/2008
+900;10339;;210;;;9;Area funzioni territoriali;3;0;26;S.S.D. CONSULTORIO FAMILIARE CUNEO CN1;PUBBLICA;01/10/2008
+901;10341;;210;;;9;Area funzioni territoriali;3;0;28;S.S.D. CONSULTORIO FAMILIARE MONDOVI' - SAVIGLIANO CN1;PUBBLICA;01/10/2008
+902;10349;;210;;;9;Area funzioni territoriali;3;0;29;NEUROPSICHIATRIA INFANTILE TERRITORIALE SAVIGLIANO SALUZZO FOSSANO CN1;PUBBLICA;01/10/2008
+903;10393;;210;;;9;Area funzioni territoriali;3;0;30;CENTRI DIURNI CUNEO - DRONERO CN1;PUBBLICA;01/10/2008
+904;10394;;210;;;9;Area funzioni territoriali;3;0;31;S.C. PSICHIATRIA SAVIGLIANO CN1;PUBBLICA;01/10/2008
+905;10406;;210;;;9;Area funzioni territoriali;3;0;32;INSERIMENTI ALTRE STRUTTURE RESIDENZ. E SEMIRESIDENZ. DISTRETTO DI MONDOVI CN1;PUBBLICA;01/10/2008
+906;10407;;210;;;9;Area funzioni territoriali;3;0;33;INSERIMENTI ALTRE STRUTTURE RESIDENZ. E SEMIRESIDENZ. DISTRETTO DI SALUZZO CN1;PUBBLICA;01/10/2008
+907;10409;;210;;;9;Area funzioni territoriali;3;0;34;INSERIM. ALTRE STRUTTURE RESIDENZ. E SEMIRESIDENZ. DISTRETTO CUNEO - B.S.D. CN1;PUBBLICA;01/10/2008
+908;10410;;210;;;9;Area funzioni territoriali;3;0;35;INSERIMENTI ALTRE STRUTTURE RESIDENZ. E SEMIRESIDENZ. DISTRETTO DI CEVA CN1;PUBBLICA;01/10/2008
+909;10411;;210;;;9;Area funzioni territoriali;3;0;36;INSERIMENTI ALTRE STRUTT. RESID. E SEMIRESID. DISTRETTO DRONERO CN1;PUBBLICA;24/04/2009
+910;10412;;210;;;9;Area funzioni territoriali;3;0;37;INSERIMENTI ALTRE STRUTTURE RESID. E SEMIRESID. DISTRETTO DI SAVIGLIANO-FOSSANO CN1;PUBBLICA;01/10/2008
+911;10416;;210;;;9;Area funzioni territoriali;3;0;38;INSERIMENTI ALTRE STRUTTURE RESID. E SEMIRESID. PSICHIATRIA CUNEO CN1;PUBBLICA;29/04/2009
+912;10417;;210;;;9;Area funzioni territoriali;3;0;39;INSERIMENTI ALTRE STRUTTURE RESID. E SEMIRESID. PSICHIATRIA SAVIGLIANO CN1;PUBBLICA;01/10/2008
+913;10448;;210;;;9;Area funzioni territoriali;3;0;41;CENTRO PRELIEVO MONDOVI CN1;PUBBLICA;01/10/2008
+914;10449;;210;;;9;Area funzioni territoriali;3;0;42;CENTRO PRELIEVO CEVA CN1;PUBBLICA;01/10/2008
+915;10450;;210;;;9;Area funzioni territoriali;3;0;43;CENTRO PRELIEVO SALUZZO CN1;PUBBLICA;01/10/2008
+916;10451;;210;;;9;Area funzioni territoriali;3;0;44;CENTRO PRELIEVO SAVIGLIANO CN1;PUBBLICA;01/10/2008
+917;10452;;210;;;9;Area funzioni territoriali;3;0;45;CENTRO PRELIEVO FOSSANO CN1;PUBBLICA;01/10/2008
+918;10454;;210;;;9;Area funzioni territoriali;3;0;46;S.S. CSM SAVIGLIANO - FOSSANO CN1;PUBBLICA;01/10/2008
+919;10455;;210;;;9;Area funzioni territoriali;3;0;47;S.S. CSM E CENTRO DIURNO MONDOVI' CN1;PUBBLICA;01/10/2008
+920;10456;;210;;;9;Area funzioni territoriali;3;0;48;S.S. CSM CEVA CN1;PUBBLICA;01/10/2008
+921;10457;;210;;;9;Area funzioni territoriali;3;0;49;ASSISTENZA RESID. E SEMIRESID. PSICHIATRIA SAVIGLIANO CN1;PUBBLICA;01/10/2008
+922;10458;;210;;;9;Area funzioni territoriali;3;0;50;S.C. PSICHIATRIA MONDOVI CN1;PUBBLICA;01/10/2008
+923;14203;;210;;;9;Area funzioni territoriali;3;0;99;S.S.A. GESTIONE POSTI LETTO DI CONTINUITA' ASSIST AD ALTA VALENZA SANITARIA;PUBBLICA;01/06/2013
+924;13499;;210;;;9;Area funzioni territoriali;5;0;1;AMBULATORIO PREVENZIONE E CURA DEI LEGAMI FAMIGLIARI CN1;PUBBLICA;01/12/2009
+925;13522;;210;;;9;Area funzioni territoriali;5;0;2;AMBULATORIO PSICOLOGIA AREA ADOLESCENTI CUNEO CN1;PUBBLICA;01/01/2010
+926;13533;;210;;;9;Area funzioni territoriali;5;0;3;AMBULATORIO CENTRO ACCOGLIENZA E SERVIZI ONCOLOGICI - CAS - CUNEO CN1;PUBBLICA;01/01/2011
+927;4923;;210;;;10;Area funzioni di prevenzione;1;0;1;EPIDEMIOLOGIA SAVIGLIANO CN1;PUBBLICA;11/08/2003
+928;5031;;210;;;10;Area funzioni di prevenzione;1;0;2;DIREZIONE DIPARTIMENTO DI PREVENZIONE CN1;PUBBLICA;01/01/1997
+929;5033;;210;;;10;Area funzioni di prevenzione;1;0;3;S.C. UVOS CN1;PUBBLICA;01/01/1999
+930;5174;;210;;;10;Area funzioni di prevenzione;1;0;4;S.S. EPIDEMIOLOGIA CN1;PUBBLICA;27/03/2002
+931;5264;;210;;;10;Area funzioni di prevenzione;1;0;5;S.C. DIREZIONE AMMINISTRATIVA DEL DIPARTIMENTO DI PREVENZIONE CN1;PUBBLICA;10/03/2003
+932;5271;;210;;;10;Area funzioni di prevenzione;1;0;6;S.C. SERVIZIO SANITA ANIMALE II AREA A SAVIGLIANO - SALUZZO CN1;PUBBLICA;03/07/2002
+933;5275;;210;;;10;Area funzioni di prevenzione;1;0;8;S.C. IGIENE ALIMENTI DI ORIGINE ANIMALE II AREA B SAVIGLIANO - SALUZZO CN1;PUBBLICA;03/07/2002
+934;5089;;210;;;10;Area funzioni di prevenzione;1;0;9;S.S. FARMACOVIGILANZA CUNEO-MONDOVI' CN1;PUBBLICA;25/08/2002
+935;5277;;210;;;10;Area funzioni di prevenzione;1;0;10;S.C. IGIENE ALLEVAMENTI E PRODUZ ZOOTECNICHE II AREA C SAVIGLIANO - SALUZZO CN1;PUBBLICA;03/07/2002
+936;5032;;210;;;10;Area funzioni di prevenzione;1;0;11;EPIDEMIOLOGIA CUNEO CN1;PUBBLICA;25/10/2002
+937;5280;;210;;;10;Area funzioni di prevenzione;1;0;12;S.S. ANAGRAFE ANIMALE SAVIGLIANO CN1;PUBBLICA;12/12/2003
+938;5038;;210;;;10;Area funzioni di prevenzione;1;0;16;S.C. SISP CN1;PUBBLICA;01/01/1997
+939;5040;;210;;;10;Area funzioni di prevenzione;1;0;18;S.C. SIAN CN1;PUBBLICA;01/01/1997
+940;5043;;210;;;10;Area funzioni di prevenzione;1;0;21;S.C. S.PRE.S.A.L. CN1;PUBBLICA;01/01/1997
+941;5045;;210;;;10;Area funzioni di prevenzione;1;0;23;S.C. SERVIZIO SANITA ANIMALE I AREA A CUNEO - MONDOVI CN1;PUBBLICA;01/01/1995
+942;5047;;210;;;10;Area funzioni di prevenzione;1;0;24;S.S. ANAGRAFE ANIMALE CUNEO CN1;PUBBLICA;04/08/2000
+943;6046;;210;;;10;Area funzioni di prevenzione;1;0;25;S.S. MEDICINA LEGALE SAVIGLIANO - SALUZZO - FOSSANO CN1;PUBBLICA;03/07/2002
+944;12520;;210;;;10;Area funzioni di prevenzione;1;0;26;S.S.S. EPIDEMIOSORVEGLIANZA VETERINARIA CN1;PUBBLICA;24/02/2010
+945;5078;;210;;;10;Area funzioni di prevenzione;1;0;29;S.C. IGIENE ALIMENTI DI ORIGINE ANIMALE I AREA B CUNEO - MONDOVI CN1;PUBBLICA;10/11/2004
+946;5082;;210;;;10;Area funzioni di prevenzione;1;0;30;S.S. ISPEZIONE CARNI CUNEO CN1;PUBBLICA;04/08/2000
+947;5088;;210;;;10;Area funzioni di prevenzione;1;0;31;S.C.IGIENE ALLEVAMENTI E PRODUZ. ZOOTECNICHE I AREA C CUNEO - MONDOVI CN1;PUBBLICA;01/01/1995
+948;6072;;210;;;10;Area funzioni di prevenzione;1;0;32;S.S. MEDICINA LEGALE MONDOVI - CEVA CN1;PUBBLICA;27/03/2002
+949;13436;;210;;;10;Area funzioni di prevenzione;1;0;33;S.S. ANAGRAFE ANIMALE SALUZZO CN1;PUBBLICA;01/10/2010
+950;5432;;210;;;10;Area funzioni di prevenzione;1;0;56;S.C. PRESIDIO MULTIZONALE PROFILASSI E POLIZIA VETERINARIA - P.M.P.P.V. CN1;PUBBLICA;01/01/1995
+951;5433;;210;;;10;Area funzioni di prevenzione;1;0;57;S.C. SERVIZIO SOVRAZONALE DI EPIDEMIOLOGIA - SS.EPI CN1;PUBBLICA;01/01/1995
+952;5449;;210;;;10;Area funzioni di prevenzione;1;0;58;S.C. MEDICINA LEGALE CN1;PUBBLICA;01/01/1995
+953;5455;;210;;;10;Area funzioni di prevenzione;1;0;60;S.S.D. MEDICINA SPORTIVA CN1;PUBBLICA;01/01/1995
+954;6091;;210;;;10;Area funzioni di prevenzione;1;0;94;S.S. EDUCAZIONE SANITARIA CN1;PUBBLICA;01/01/1995
+955;10488;;210;;;10;Area funzioni di prevenzione;2;0;55;S.C. DIREZIONE INTEGRATA DELLA PREVENZIONE CN1;PUBBLICA;01/06/2009
+956;9897;;210;;;10;Area funzioni di prevenzione;2;0;59;S.S.D. INFORMATICA AREA PREVENZIONE CN1;PUBBLICA;01/10/2008
+957;10492;;210;;;10;Area funzioni di prevenzione;2;0;75;S.S. OSSERVATORIO NEOPLASIE PROFESSIONALI CN1;PUBBLICA;01/07/2009
+958;5012;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;4;DIREZIONE DIPARTIMENTO AMMINISTRATIVO CN1;PUBBLICA;04/08/2000
+959;5015;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;5;S.C. SERVIZIO PERSONALE CN1;PUBBLICA;01/01/1995
+960;13426;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;10;S.S. SERVIZIO TECNICO SAVIGLIANO-FOSSANO CN1;PUBBLICA;01/10/2010
+961;13427;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;11;S.S. SERVIZIO TECNICO CUNEO-SALUZZO E PREVENZIONE INCENDI CN1;PUBBLICA;01/10/2010
+962;13428;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;12;S.S. SERVIZIO TECNICO MONDOVI-CEVA CN1;PUBBLICA;01/10/2010
+963;13429;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;13;S.S. ENERGY MANAGER CN1;PUBBLICA;01/10/2010
+964;13434;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;14;S.S. GESTIONE E VALORIZZAZIONE PATRIMONIO IMMOBILIARE CN1;PUBBLICA;01/10/2010
+965;13466;;210;;;11;Area funzioni generali e supp tecn/amm;1;0;15;S.S. AMMINISTRATIVA NUOVO PRESIDIO OSPEDALIERO DI FOSSANO CN1;PUBBLICA;01/10/2010
+966;4993;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;5;S.S.D. CONTABILITA' ANALITICA E MAPPATURA ATTIVITA' CN1;PUBBLICA;01/01/1997
+967;5287;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;9;S.S. MEDICO COMPETENTE MONDOVI' CN1;PUBBLICA;27/03/2002
+968;5035;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;10;MEDICO COMPETENTE SAVIGLIANO CN1;PUBBLICA;23/09/2003
+969;5008;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;14;S.S. MEDICO COMPETENTE CUNEO CN1;PUBBLICA;04/08/2000
+970;13316;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;19;S.S. ANAGRAFE;PUBBLICA;01/10/2010
+971;9683;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;40;S.C. SEGRETERIA E SIST. INF. DIREZIONALE CN1;PUBBLICA;01/10/2008
+972;9684;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;41;S.S. AFFARI GENERALI CN1;PUBBLICA;01/10/2008
+973;9685;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;43;S.C. PROGRAMMAZIONE E POLITICHE DI BUDGET CN1;PUBBLICA;01/10/2008
+974;9686;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;44;S.C. COMUNICAZIONE BILANCIO SOCIALE CN1;PUBBLICA;01/10/2008
+975;9687;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;45;S.S. UFFICIO STAMPA  CN1;PUBBLICA;01/10/2008
+976;9688;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;46;S.S. U.R.P. CN1;PUBBLICA;01/10/2008
+977;9689;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;47;S.C. SERVIZIO PREVENZIONE E PROTEZIONE CN1;PUBBLICA;01/10/2008
+978;9690;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;48;S.C. SERVIZIO INFORMATICA E TELECOMUNICAZIONI CN1;PUBBLICA;01/10/2008
+979;9691;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;49;DIRETTORE GENERALE E ORGANI COLLEGIALI CN1;PUBBLICA;01/10/2008
+980;9696;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;50;DIRETTORE AMMINISTRATIVO CN1;PUBBLICA;01/10/2008
+981;9697;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;51;S.C. SERVIZIO LEGALE CN1;PUBBLICA;01/10/2008
+982;9698;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;52;S.S. ASSICURAZIONI AZIENDALI CN1;PUBBLICA;01/10/2008
+983;9699;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;53;S.S. AFFARI ISTITUZIONALI CN1;PUBBLICA;01/10/2008
+984;9700;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;56;S.S. SERVIZIO ISPETTIVO E ATT. EXTRA IST. DEL PERSONALE CN1;PUBBLICA;01/10/2008
+985;9702;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;60;DIRETTORE SANITARIO CN1;PUBBLICA;01/10/2008
+986;9704;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;61;S.C. MEDICINA LAVORO MEDICO COMPETENTE CN1;PUBBLICA;01/10/2008
+987;9705;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;62;S.C. DIREZ. PROF. SANIT. E COORDIN. SERV. SOCIALE AZIENDALE CN1;PUBBLICA;01/10/2008
+988;9706;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;63;S.S. FISICA SANITARIA CN1;PUBBLICA;01/10/2008
+989;9707;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;64;S.S. RISK MANAGEMENT CN1;PUBBLICA;01/10/2008
+990;9708;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;65;S.C. UFFICIO QUALITA' CN1;PUBBLICA;01/10/2008
+991;14335;;210;;;11;Area funzioni generali e supp tecn/amm;2;0;76;S.S.A. SVILUPPO E CONTROLLO STRATEGICO;PUBBLICA;01/05/2013
+992;9883;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;4;DIREZIONE DIPARTIMENTO FINANZIARIO CN1;PUBBLICA;01/10/2008
+993;9884;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;6;S.C. PATRIMONIO CN1 ;PUBBLICA;01/10/2008
+994;9885;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;7;S.C. BILANCIO E CONTABILITA' CN1;PUBBLICA;01/10/2008
+995;9886;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;8;S.C. CONTROLLO DI GESTIONE CN1;PUBBLICA;01/10/2008
+996;9889;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;9;DIREZIONE DIPARTIMENTO TECNICO LOGISTICO CN1;PUBBLICA;01/10/2008
+997;9890;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;10;S.S.D. GARE CN1;PUBBLICA;01/10/2008
+998;9891;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;11;S.C. SERVIZIO TECNICO CN1;PUBBLICA;01/10/2008
+999;9892;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;12;S.C. SERVIZIO ACQUISTI CN1;PUBBLICA;01/10/2008
+1000;9893;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;13;S.C. ECONOMATO CN1;PUBBLICA;01/10/2008
+1001;9894;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;14;S.C. O.S.R.U. CN1;PUBBLICA;01/10/2008
+1002;9895;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;15;S.C. DIREZIONE AMMINISTRATIVA DISTRETTI CN1;PUBBLICA;01/10/2008
+1003;9896;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;16;S.S.D. FORMAZIONE CN1;PUBBLICA;01/10/2008
+1004;10236;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;24;S.S.D. INGEGNERIA CLINICA CN1;PUBBLICA;01/10/2008
+1005;10241;;210;;;11;Area funzioni generali e supp tecn/amm;3;0;25;S.S. AMMINISTRATIVA DEI PRESIDI CN1;PUBBLICA;01/10/2008
+1006;10118;;210;;;11;Area funzioni generali e supp tecn/amm;4;0;1;DIREZIONE SOVRINTENDENZA SANITARIA DEI PRESIDI OSPEDALIERI CN1;PUBBLICA;01/10/2008
+1007;10119;;210;;;11;Area funzioni generali e supp tecn/amm;4;0;2;S.C. DIREZIONE AMMINISTRATIVA DEI PRESIDI OSPEDALIERI CN1;PUBBLICA;01/10/2008
+1008;10174;;210;;;11;Area funzioni generali e supp tecn/amm;4;0;3;S.C. FARMACIA DEL PRESIDIO OSPEDALIERO CN1;PUBBLICA;01/10/2008
+1009;10175;;210;;;11;Area funzioni generali e supp tecn/amm;4;0;4;S.C. SORVEGLIANZA E CONTROLLO INFEZIONI COMUNITARIE CN1;PUBBLICA;01/10/2008
+1010;13863;;211;;;9;Area funzioni territoriali;1;0;1;SOS Servizio Aziendale per la Tutela della Salute in ambito Penitenziario;PUBBLICA;01/01/2012
+1011;13964;;211;;;9;Area funzioni territoriali;1;0;2;SOS C.T.P.;PUBBLICA;01/01/2006
+1012;5120;;211;;;9;Area funzioni territoriali;1;0;3;SOC Assistenza Farmaceutica Territoriale;PUBBLICA;29/11/2001
+1013;13965;;211;;;9;Area funzioni territoriali;1;0;5;SOS D.S.M. e C.S.M.;PUBBLICA;01/01/2006
+1014;9858;;211;;;9;Area funzioni territoriali;1;0;35;SOC Distretto n. 1 Alba;PUBBLICA;01/11/2008
+1015;9859;;211;;;9;Area funzioni territoriali;1;0;36;SOC Distretto n. 2 Bra;PUBBLICA;01/11/2008
+1016;9860;;211;;;9;Area funzioni territoriali;1;0;37;SOS Invalidita' e handicap;PUBBLICA;01/11/2008
+1017;4944;;211;;;9;Area funzioni territoriali;2;0;1;SOC Cure Primarie e Domiciliari;PUBBLICA;04/11/2004
+1018;4405;;211;;;9;Area funzioni territoriali;2;0;1;SSD Specialistica Ambulatoriale - Poliambulatori Territoriali;PUBBLICA;21/10/2004
+1019;5119;;211;;;9;Area funzioni territoriali;2;0;2;SOC Servizio Dipendenze Patologiche;PUBBLICA;29/11/2001
+1020;5122;;211;;;9;Area funzioni territoriali;2;0;5;SOC Servizio Riabilitazione Psichiatrica;PUBBLICA;29/11/2001
+1021;5123;;211;;;9;Area funzioni territoriali;2;0;6;SOC Servizio Ambulatoriale Territoriale DSM;PUBBLICA;29/11/2001
+1022;9854;;211;;;9;Area funzioni territoriali;2;0;10;SOS Alba - Bra - ADI Cure Palliative e Domiciliari ;PUBBLICA;01/11/2008
+1023;9861;;211;;;9;Area funzioni territoriali;2;0;12;SOS Dipendenze Patologiche;PUBBLICA;01/11/2008
+1024;9757;;211;;;10;Area funzioni di prevenzione;1;0;5;SOS Medicina dello Sport;PUBBLICA;01/11/2008
+1025;9759;;211;;;10;Area funzioni di prevenzione;1;0;6;SSD Epidemiologia;PUBBLICA;01/11/2008
+1026;5125;;211;;;10;Area funzioni di prevenzione;1;0;7;SOC SISP;PUBBLICA;30/04/1996
+1027;5126;;211;;;10;Area funzioni di prevenzione;1;0;8;SOC SIAN;PUBBLICA;30/04/1996
+1028;5127;;211;;;10;Area funzioni di prevenzione;1;0;9;SOC SPRESAL;PUBBLICA;30/04/1996
+1029;5128;;211;;;10;Area funzioni di prevenzione;1;0;10;SOC Servizio Veterinario - Area A;PUBBLICA;30/04/1996
+1030;5129;;211;;;10;Area funzioni di prevenzione;1;0;11;SOC Servizio Veterinario - Area B;PUBBLICA;30/04/1996
+1031;5130;;211;;;10;Area funzioni di prevenzione;1;0;12;SOC Servizio Veterinario -  Area C;PUBBLICA;30/04/1996
+1032;7596;;211;;;10;Area funzioni di prevenzione;1;0;30;SOC Medicina Legale ;PUBBLICA;14/12/2004
+1033;9760;;211;;;10;Area funzioni di prevenzione;1;0;31;SOS Educazione alla Salute;PUBBLICA;01/11/2008
+1034;9768;;211;;;10;Area funzioni di prevenzione;1;0;32;Direzione Dipartimento e Direzione Integrata della Prevenzione;PUBBLICA;01/11/2008
+1035;9863;;211;;;10;Area funzioni di prevenzione;1;0;39;SOS Educazione alimentare e dietetica alimenti e bevande;PUBBLICA;01/11/2008
+1036;9865;;211;;;10;Area funzioni di prevenzione;1;0;41;SOS Vaccinazioni e profilassi malattie infettive;PUBBLICA;01/11/2008
+1037;9866;;211;;;10;Area funzioni di prevenzione;1;0;42;SOS Ufficio Anagrafe;PUBBLICA;01/11/2008
+1038;9867;;211;;;10;Area funzioni di prevenzione;1;0;43;SOS Animali esotici, selvatici, ittici, api e affezione;PUBBLICA;01/11/2008
+1039;9868;;211;;;10;Area funzioni di prevenzione;1;0;44;SOS Profilassi pianificata;PUBBLICA;01/11/2008
+1040;9869;;211;;;10;Area funzioni di prevenzione;1;0;45;SOS Igiene della produzione e trasformazione degli alimenti di origine animale;PUBBLICA;01/11/2008
+1041;13966;;211;;;10;Area funzioni di prevenzione;2;0;1;SOS Nucleo di Vigilanza Inter Area;PUBBLICA;01/01/2006
+1042;9750;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;1;SOS Anagrafe Aziendale e CUP;PUBBLICA;22/09/2008
+1043;5131;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;13;SOC Affari Generali;PUBBLICA;29/11/2001
+1044;5136;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;14;SOC Assistenza Legale;PUBBLICA;29/11/2001
+1045;5137;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;15;SOS O.S.R.U.;PUBBLICA;29/11/2001
+1046;5138;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;16;SOC Amministrazione del Personale;PUBBLICA;29/11/2001
+1047;5139;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;17;SOC Sistemi Informativi ;PUBBLICA;29/11/2001
+1048;5140;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;18;SOC Economato;PUBBLICA;29/11/2001
+1049;5141;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;19;SOC Provveditorato;PUBBLICA;29/11/2001
+1050;5142;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;20;SOC Servizi Tecnici;PUBBLICA;29/11/2001
+1051;5143;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;21;SOC TBI - Tecnologie Biomediche, Impianti e Sicurezza;PUBBLICA;29/11/2001
+1052;5144;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;22;SOS Patrimoniale;PUBBLICA;29/11/2001
+1053;5145;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;23;SOC Gestione Economica e Finanziaria;PUBBLICA;29/11/2001
+1054;5146;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;24;SOC Programmazione e Controllo ;PUBBLICA;29/11/2001
+1055;5148;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;26;SOS Statistica e Flussi Informativi;PUBBLICA;29/11/2001
+1056;9776;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;33;SOC Servizio Infermieristico;PUBBLICA;01/11/2008
+1057;9857;;211;;;11;Area funzioni generali e supp tecn/amm;1;0;34;SOS Assistenza primaria e protesica;PUBBLICA;01/11/2008
+1058;14001;;211;;;11;Area funzioni generali e supp tecn/amm;2;0;1;SOS Coordinamento e segreteria del comitato di gestione sinistri;PUBBLICA;01/01/2010
+1059;5132;;211;;;11;Area funzioni generali e supp tecn/amm;2;0;2;SOS Segreteria Direzione Generale;PUBBLICA;29/11/2001
+1060;5133;;211;;;11;Area funzioni generali e supp tecn/amm;2;0;3;SSD Medico Competente;PUBBLICA;29/11/2001
+1061;5134;;211;;;11;Area funzioni generali e supp tecn/amm;2;0;4;SSD Qualita' Risk Management e Relazioni con gli utenti;PUBBLICA;29/11/2001
+1062;5135;;211;;;11;Area funzioni generali e supp tecn/amm;2;0;5;SOS Servizio di Prevenzione e Protezione;PUBBLICA;29/11/2001
+1063;9953;;211;;;11;Area funzioni generali e supp tecn/amm;2;0;13;SOS Relazioni Esterne e Relazioni Istituzionali;PUBBLICA;01/11/2008
+1064;10536;;212;;;9;Area funzioni territoriali;1;0;1;SOC Cure Primarie e medicina convenz. territoriale;PUBBLICA;01/10/2009
+1065;13630;;212;;;9;Area funzioni territoriali;1;0;2;SOS Attivita' e Progetti Integrati Socio Sanitari;PUBBLICA;01/08/2011
+1066;5670;;212;;;9;Area funzioni territoriali;1;0;14;Distretto Asti Nord;PUBBLICA;22/11/2004
+1067;5671;;212;;;9;Area funzioni territoriali;1;0;15;Distretto Asti Centro;PUBBLICA;22/11/2004
+1068;5672;;212;;;9;Area funzioni territoriali;1;0;16;Distretto Asti Sud;PUBBLICA;22/11/2004
+1069;5690;;212;;;9;Area funzioni territoriali;1;0;20;SOS Medicina Convenzionata Interna ;PUBBLICA;22/11/2004
+1070;5691;;212;;;9;Area funzioni territoriali;1;0;21;SOS Centro Alzheimer e disabilita';PUBBLICA;22/11/2004
+1071;5692;;212;;;9;Area funzioni territoriali;1;0;22;Informazione Salute Immigrati;PUBBLICA;22/11/2004
+1072;5697;;212;;;9;Area funzioni territoriali;1;0;24;SOC Farmacia Territoriale;PUBBLICA;22/11/2004
+1073;5742;;212;;;9;Area funzioni territoriali;1;0;30;Vigilanza Strutture Sanitarie e Socio Sanitarie;PUBBLICA;23/11/2004
+1074;5743;;212;;;9;Area funzioni territoriali;1;0;31;SOC Attivita' Amministrative Territoriali;PUBBLICA;23/11/2004
+1075;10361;;212;;;9;Area funzioni territoriali;1;0;33;SOS Medicina Penitenziaria;PUBBLICA;01/04/2009
+1076;10362;;212;;;9;Area funzioni territoriali;1;0;34;Assistenza Integrativa protesica;PUBBLICA;01/04/2009
+1077;5772;;212;;;9;Area funzioni territoriali;1;0;40;SOC Psicologia Clinica ;PUBBLICA;23/11/2004
+1078;6256;;212;;;9;Area funzioni territoriali;1;0;53;SOC Emergenza sanitaria 118;PUBBLICA;01/01/2000
+1079;6775;;212;;;9;Area funzioni territoriali;1;0;54;Centro Unico di Prenotazione;PUBBLICA;01/12/2004
+1080;7692;;212;;;9;Area funzioni territoriali;1;0;57;Responsabile  dipartimentale dell' assistenza  DSM;PUBBLICA;01/01/2005
+1081;7979;;212;;;9;Area funzioni territoriali;1;0;60;Responsabile assistenza sociale DSM;PUBBLICA;01/01/2005
+1082;9237;;212;;;9;Area funzioni territoriali;1;0;66;SOC Cure Domiciliari Residenzialita';PUBBLICA;01/01/2007
+1083;10626;;212;;;9;Area funzioni territoriali;2;0;1;Poliambulatorio  Casa Circondariale;PUBBLICA;01/01/2010
+1084;5871;;212;;;9;Area funzioni territoriali;2;0;3;Poliambulatorio Territoriale;PUBBLICA;24/11/2004
+1085;6705;;212;;;9;Area funzioni territoriali;2;0;4;Poliambulatorio Territoriale Asti Nord;PUBBLICA;01/12/2004
+1086;5698;;212;;;9;Area funzioni territoriali;2;0;25;SOC Se.R.T.;PUBBLICA;22/11/2004
+1087;5753;;212;;;9;Area funzioni territoriali;2;0;33;SOC Psichiatria Asti Centro Nord;PUBBLICA;23/11/2004
+1088;5757;;212;;;9;Area funzioni territoriali;2;0;34;Riabilitazione e trattamenti psicosociali;PUBBLICA;23/11/2004
+1089;5761;;212;;;9;Area funzioni territoriali;2;0;35;Salute Mentale di comunita' Distretto Asti Centro;PUBBLICA;23/11/2004
+1090;5766;;212;;;9;Area funzioni territoriali;2;0;36;Salute Mentale di Comunita' Distretto  Asti Nord;PUBBLICA;23/11/2004
+1091;5767;;212;;;9;Area funzioni territoriali;2;0;37;SOC Psichiatria Vallebelbo;PUBBLICA;23/11/2004
+1092;5768;;212;;;9;Area funzioni territoriali;2;0;38;Riabilitazione e Trattamenti psicosociali Valle Belbo;PUBBLICA;23/11/2004
+1093;5769;;212;;;9;Area funzioni territoriali;2;0;39;Salute Mentale di Comunita' Valle Belbo;PUBBLICA;23/11/2004
+1094;6195;;212;;;9;Area funzioni territoriali;2;0;52;SOSD Consultori e Pediatria nelle Cure Primarie;PUBBLICA;24/03/2003
+1095;9494;;212;;;9;Area funzioni territoriali;3;0;1;SOS Coordinamento clinico organizzativo Case della Salute;PUBBLICA;01/01/2008
+1096;13633;;212;;;10;Area funzioni di prevenzione;1;0;1;SOS Nutrizione e Attivita' fisica;PUBBLICA;13/01/2011
+1097;5693;;212;;;10;Area funzioni di prevenzione;1;0;23;SOS Educazione e Promozione Salute;PUBBLICA;22/11/2004
+1098;10024;;212;;;10;Area funzioni di prevenzione;1;0;25;SOC Direzione Integrata della Prevenzione;PUBBLICA;15/12/2008
+1099;5702;;212;;;10;Area funzioni di prevenzione;1;0;26;SOC Medicina Legale;PUBBLICA;22/11/2004
+1100;5705;;212;;;10;Area funzioni di prevenzione;1;0;28; Medicina sportiva;PUBBLICA;22/11/2004
+1101;10364;;212;;;10;Area funzioni di prevenzione;1;0;35;SOS Attivita' di prevenzione rivolte alla persona e supporto organizzativo;PUBBLICA;01/04/2009
+1102;5777;;212;;;10;Area funzioni di prevenzione;1;0;43;SOC Servizio Igiene e Sanita' Pubblica S.I.S.P.;PUBBLICA;23/11/2004
+1103;5779;;212;;;10;Area funzioni di prevenzione;1;0;44;SOC Servizio Igiene Alimenti e Nutrizione S.I.A.N.;PUBBLICA;23/11/2004
+1104;5780;;212;;;10;Area funzioni di prevenzione;1;0;45;SOC Servizio Prevenzione e Sicurezza Ambienti di Lavoro S.P.R.E.S.A.L.;PUBBLICA;23/11/2004
+1105;5781;;212;;;10;Area funzioni di prevenzione;1;0;46;SOC Servizio Veterinario Area A;PUBBLICA;23/11/2004
+1106;5782;;212;;;10;Area funzioni di prevenzione;1;0;47;SOS Ufficio Anagrafe Veterinaria;PUBBLICA;23/11/2004
+1107;5784;;212;;;10;Area funzioni di prevenzione;1;0;48;SOC Servizio Veterinario Area B;PUBBLICA;23/11/2004
+1108;5785;;212;;;10;Area funzioni di prevenzione;1;0;49;SOSD Servizio Veterinario Area C;PUBBLICA;23/11/2004
+1109;5786;;212;;;10;Area funzioni di prevenzione;1;0;50;SOS Nucleo Interservizi Vigilanza;PUBBLICA;23/11/2004
+1110;5788;;212;;;10;Area funzioni di prevenzione;1;0;51;Servizio Amministrativo Dipartimento di Prevenzione;PUBBLICA;23/11/2004
+1111;7691;;212;;;10;Area funzioni di prevenzione;1;0;56;Responsabile Dipartimentale  dell' Assistenza Prevenzione;PUBBLICA;01/01/2005
+1112;7797;;212;;;10;Area funzioni di prevenzione;1;0;59;Esperto Qualificato;PUBBLICA;01/01/2005
+1113;9496;;212;;;10;Area funzioni di prevenzione;1;0;71;SOS Ergonomia Occupazionale rischi da agenti fisici, rischi psicosociolav.;PUBBLICA;01/01/2008
+1114;9589;;212;;;10;Area funzioni di prevenzione;1;0;72;SOSD Servizio Tecnico della Prevenzione;PUBBLICA;01/08/2008
+1115;10367;;212;;;10;Area funzioni di prevenzione;2;0;20;SOS Referente per l'attuazione della prog. reg. con competenze di org. e coord. pers. vet.;PUBBLICA;01/04/2009
+1116;9592;;212;;;11;Area funzioni generali e supp tecn/amm;1;0;75;SOS Servizi Informatici Logistica;PUBBLICA;01/08/2008
+1117;5641;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;1;SOC Personale e Legale;PUBBLICA;22/11/2004
+1118;13631;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;3;SOS AA.GG., Controllo Interno, URP, Comunicazione e Relazioni esterne;PUBBLICA;01/08/2011
+1119;5650;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;3;SOS  Gestione Economica Personale;PUBBLICA;22/11/2004
+1120;14172;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;4;DIRETTORE GENERALE;PUBBLICA;01/01/2000
+1121;5652;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;5;SOC Economico Finanziario;PUBBLICA;22/11/2004
+1122;7278;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;6;Collegio sindacale;PUBBLICA;10/12/2004
+1123;7279;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;7;Medico Competente;PUBBLICA;10/12/2004
+1124;5659;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;12;SOC Servizi Amministrativi Aziendali;PUBBLICA;22/11/2004
+1125;9224;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;12;SOS Servizio  Infermieristico, Tecnico, Riabilitazione;PUBBLICA;01/01/2007
+1126;9235;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;13;SOS O.S.R.U., Formazione Personale e C.D.L. infermieristica;PUBBLICA;01/01/2007
+1127;13955;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;14;SOS Controllo di Gestione;PUBBLICA;12/06/2012
+1128;9596;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;15;Consiglio dei Sanitari;PUBBLICA;01/01/2000
+1129;9597;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;16;Collegio di Direzione;PUBBLICA;01/01/2000
+1130;9598;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;17;Rappresentanza della Conferenza dei Sindaci;PUBBLICA;01/01/2000
+1131;9599;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;18;Comitato dei Sindaci Asti Nord;PUBBLICA;08/02/2007
+1132;9600;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;19;Comitato dei Sindaci Asti Sud;PUBBLICA;07/02/2008
+1133;14173;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;20;DIRETTORE AMMINISTRATIVO;PUBBLICA;01/01/2000
+1134;10389;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;21;Funzioni RISK MANAGER;PUBBLICA;01/04/2009
+1135;14174;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;22;DIRETTORE SANITARIO;PUBBLICA;01/01/2000
+1136;14188;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;23;Segreteria Direzione Generale;PUBBLICA;11/09/2013
+1137;9231;;212;;;11;Area funzioni generali e supp tecn/amm;2;0;62;SOS Contabilita' Generale;PUBBLICA;01/01/2007
+1138;10360;;212;;;11;Area funzioni generali e supp tecn/amm;4;0;1;SOS Promozione Qualit Ass. Domic., Semires. e Residenziale;PUBBLICA;01/04/2009
+1139;14101;;213;;;9;Area funzioni territoriali;1;0;1;Hospice Mons. Zaccheo Casale;PUBBLICA;01/01/2013
+1140;14190;;213;;;9;Area funzioni territoriali;1;0;2;CENTRO ASSISTENZA PRIMARIA;PUBBLICA;29/07/2013
+1141;14327;;213;;;9;Area funzioni territoriali;1;0;3;CENTRO DIURNO PSICHIATRICO AL;PUBBLICA;01/01/2013
+1142;6997;;213;;;9;Area funzioni territoriali;1;0;20;Distretto Alessandria;PUBBLICA;01/01/1995
+1143;8087;;213;;;9;Area funzioni territoriali;1;0;20;Psicologia Casale;PUBBLICA;01/01/2004
+1144;6998;;213;;;9;Area funzioni territoriali;1;0;21;Distretto Tortona;PUBBLICA;01/01/1995
+1145;8090;;213;;;9;Area funzioni territoriali;1;0;21;Funzioni ex AST Casale;PUBBLICA;01/01/2004
+1146;8092;;213;;;9;Area funzioni territoriali;1;0;23;Farmaceutica territoriale Casale;PUBBLICA;01/01/2004
+1147;8303;;213;;;9;Area funzioni territoriali;1;0;28;Ambulatorio emodialisi Valenza;PUBBLICA;01/01/2004
+1148;5549;;213;;;9;Area funzioni territoriali;1;0;29;Supporto amministrativo;PUBBLICA;18/11/2004
+1149;8389;;213;;;9;Area funzioni territoriali;1;0;30;Assistenza semiresidenziale e residenziale;PUBBLICA;01/01/2004
+1150;6641;;213;;;9;Area funzioni territoriali;1;0;30;Distretto Novi Ligure;PUBBLICA;01/12/2004
+1151;8403;;213;;;9;Area funzioni territoriali;1;0;31;Guardia medica Casale;PUBBLICA;01/01/2004
+1152;6688;;213;;;9;Area funzioni territoriali;1;0;31;Distretto Acqui;PUBBLICA;01/12/2004
+1153;8404;;213;;;9;Area funzioni territoriali;1;0;32;Guardia medica Valenza;PUBBLICA;01/01/2004
+1154;6699;;213;;;9;Area funzioni territoriali;1;0;32;Distretto Ovada;PUBBLICA;01/12/2004
+1155;8405;;213;;;9;Area funzioni territoriali;1;0;33;Guardia medica Cerrina;PUBBLICA;01/01/2004
+1156;6709;;213;;;9;Area funzioni territoriali;1;0;33;Distretto Novi - zona Arquata Scrivia;PUBBLICA;01/12/2004
+1157;8406;;213;;;9;Area funzioni territoriali;1;0;34;Guardia medica Trino;PUBBLICA;01/01/2004
+1158;6712;;213;;;9;Area funzioni territoriali;1;0;35;Tutela Anziani ex ASL 22 ;PUBBLICA;01/12/2004
+1159;7448;;213;;;9;Area funzioni territoriali;1;0;42;SOS Farmaceutica Alessandria;PUBBLICA;03/08/2001
+1160;6781;;213;;;9;Area funzioni territoriali;1;0;43;Psicologia N.P.I. Acqui Terme - Ovada;PUBBLICA;01/12/2004
+1161;6782;;213;;;9;Area funzioni territoriali;1;0;44;Psicologia Adulti Novi;PUBBLICA;01/12/2004
+1162;6783;;213;;;9;Area funzioni territoriali;1;0;45;Psicologia N.P.I. Novi Ligure;PUBBLICA;01/12/2004
+1163;6784;;213;;;9;Area funzioni territoriali;1;0;46;Psicologia Ser.T. Novi;PUBBLICA;01/12/2004
+1164;7844;;213;;;9;Area funzioni territoriali;1;0;47;SOC Psichiatria ASL AL zona nord Alessandria Casale Valenza;PUBBLICA;01/01/2003
+1165;6785;;213;;;9;Area funzioni territoriali;1;0;47;SOC Psichiatria ASL AL zona sud Novi Acqui Ovada Tortona;PUBBLICA;01/12/2004
+1166;6793;;213;;;9;Area funzioni territoriali;1;0;52;Farmacia Territoriale ASL 22;PUBBLICA;01/12/2004
+1167;6795;;213;;;9;Area funzioni territoriali;1;0;53;Staff farmacovigilanza;PUBBLICA;01/12/2004
+1168;8062;;213;;;9;Area funzioni territoriali;1;0;53;Continuita Assistenziale Post-acuzie  - ADI Alessandria -;PUBBLICA;03/08/2001
+1169;7106;;213;;;9;Area funzioni territoriali;1;0;54;Emergenza Sanitaria Territoriale 118 - Centrale Operativa Novi Ligure;PUBBLICA;07/12/2004
+1170;8063;;213;;;9;Area funzioni territoriali;1;0;54;Continuita Assistenziale Post-acuzie - ADI Tortona  -;PUBBLICA;03/08/2001
+1171;7108;;213;;;9;Area funzioni territoriali;1;0;55;Emergenza Sanitaria Territoriale 118 - Acqui Terme;PUBBLICA;07/12/2004
+1172;7109;;213;;;9;Area funzioni territoriali;1;0;56;Emergenza Sanitaria Territoriale 118 - Ovada;PUBBLICA;07/12/2004
+1173;8096;;213;;;9;Area funzioni territoriali;1;0;57;SOC Servizio aziendale tutela della salute in carcere;PUBBLICA;03/08/2001
+1174;8110;;213;;;9;Area funzioni territoriali;1;0;58;SOC RRF Tortona;PUBBLICA;01/01/2003
+1175;8119;;213;;;9;Area funzioni territoriali;1;0;59;Supporto amministrativo Distretto Alessandria;PUBBLICA;03/08/2001
+1176;8120;;213;;;9;Area funzioni territoriali;1;0;60;Supporto amministrativo Distretto Tortona;PUBBLICA;03/08/2001
+1177;8327;;213;;;9;Area funzioni territoriali;1;0;61;Area Emergenza territoriale 118;PUBBLICA;03/08/2001
+1178;7339;;213;;;9;Area funzioni territoriali;1;0;62;Neuropsichiatria Infantile Acqui Terme;PUBBLICA;10/12/2004
+1179;7342;;213;;;9;Area funzioni territoriali;1;0;63;Neuropsichiatria Infantile Ovada;PUBBLICA;10/12/2004
+1180;7817;;213;;;9;Area funzioni territoriali;1;0;64;Psicologia Adulti Acqui T.;PUBBLICA;16/12/2004
+1181;10115;;213;;;9;Area funzioni territoriali;1;0;74;SOC Riabilitazione psichiatrica ASL AL;PUBBLICA;01/01/2009
+1182;10181;;213;;;9;Area funzioni territoriali;1;0;76;SOS Attivita consultoriali ASL AL;PUBBLICA;01/01/2009
+1183;13967;;213;;;9;Area funzioni territoriali;1;0;77;SOS Unita Valutazione Geriatrica;PUBBLICA;03/10/2012
+1184;13968;;213;;;9;Area funzioni territoriali;1;0;78;Hospice Il Gelso Alessandria;PUBBLICA;03/10/2012
+1185;13969;;213;;;9;Area funzioni territoriali;1;0;79;SOC Direzione Amministrativa Distretti;PUBBLICA;03/10/2012
+1186;13973;;213;;;9;Area funzioni territoriali;1;0;80;SOS Area Continuita assistenziale, ospedalizzazione domiciliare e ADI;PUBBLICA;03/10/2012
+1187;13974;;213;;;9;Area funzioni territoriali;1;0;81;SSVD Prevenzione e cura lesioni cutanee e vascolari;PUBBLICA;03/10/2012
+1188;13975;;213;;;9;Area funzioni territoriali;1;0;82;SSVD Assistenza integrativa e protesica;PUBBLICA;03/10/2012
+1189;7993;;213;;;9;Area funzioni territoriali;2;0;4;Poliambulatorio Territoriale Castelnuovo Scriva;PUBBLICA;01/01/1988
+1190;8065;;213;;;9;Area funzioni territoriali;2;0;5;Poliambulatorio Territoriale - Tortona -;PUBBLICA;01/01/1988
+1191;8069;;213;;;9;Area funzioni territoriali;2;0;6;Poliambulatorio Territoriale Struttura Patria Alessandria -;PUBBLICA;01/01/1988
+1192;13509;;213;;;9;Area funzioni territoriali;2;0;7;Consultorio Alessandria - via Pacinotti;PUBBLICA;01/01/2011
+1193;13510;;213;;;9;Area funzioni territoriali;2;0;8;Consultorio Basaluzzo;PUBBLICA;01/01/2011
+1194;6713;;213;;;9;Area funzioni territoriali;2;0;10;Poliambulatorio Territoriale Novi Ligure;PUBBLICA;01/12/2004
+1195;8170;;213;;;9;Area funzioni territoriali;2;0;10;Poliambulatorio Casale;PUBBLICA;22/12/2004
+1196;6716;;213;;;9;Area funzioni territoriali;2;0;11;Poliambulatorio Territoriale Acqui Terme;PUBBLICA;01/12/2004
+1197;8172;;213;;;9;Area funzioni territoriali;2;0;11;Poliambulatorio Valenza;PUBBLICA;22/12/2004
+1198;6719;;213;;;9;Area funzioni territoriali;2;0;12;Poliambulatorio Territoriale Arquata Scrivia;PUBBLICA;01/12/2004
+1199;8175;;213;;;9;Area funzioni territoriali;2;0;14;Poliambulatorio Cerrina;PUBBLICA;22/12/2004
+1200;9031;;213;;;9;Area funzioni territoriali;2;0;14;Poliambulatorio Territoriale Ovada;PUBBLICA;01/01/2006
+1201;9438;;213;;;9;Area funzioni territoriali;2;0;15;Poliambulatorio Vignale;PUBBLICA;21/05/2007
+1202;9110;;213;;;9;Area funzioni territoriali;2;0;16;Poliambulatorio Trino VC;PUBBLICA;01/07/2006
+1203;9111;;213;;;9;Area funzioni territoriali;2;0;17;Poliambulatorio Moncalvo AT;PUBBLICA;01/07/2006
+1204;8084;;213;;;9;Area funzioni territoriali;2;0;17;SOS CSM Casale;PUBBLICA;01/01/2004
+1205;8085;;213;;;9;Area funzioni territoriali;2;0;18;SOS CSM Valenza;PUBBLICA;01/01/2004
+1206;8086;;213;;;9;Area funzioni territoriali;2;0;19;SOS SERT Casale;PUBBLICA;01/01/2004
+1207;13512;;213;;;9;Area funzioni territoriali;2;0;21;Consultorio Castellazzo B.;PUBBLICA;01/01/2011
+1208;9084;;213;;;9;Area funzioni territoriali;2;0;22;Consultorio Casale;PUBBLICA;01/01/2006
+1209;13513;;213;;;9;Area funzioni territoriali;2;0;23;Consultorio Castelnuovo S.;PUBBLICA;01/01/2011
+1210;8161;;213;;;9;Area funzioni territoriali;2;0;24;Distretto Casale;PUBBLICA;01/01/2004
+1211;8162;;213;;;9;Area funzioni territoriali;2;0;25;Distretto Valenza;PUBBLICA;01/01/2004
+1212;8163;;213;;;9;Area funzioni territoriali;2;0;26;Distretto Casale - zona Trino Moncalvo Cerrina;PUBBLICA;01/01/2004
+1213;8180;;213;;;9;Area funzioni territoriali;2;0;27;SOS SERT Valenza;PUBBLICA;22/12/2004
+1214;13514;;213;;;9;Area funzioni territoriali;2;0;29;Consultorio Alessandria Cristo;PUBBLICA;01/01/2011
+1215;13515;;213;;;9;Area funzioni territoriali;2;0;30;Consultorio Felizzano;PUBBLICA;01/01/2011
+1216;13516;;213;;;9;Area funzioni territoriali;2;0;31;Consultorio Gavi;PUBBLICA;01/01/2011
+1217;13517;;213;;;9;Area funzioni territoriali;2;0;32;Consultorio Pozzolo;PUBBLICA;01/01/2011
+1218;13518;;213;;;9;Area funzioni territoriali;2;0;33;Consultorio Serravalle S.;PUBBLICA;01/01/2011
+1219;6710;;213;;;9;Area funzioni territoriali;2;0;34;funzioni ex AST - ASL 22;PUBBLICA;01/12/2004
+1220;13519;;213;;;9;Area funzioni territoriali;2;0;35;Consultorio Alessandria - Spinetta;PUBBLICA;01/01/2011
+1221;13520;;213;;;9;Area funzioni territoriali;2;0;36;Consultorio Tortona;PUBBLICA;01/01/2011
+1222;7436;;213;;;9;Area funzioni territoriali;2;0;37;Funzioni ex AST Alessandria;PUBBLICA;01/01/1995
+1223;9085;;213;;;9;Area funzioni territoriali;2;0;38;Consultorio Borgo San Martino;PUBBLICA;01/01/2006
+1224;7438;;213;;;9;Area funzioni territoriali;2;0;38;Funzioni ex AST Tortona;PUBBLICA;01/01/1995
+1225;6751;;213;;;9;Area funzioni territoriali;2;0;39;SOS SER.T Novi Ligure;PUBBLICA;01/12/2004
+1226;9086;;213;;;9;Area funzioni territoriali;2;0;39;Consultorio Ozzano;PUBBLICA;01/01/2006
+1227;6760;;213;;;9;Area funzioni territoriali;2;0;40;SOS SER.T Acqui Terme;PUBBLICA;01/12/2004
+1228;7446;;213;;;9;Area funzioni territoriali;2;0;40;SOC SER.T. Alessandria;PUBBLICA;01/01/1995
+1229;9087;;213;;;9;Area funzioni territoriali;2;0;40;Consultorio Moncalvo;PUBBLICA;01/01/2006
+1230;9088;;213;;;9;Area funzioni territoriali;2;0;41;Consultorio Trino;PUBBLICA;01/01/2006
+1231;7447;;213;;;9;Area funzioni territoriali;2;0;41;SOS SER.T.  Tortona;PUBBLICA;01/01/1995
+1232;6763;;213;;;9;Area funzioni territoriali;2;0;41;SOS SER.T Ovada;PUBBLICA;01/12/2004
+1233;9089;;213;;;9;Area funzioni territoriali;2;0;42;Consultorio Cerrina;PUBBLICA;01/01/2006
+1234;6772;;213;;;9;Area funzioni territoriali;2;0;42;Psicologia ASL 22;PUBBLICA;01/12/2004
+1235;9090;;213;;;9;Area funzioni territoriali;2;0;43;Consultorio Valenza;PUBBLICA;01/01/2006
+1236;9091;;213;;;9;Area funzioni territoriali;2;0;44;Consultorio San Salvatore;PUBBLICA;01/01/2006
+1237;9439;;213;;;9;Area funzioni territoriali;2;0;45;Consultorio Vignale;PUBBLICA;21/05/2007
+1238;13976;;213;;;9;Area funzioni territoriali;2;0;46;SOS SERT Centro Diurno;PUBBLICA;03/10/2012
+1239;13977;;213;;;9;Area funzioni territoriali;2;0;47;SOS Riabilitazione Zona Nord;PUBBLICA;03/10/2012
+1240;6786;;213;;;9;Area funzioni territoriali;2;0;48;SOS CSM Acqui Terme;PUBBLICA;01/12/2004
+1241;7847;;213;;;9;Area funzioni territoriali;2;0;48;SOS CSM Tortona;PUBBLICA;01/01/1998
+1242;6789;;213;;;9;Area funzioni territoriali;2;0;49;SOS CSM Ovada;PUBBLICA;01/12/2004
+1243;6790;;213;;;9;Area funzioni territoriali;2;0;50;SOS CSM Novi Ligure;PUBBLICA;01/12/2004
+1244;7857;;213;;;9;Area funzioni territoriali;2;0;51;SOS CSM Alessandria;PUBBLICA;03/08/2001
+1245;6791;;213;;;9;Area funzioni territoriali;2;0;51;Albachiara Comunita' Protetta tipo B Voltaggio;PUBBLICA;01/12/2004
+1246;13978;;213;;;9;Area funzioni territoriali;2;0;52;SOS Riabilitazione Zona Sud;PUBBLICA;03/10/2012
+1247;13994;;213;;;9;Area funzioni territoriali;2;0;53;SOC Psicologia Alessandria Acqui Novi Ovada e Tortona;PUBBLICA;04/10/2012
+1248;13995;;213;;;9;Area funzioni territoriali;2;0;54;SOS Area Evolutiva;PUBBLICA;04/10/2012
+1249;8094;;213;;;9;Area funzioni territoriali;2;0;55;Alcoogia  - Alessandria -;PUBBLICA;03/08/2001
+1250;8095;;213;;;9;Area funzioni territoriali;2;0;56;Alcologia - Tortona -;PUBBLICA;03/08/2001
+1251;7330;;213;;;9;Area funzioni territoriali;2;0;57;Consultorio Ovada;PUBBLICA;10/12/2004
+1252;7332;;213;;;9;Area funzioni territoriali;2;0;58;Consultorio Novi Ligure;PUBBLICA;10/12/2004
+1253;7333;;213;;;9;Area funzioni territoriali;2;0;59;Consultorio Arquata Scrivia;PUBBLICA;10/12/2004
+1254;7335;;213;;;9;Area funzioni territoriali;2;0;60;Consultorio Acqui Terme;PUBBLICA;10/12/2004
+1255;13996;;213;;;9;Area funzioni territoriali;2;0;61;SOS Area Adolescenti e giovane adulto;PUBBLICA;04/10/2012
+1256;13997;;213;;;9;Area funzioni territoriali;2;0;62;SOS Area adulti;PUBBLICA;04/10/2012
+1257;10182;;213;;;9;Area funzioni territoriali;2;0;77;SOC Psicologia Casale Valenza;PUBBLICA;01/01/2009
+1258;5474;;213;;;10;Area funzioni di prevenzione;1;0;1;Educazione Sanitaria;PUBBLICA;18/11/2004
+1259;12540;;213;;;10;Area funzioni di prevenzione;1;0;2;Medicina dello sport - Casale;PUBBLICA;01/01/2010
+1260;12542;;213;;;10;Area funzioni di prevenzione;1;0;3;Medicina dello sport Novi;PUBBLICA;01/01/2010
+1261;12543;;213;;;10;Area funzioni di prevenzione;1;0;4;Medicina dello sport Acqui;PUBBLICA;01/01/2010
+1262;13282;;213;;;10;Area funzioni di prevenzione;1;0;5;veterinario A Casale;PUBBLICA;01/12/2010
+1263;5341;;213;;;10;Area funzioni di prevenzione;1;0;6;SOC S.Pre.S.A.L. ASL AL;PUBBLICA;19/09/1996
+1264;5352;;213;;;10;Area funzioni di prevenzione;1;0;7;SOC S.I.S.P. ASL AL;PUBBLICA;19/09/1996
+1265;5353;;213;;;10;Area funzioni di prevenzione;1;0;8;SOC S.I.A.N. ASL AL;PUBBLICA;19/09/1996
+1266;13283;;213;;;10;Area funzioni di prevenzione;1;0;9;veterinario B Casale;PUBBLICA;01/12/2010
+1267;13979;;213;;;10;Area funzioni di prevenzione;1;0;10;SOS Sicurezza degli alimenti;PUBBLICA;03/10/2012
+1268;8078;;213;;;10;Area funzioni di prevenzione;1;0;11;sian Casale;PUBBLICA;01/01/2004
+1269;5511;;213;;;10;Area funzioni di prevenzione;1;0;12;spresal;PUBBLICA;18/11/2004
+1270;8079;;213;;;10;Area funzioni di prevenzione;1;0;12;sisp Casale;PUBBLICA;01/01/2004
+1271;8080;;213;;;10;Area funzioni di prevenzione;1;0;13;spresal Casale;PUBBLICA;01/01/2004
+1272;5529;;213;;;10;Area funzioni di prevenzione;1;0;13;Supporto Amministrativo Dipartimento di Prevenzione ASL AL;PUBBLICA;18/11/2004
+1273;5533;;213;;;10;Area funzioni di prevenzione;1;0;14;sisp;PUBBLICA;18/11/2004
+1274;8081;;213;;;10;Area funzioni di prevenzione;1;0;14;SOC Veterinario A ASL AL;PUBBLICA;01/01/2004
+1275;8082;;213;;;10;Area funzioni di prevenzione;1;0;15;SOC Veterinario B ASL AL;PUBBLICA;01/01/2004
+1276;6932;;213;;;10;Area funzioni di prevenzione;1;0;15;SOC Epidemiologia ASL AL;PUBBLICA;22/01/1999
+1277;5535;;213;;;10;Area funzioni di prevenzione;1;0;15;sian;PUBBLICA;18/11/2004
+1278;6936;;213;;;10;Area funzioni di prevenzione;1;0;16;Servizio di prevenzione e protezione;PUBBLICA;03/08/2001
+1279;8083;;213;;;10;Area funzioni di prevenzione;1;0;16;SOC Veterinario C ASL AL;PUBBLICA;01/01/2004
+1280;5536;;213;;;10;Area funzioni di prevenzione;1;0;16;veterinario a;PUBBLICA;18/11/2004
+1281;5537;;213;;;10;Area funzioni di prevenzione;1;0;17;veterinario b;PUBBLICA;18/11/2004
+1282;6938;;213;;;10;Area funzioni di prevenzione;1;0;17;Medico Competente;PUBBLICA;03/08/2001
+1283;5538;;213;;;10;Area funzioni di prevenzione;1;0;18;veterinario c;PUBBLICA;18/11/2004
+1284;5539;;213;;;10;Area funzioni di prevenzione;1;0;19;Sorveglianza Sanitaria;PUBBLICA;18/11/2004
+1285;5540;;213;;;10;Area funzioni di prevenzione;1;0;20;Imprese alimentari, micologia - Area Acquese Ovadese;PUBBLICA;18/11/2004
+1286;5541;;213;;;10;Area funzioni di prevenzione;1;0;21;Acque potabili e minerali, prodotti fitosanitari, igiene nutrizione - Area Acquese Ovadese;PUBBLICA;18/11/2004
+1287;7123;;213;;;10;Area funzioni di prevenzione;1;0;22;Medicina del Lavoro;PUBBLICA;03/08/2001
+1288;5542;;213;;;10;Area funzioni di prevenzione;1;0;22;Acque zone Novese Ovadese;PUBBLICA;18/11/2004
+1289;5543;;213;;;10;Area funzioni di prevenzione;1;0;23;Animali d'affezione;PUBBLICA;18/11/2004
+1290;7135;;213;;;10;Area funzioni di prevenzione;1;0;23;Prevenzione Malattie Infettive e tutela Salute Rischi Origine Ambientale;PUBBLICA;03/08/2001
+1291;7137;;213;;;10;Area funzioni di prevenzione;1;0;24;SOS Igiene della nutrizione ASL AL;PUBBLICA;03/08/2001
+1292;5544;;213;;;10;Area funzioni di prevenzione;1;0;24;Depositi alimentari e scambi internazionali;PUBBLICA;18/11/2004
+1293;7141;;213;;;10;Area funzioni di prevenzione;1;0;25;Veterinario  Area A;PUBBLICA;03/08/2001
+1294;5545;;213;;;10;Area funzioni di prevenzione;1;0;25;Autocontrolli HACCP e procedure autorizzative;PUBBLICA;18/11/2004
+1295;7144;;213;;;10;Area funzioni di prevenzione;1;0;26;Veterinario Area B;PUBBLICA;03/08/2001
+1296;5546;;213;;;10;Area funzioni di prevenzione;1;0;26;Problematiche igienico sanitarie e strutturali dei macelli e NIV;PUBBLICA;18/11/2004
+1297;5547;;213;;;10;Area funzioni di prevenzione;1;0;27;Procedure informatiche applicate all'ispezione gestione SRM;PUBBLICA;18/11/2004
+1298;7145;;213;;;10;Area funzioni di prevenzione;1;0;27;Veterinaio Area C;PUBBLICA;03/08/2001
+1299;7146;;213;;;10;Area funzioni di prevenzione;1;0;28;Allevamenti Minori ;PUBBLICA;03/08/2001
+1300;5548;;213;;;10;Area funzioni di prevenzione;1;0;28;Referenza dell'anagrafe zootecnica Area Novese;PUBBLICA;18/11/2004
+1301;7147;;213;;;10;Area funzioni di prevenzione;1;0;29;Gestione Impianti D.L.vo 266-94;PUBBLICA;03/08/2001
+1302;8382;;213;;;10;Area funzioni di prevenzione;1;0;29;SOS Medicina legale Casale;PUBBLICA;01/01/2004
+1303;7148;;213;;;10;Area funzioni di prevenzione;1;0;30;Piano Nazionale Residui;PUBBLICA;03/08/2001
+1304;7149;;213;;;10;Area funzioni di prevenzione;1;0;31;Servizi Comuni Amministrativi Dip. Prevenzoine;PUBBLICA;03/08/2001
+1305;7150;;213;;;10;Area funzioni di prevenzione;1;0;32;SOS Nucleo Vigilanza Interarea Veterinaria ASL AL;PUBBLICA;03/08/2001
+1306;7152;;213;;;10;Area funzioni di prevenzione;1;0;33;SOC Multizonale emergenze sanitarie e sorveglianza veterinaria ASL AL;PUBBLICA;03/08/2001
+1307;7153;;213;;;10;Area funzioni di prevenzione;1;0;34;Sorv. Epidem. e Gestione Emergenze Sanitarie;PUBBLICA;03/08/2001
+1308;7154;;213;;;10;Area funzioni di prevenzione;1;0;35;SOC Medicina Legale  Alessandria Tortona Novi Acqui Ovada;PUBBLICA;01/01/1995
+1309;8534;;213;;;10;Area funzioni di prevenzione;1;0;36;Unità di prevenzione sede di Valenza;PUBBLICA;28/12/2004
+1310;6722;;213;;;10;Area funzioni di prevenzione;1;0;36;SOS Medicina legale Novi;PUBBLICA;01/12/2004
+1311;6748;;213;;;10;Area funzioni di prevenzione;1;0;37;Medicina Legale Acqui Terme;PUBBLICA;01/12/2004
+1312;8536;;213;;;10;Area funzioni di prevenzione;1;0;37;Medicina legale Valenza;PUBBLICA;28/12/2004
+1313;6749;;213;;;10;Area funzioni di prevenzione;1;0;38;Medicina Legale Ovada;PUBBLICA;01/12/2004
+1314;7444;;213;;;10;Area funzioni di prevenzione;1;0;39;SOS Medicina Legale Tortona;PUBBLICA;01/01/1995
+1315;10049;;213;;;10;Area funzioni di prevenzione;1;0;40;SOS Prevenzione malattie infettive e vaccinazioni ASL AL;PUBBLICA;01/01/2009
+1316;10050;;213;;;10;Area funzioni di prevenzione;1;0;41;SOS Prevenzione e sicurezza ambienti aperti e confinati ASL AL;PUBBLICA;01/01/2009
+1317;13980;;213;;;10;Area funzioni di prevenzione;1;0;42;SOS Flussi informat., mappe di rischio, valutaz. epidem. stato salute della pop. lavorat.;PUBBLICA;03/10/2012
+1318;13981;;213;;;10;Area funzioni di prevenzione;1;0;43;SOS Epidemiosorveglianza;PUBBLICA;03/10/2012
+1319;13998;;213;;;10;Area funzioni di prevenzione;1;0;44;SOC Medicina Legale Casale Valenza;PUBBLICA;04/10/2012
+1320;7464;;213;;;10;Area funzioni di prevenzione;1;0;45;SOS Medicina dello sport ASL AL;PUBBLICA;01/01/2001
+1321;7467;;213;;;10;Area funzioni di prevenzione;1;0;46;Medicina dello Sport Tortona;PUBBLICA;03/08/2001
+1322;10052;;213;;;10;Area funzioni di prevenzione;1;0;49;Controllo acque potabili ASL AL ex SOS;PUBBLICA;01/01/2009
+1323;10053;;213;;;10;Area funzioni di prevenzione;1;0;50;Vigilanza e coordinamento medici competenti ASL AL ex SOS;PUBBLICA;01/01/2009
+1324;10054;;213;;;10;Area funzioni di prevenzione;1;0;51;SOS Vigilanza e prevenzione malattie professionali ASL AL;PUBBLICA;01/01/2009
+1325;8331;;213;;;10;Area funzioni di prevenzione;1;0;62;Org. attivita Monocratiche e collegiali sul dist. 2 di Tortona della Med.Leg.;PUBBLICA;03/12/2004
+1326;10057;;213;;;10;Area funzioni di prevenzione;1;0;65;SOS veterinario A zona 1 ASL AL;PUBBLICA;01/01/2009
+1327;10058;;213;;;10;Area funzioni di prevenzione;1;0;66;SOS veterinario A zona 2 ASL AL;PUBBLICA;01/01/2009
+1328;10059;;213;;;10;Area funzioni di prevenzione;1;0;67;SOS anagrafe bovina ASL AL;PUBBLICA;01/01/2009
+1329;10060;;213;;;10;Area funzioni di prevenzione;1;0;68;SOS veterinario B zona 1 ASL AL;PUBBLICA;01/01/2009
+1330;10061;;213;;;10;Area funzioni di prevenzione;1;0;69;SOS veterinario B zona 2 ASL AL;PUBBLICA;01/01/2009
+1331;10062;;213;;;10;Area funzioni di prevenzione;1;0;70;SOS veterinario C zona 1 ASL AL;PUBBLICA;01/01/2009
+1332;10063;;213;;;10;Area funzioni di prevenzione;1;0;71;SOS veterinario C zona 2 ASL AL;PUBBLICA;01/01/2009
+1333;10113;;213;;;10;Area funzioni di prevenzione;1;0;72;SOC Direzione integrata della prevenzione ASL AL;PUBBLICA;01/01/2009
+1334;10114;;213;;;10;Area funzioni di prevenzione;1;0;73;SOC Centro regionale per la ricerca e sorveglianza dei rischi d'amianto ASL AL;PUBBLICA;01/01/2009
+1335;10121;;213;;;10;Area funzioni di prevenzione;1;0;75;SOC UVOS ASL AL;PUBBLICA;01/01/2009
+1336;5192;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;1;SOC Economico finanziario e patrimoniale ASL AL;PUBBLICA;01/01/1988
+1337;8029;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Economico finanziario;PUBBLICA;01/01/2004
+1338;5194;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;2;SOC Personale ASL AL;PUBBLICA;01/01/1988
+1339;5476;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;2;SOC Logistica ed economato;PUBBLICA;18/11/2004
+1340;8030;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;2;SOC Provveditorato;PUBBLICA;01/01/2004
+1341;8031;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Tecnico;PUBBLICA;01/01/2004
+1342;5477;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Patrimoniale;PUBBLICA;18/11/2004
+1343;5198;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Ufficio legale ASL AL;PUBBLICA;17/03/1998
+1344;8032;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;4;SOC Sistemi informatici ASL AL;PUBBLICA;01/01/2004
+1345;5497;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;4;SOC Tecnico ASL AL;PUBBLICA;18/11/2004
+1346;5205;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;4;SOC Programmazione e Controllo di Gestione ASL AL;PUBBLICA;29/04/1996
+1347;5219;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Sviluppo Organizzativo Comunicazione e Qualita';PUBBLICA;14/11/2002
+1348;5501;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Tecnologie Biomediche ASL AL;PUBBLICA;18/11/2004
+1349;8033;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Servizi amministrativi e logistici ospedalieri;PUBBLICA;01/01/2004
+1350;8034;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;6;Patrimoniale;PUBBLICA;01/01/2004
+1351;5502;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;6;Relazioni sindacali ASL AL;PUBBLICA;18/11/2004
+1352;8035;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;7;Amministrazione del personale;PUBBLICA;01/01/2004
+1353;5503;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;7;OSRU;PUBBLICA;18/11/2004
+1354;8036;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;8;Formazione;PUBBLICA;01/01/2004
+1355;5504;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;8;Valorizzazione Risorse Umane e Professionali;PUBBLICA;18/11/2004
+1356;5522;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;9;Ispettorato ;PUBBLICA;14/11/2002
+1357;8037;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;9;Affari legali e libera professione;PUBBLICA;01/01/2004
+1358;5506;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;9;Contabilita' Economico Finanziaria;PUBBLICA;18/11/2004
+1359;5523;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;10;Gestione Economica Del Personale;PUBBLICA;14/11/2002
+1360;8038;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;10;Segreteria affari generali;PUBBLICA;01/01/2004
+1361;5507;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;10;Legale;PUBBLICA;18/11/2004
+1362;5509;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;11;Contratti e Sanzioni Amministrative;PUBBLICA;18/11/2004
+1363;5550;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;11;Ufficio Tecnico;PUBBLICA;01/01/1988
+1364;5552;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;12;Provveditorato;PUBBLICA;01/01/1988
+1365;6908;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;13;Sistema Informativo;PUBBLICA;01/01/1988
+1366;6912;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;14;Sviluppo progetti informatici ASL AL;PUBBLICA;01/01/1988
+1367;6984;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;18;Patrimonio;PUBBLICA;03/08/2001
+1368;6987;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;19;Gestione Unificata del Materiale;PUBBLICA;13/11/2000
+1369;8334;;213;;;11;Area funzioni generali e supp tecn/amm;1;0;63;SOC Programmazione strategica e affari generali ASL AL;PUBBLICA;03/08/2001
+1370;5470;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;1;Coordinamento amministrativo istituzionale progetti strategici ASL AL;PUBBLICA;18/11/2004
+1371;8021;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;1;Qualita, processi di accreditamento, URP comunicazione ASL AL;PUBBLICA;01/01/2004
+1372;5201;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;1;Segreteria e Affari Generali;PUBBLICA;01/01/1988
+1373;5473;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;2;Ispettivo;PUBBLICA;18/11/2004
+1374;8022;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;2;Controllo di Gestione;PUBBLICA;01/01/2004
+1375;5475;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;3;Sistema Informativo;PUBBLICA;18/11/2004
+1376;8023;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;3;Programmazione e Controllo;PUBBLICA;01/01/2004
+1377;5479;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;4;Programmazione Organizzazione Procedure Gestionali Comunicazione;PUBBLICA;18/11/2004
+1378;8024;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;4;SOS Coordinamento e supporto PEPS ASL AL;PUBBLICA;01/01/2004
+1379;8025;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;5;Medico Competente ASL AL;PUBBLICA;01/01/2004
+1380;5480;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;5;U.R.P. e Ufficio Stampa;PUBBLICA;18/11/2004
+1381;8026;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;6;Prevenzione e protezione;PUBBLICA;01/01/2004
+1382;5481;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;6;Controllo di Gestione;PUBBLICA;18/11/2004
+1383;5482;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;7;Servizio Infermieristico ASL 22;PUBBLICA;18/11/2004
+1384;8027;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;7;SOC SITRO ASL AL;PUBBLICA;01/01/2004
+1385;5483;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;8;Medico Competente;PUBBLICA;18/11/2004
+1386;8028;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;8;Direzione Servizi socio assistenziali ASL AL distretto Casale;PUBBLICA;01/01/2004
+1387;5484;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;9;SOC Prevenzione Protezione ASL AL;PUBBLICA;18/11/2004
+1388;14169;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;11;DIREZIONE GENERALE ASL AL;PUBBLICA;01/01/2009
+1389;9601;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;18;RAPPRESENTANZA-CONFERENZA DEI SINDACI;PUBBLICA;01/01/2008
+1390;9602;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;19;Collegio di Direzione;PUBBLICA;01/01/2008
+1391;9603;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;20;Consiglio dei sanitari;PUBBLICA;01/01/2008
+1392;9604;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;21;Comitato dei Sindaci Distretto Alessandria;PUBBLICA;01/01/2008
+1393;9605;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;22;Comitato dei Sindaci Distretto Acqui;PUBBLICA;01/01/2008
+1394;9606;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;23;Comitato dei Sindaci Distretto Casale;PUBBLICA;01/01/2008
+1395;9607;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;24;Comitato dei Sindaci Distretto Novi;PUBBLICA;01/01/2008
+1396;9608;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;25;Comitato dei Sindaci Distretto Ovada;PUBBLICA;01/01/2008
+1397;9609;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;26;Comitato dei Sindaci Distretto Tortona;PUBBLICA;01/01/2008
+1398;9610;;213;;;11;Area funzioni generali e supp tecn/amm;2;0;27;Comitato dei Sindaci Distretto Valenza;PUBBLICA;01/01/2008
+1399;6758;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;1;S.S. Legale;PUBBLICA;01/12/2004
+1400;6759;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;2;S.C. Amministrazione del Personale;PUBBLICA;01/12/2004
+1401;6761;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;3;S.C. Provveditorato - Economato;PUBBLICA;01/12/2004
+1402;6762;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;4;S.C. Gestione Economico - FInanziaria;PUBBLICA;01/12/2004
+1403;6765;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;5;S.C. Tecnico-Patrimoniale;PUBBLICA;01/12/2004
+1404;6766;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;6;S.S. Coordinamento attivita' amministrative di Direzione Sanitaria;PUBBLICA;01/12/2004
+1405;6771;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;7;S.S. Medico Competente;PUBBLICA;01/12/2004
+1406;10494;;904;;;11;Area funzioni generali e supp tecn/amm;1;0;8;S.S. Ingegneria Clinica;PUBBLICA;30/07/2009
+1407;6752;;904;;;11;Area funzioni generali e supp tecn/amm;2;0;1;S.S.  Affari generali;PUBBLICA;01/12/2004
+1408;6753;;904;;;11;Area funzioni generali e supp tecn/amm;2;0;2;S.C. Organizzazione e Sviluppo Risorse Umane;PUBBLICA;01/12/2004
+1409;6754;;904;;;11;Area funzioni generali e supp tecn/amm;2;0;3;S.C. Programmazione e Controllo di Gestione;PUBBLICA;01/12/2004
+1410;6755;;904;;;11;Area funzioni generali e supp tecn/amm;2;0;4;S.S. Sistemi Informativi ed Informatici;PUBBLICA;01/12/2004
+1411;6756;;904;;;11;Area funzioni generali e supp tecn/amm;2;0;5;S.S. Comunicazione - Informazione;PUBBLICA;01/12/2004
+1412;6757;;904;;;11;Area funzioni generali e supp tecn/amm;2;0;6;S.C. Prevenzione e Protezione;PUBBLICA;01/12/2004
+1413;14184;;904;;;11;Area funzioni generali e supp tecn/amm;2;0;7;Unità amministrativa di DG e staff A;PUBBLICA;09/09/2013
+1414;5018;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;2;S.C. Informatica e telematica;PUBBLICA;08/11/2004
+1415;5019;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;3;S.C. Gestione economico finanziaria;PUBBLICA;08/11/2004
+1416;5051;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;4;S.C. Provveditorato economato;PUBBLICA;09/11/2004
+1417;5052;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;5;S.C. Tecnico patrimoniale;PUBBLICA;09/11/2004
+1418;5053;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;6;S.C. Ufficio Legale e Affari Generali;PUBBLICA;09/11/2004
+1419;5054;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;7;S.C. Tecnologie biomediche;PUBBLICA;09/11/2004
+1420;10252;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;8;S.C. Responsabile Unico Procedimento Nuovo Ospedale;PUBBLICA;19/02/2009
+1421;13621;;905;;;11;Area funzioni generali e supp tecn/amm;1;0;9;S.S. Procedimenti amministrativi nel settore farmaceutico ;PUBBLICA;20/09/2011
+1422;4980;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;1;S.C. Ufficio relazioni esterne;PUBBLICA;05/11/2004
+1423;4981;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;2;S.C. Sistema informativo e controllo di gestione ;PUBBLICA;05/11/2004
+1424;4984;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;4;S.C. Prevenzione e protezione;PUBBLICA;05/11/2004
+1425;4985;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;5;S.C. Verifica e revisione qualita';PUBBLICA;05/11/2004
+1426;4986;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;6;S.C. Gestione  Risorse Umane;PUBBLICA;05/11/2004
+1427;10479;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;9;S.C. Ricerca ed innovazione;PUBBLICA;30/06/2009
+1428;12559;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;10;S.S. Attivita amministrativa, marketing e libera professione;PUBBLICA;28/09/2010
+1429;13216;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;11;S.C. Direzione Medica di Presidio;PUBBLICA;23/11/2010
+1430;13301;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;12;S.C. Serv. Ass. Infermieristica  Ostetrica Tecnico Sanitario riabilitativa;PUBBLICA;10/12/2010
+1431;14185;;905;;;11;Area funzioni generali e supp tecn/amm;2;0;13;SEDE LEGALE DI DG e STAFF;PUBBLICA;09/09/2013
+1432;12640;;905;;;11;Area funzioni generali e supp tecn/amm;3;0;1;S.S. Trattamento economico e rapporti con l'universita';PUBBLICA;18/10/2010
+1433;12641;;905;;;11;Area funzioni generali e supp tecn/amm;3;0;2;S.S. Area economico gestionale;PUBBLICA;18/10/2010
+1434;12642;;905;;;11;Area funzioni generali e supp tecn/amm;3;0;3;S.S. Acquisto beni;PUBBLICA;18/10/2010
+1435;12643;;905;;;11;Area funzioni generali e supp tecn/amm;3;0;4;S.S. Settore servizi e gestione servizi appaltati e non ;PUBBLICA;18/10/2010
+1436;12644;;905;;;11;Area funzioni generali e supp tecn/amm;3;0;5;S.S. Manutenzione ordinaria opere edili, impiantistiche e attrezzature non sanitarie;PUBBLICA;18/10/2010
+1437;12645;;905;;;11;Area funzioni generali e supp tecn/amm;3;0;6;S.S. Procedure amministrative e patrimonio;PUBBLICA;18/10/2010
+1438;6723;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;1;S.C. Tecnico;PUBBLICA;01/12/2004
+1439;6724;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;2;S.C. Economato e logistica;PUBBLICA;01/12/2004
+1440;6725;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;3;S.C. Acquisti;PUBBLICA;01/12/2004
+1441;6726;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;4;S.C. Patrimonio;PUBBLICA;01/12/2004
+1442;6727;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;5;S.S. Gare;PUBBLICA;01/12/2004
+1443;6728;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;6;S.C. Economico Finanziaria;PUBBLICA;01/12/2004
+1444;6729;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;7;S.S. Informatica e Reti;PUBBLICA;01/12/2004
+1445;6730;;906;;;11;Area funzioni generali e supp tecn/amm;1;0;8;S.C. Personale;PUBBLICA;01/12/2004
+1446;6731;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;1;S.C. Affari Generali Segreteria e Legale;PUBBLICA;01/12/2004
+1447;6732;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;2;S.C. O.S.R.U.;PUBBLICA;01/12/2004
+1448;6733;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;3;S.S. Prevenzione e Protezione;PUBBLICA;01/12/2004
+1449;6735;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;5;S.S. Medico competente;PUBBLICA;01/12/2004
+1450;6736;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;6;S.C. Controllo di Gestione;PUBBLICA;01/12/2004
+1451;6737;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;7;S.C. Ufficio Qualita';PUBBLICA;01/12/2004
+1452;6738;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;8;S.C. Sistema Informativo Direzionale;PUBBLICA;01/12/2004
+1453;6739;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;9;S.S. Ingegneria Clinica;PUBBLICA;01/12/2004
+1454;9819;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;10;S.S. SITRO;PUBBLICA;01/08/2008
+1455;9822;;906;;;11;Area funzioni generali e supp tecn/amm;2;0;11;S.C. Comunicazione;PUBBLICA;01/08/2008
+1456;7034;;907;;;11;Area funzioni generali e supp tecn/amm;1;0;6;SC Gestione patrimonio tecnologico e immobiliare;PUBBLICA;01/01/1995
+1457;9339;;907;;;11;Area funzioni generali e supp tecn/amm;1;0;7;SC Acquisti e gestione servizi economali;PUBBLICA;19/01/2007
+1458;9340;;907;;;11;Area funzioni generali e supp tecn/amm;1;0;8;SC Contabilita' Economica e Patrimoniale;PUBBLICA;19/01/2007
+1459;9341;;907;;;11;Area funzioni generali e supp tecn/amm;1;0;9;SC Gestione e Sviluppo del personale;PUBBLICA;19/01/2007
+1460;9664;;907;;;11;Area funzioni generali e supp tecn/amm;1;0;10;SS Ingegneria Clinica;PUBBLICA;20/08/2008
+1461;9342;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;11;SS AA.GG. e Relazioni col pubblico;PUBBLICA;19/01/2007
+1462;9343;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;12;SC Servizio Prevenzione e Protezione;PUBBLICA;19/01/2007
+1463;9347;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;16;SC Sistemi Informativi, Logistici e di CDG;PUBBLICA;19/01/2007
+1464;9348;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;17;SSA Sviluppo strategico innovazione e qualita';PUBBLICA;19/01/2007
+1465;9349;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;18;Medico competente;PUBBLICA;19/01/2007
+1466;9739;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;20;SC SITRO;PUBBLICA;01/01/2009
+1467;13597;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;21;SSA Sviluppo e promozione scientifica;PUBBLICA;01/07/2011
+1468;13598;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;22;Ufficio Comunicazione;PUBBLICA;01/07/2011
+1469;13599;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;23;SSA Legale;PUBBLICA;01/07/2011
+1470;13600;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;24;SC Gestione Attivita' Amministrative di Supporto;PUBBLICA;01/07/2011
+1471;14186;;907;;;11;Area funzioni generali e supp tecn/amm;2;0;25;SEDE LEGALE Segreteria Direzione Generale;PUBBLICA;01/01/1995
+1472;9618;;908;;;10;Area funzioni di prevenzione;1;0;10;Unità Medicina Preventiva e del Lavoro;PUBBLICA;12/09/2008
+1473;9051;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Affari Generali e Comunicazione;PUBBLICA;12/05/2006
+1474;9052;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;2;Economico Finanaziario;PUBBLICA;12/05/2006
+1475;9053;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Personale;PUBBLICA;12/05/2006
+1476;9055;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Amministrazione finanziaria e fiscale;PUBBLICA;12/05/2006
+1477;9056;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;6;Provveditorato ed Economato;PUBBLICA;12/05/2006
+1478;9057;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;7;Sistemi Informatici ed Informativi;PUBBLICA;12/05/2006
+1479;9058;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;8;Tecnico;PUBBLICA;12/05/2006
+1480;9059;;908;;;11;Area funzioni generali e supp tecn/amm;1;0;9;Patrimonio ;PUBBLICA;12/05/2006
+1481;9046;;908;;;11;Area funzioni generali e supp tecn/amm;2;0;1;O.S.R.U. Organizzazione sviluppo e risorse umane;PUBBLICA;12/05/2006
+1482;9047;;908;;;11;Area funzioni generali e supp tecn/amm;2;0;2;Controllo di gestione;PUBBLICA;12/05/2006
+1483;9048;;908;;;11;Area funzioni generali e supp tecn/amm;2;0;3;Segreteria Generale e Comunicazione;PUBBLICA;12/05/2006
+1484;9049;;908;;;11;Area funzioni generali e supp tecn/amm;2;0;4;U.R.P. Ufficio Relazioni con il pubblico;PUBBLICA;12/05/2006
+1485;9050;;908;;;11;Area funzioni generali e supp tecn/amm;2;0;5;Ufficio Prevenzione, Protezione e Sicurezza;PUBBLICA;12/05/2006
+1486;9617;;908;;;11;Area funzioni generali e supp tecn/amm;2;0;6;Unità amministrativa di DG e staff -   SITRO;PUBBLICA;11/09/2008
+1487;14187;;908;;;11;Area funzioni generali e supp tecn/amm;2;0;7;Unità amministrativa di DG e staff - Sede Legale;PUBBLICA;09/09/2013
+1488;10750;;909;;;10;Area funzioni di prevenzione;1;0;1;Centro documentazione cancerogeni;PUBBLICA;12/05/2010
+1489;13403;;909;;;10;Area funzioni di prevenzione;1;0;3;UFFICIO RELAZIONI CON IL PUBBLICO;PUBBLICA;01/01/2011
+1490;7158;;909;;;10;Area funzioni di prevenzione;1;0;17;S.C. Epidemiologia dei tumori 1 U;PUBBLICA;07/12/2004
+1491;7159;;909;;;10;Area funzioni di prevenzione;1;0;18;S.C. Epidemiologia dei tumori 2;PUBBLICA;07/12/2004
+1492;7164;;909;;;10;Area funzioni di prevenzione;1;0;19;Epidemiologia eziologica;PUBBLICA;07/12/2004
+1493;7166;;909;;;10;Area funzioni di prevenzione;1;0;21;Epidemiologia clinica;PUBBLICA;07/12/2004
+1494;7167;;909;;;10;Area funzioni di prevenzione;1;0;22;Epidemiologia ambientale;PUBBLICA;07/12/2004
+1495;7169;;909;;;10;Area funzioni di prevenzione;1;0;24;Screening carcinoma mammario;PUBBLICA;07/12/2004
+1496;7170;;909;;;10;Area funzioni di prevenzione;1;0;25;Screening carcinoma cervice uterina;PUBBLICA;07/12/2004
+1497;7171;;909;;;10;Area funzioni di prevenzione;1;0;26;Screening carcinoma colorettale;PUBBLICA;07/12/2004
+1498;7324;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Economico finanziario e patrimoniale;PUBBLICA;01/01/1988
+1499;7509;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Gestione Servizi  Economali;PUBBLICA;14/12/2004
+1500;5055;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;1;S.C. Affari Generali;PUBBLICA;09/11/2004
+1501;7510;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;2;Organizzazione e Acquisizione delle risorse umane;PUBBLICA;14/12/2004
+1502;7087;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;2;S.C. Legale;PUBBLICA;07/12/2004
+1503;7325;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;2;Provveditorato;PUBBLICA;01/01/1988
+1504;7088;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Comunicazione e Relazioni con il Pubblico;PUBBLICA;07/12/2004
+1505;7511;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Approvv. Centralizz. Beni Servizi e Lavori ex. Provveditorato;PUBBLICA;14/12/2004
+1506;7326;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Tecnico;PUBBLICA;01/01/1988
+1507;7512;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;4;Ingegneria Clinica ;PUBBLICA;14/12/2004
+1508;7329;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;4;Amministrazione del personale;PUBBLICA;01/01/1988
+1509;7089;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;4;Sicurezza Ambientale e Individuale - SPP;PUBBLICA;07/12/2004
+1510;7350;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Sistemi informativi;PUBBLICA;01/01/1988
+1511;7513;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Legale;PUBBLICA;14/12/2004
+1512;7091;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;5;S.C. Gestione Economico Finanziaria;PUBBLICA;07/12/2004
+1513;7092;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;6;S.C. Patrimonio;PUBBLICA;07/12/2004
+1514;7515;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;7;Tecnico;PUBBLICA;14/12/2004
+1515;7093;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;7;S.C. Amministrazione del Personale e Relazioni Sindacali;PUBBLICA;07/12/2004
+1516;7095;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;8;S.C. Organizzazione e Sviluppo Risorse Umane;PUBBLICA;07/12/2004
+1517;7516;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;8;Patrimoniale;PUBBLICA;14/12/2004
+1518;7096;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;9;S.C. Provveditorato;PUBBLICA;07/12/2004
+1519;7517;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;9;Economico Finanziario;PUBBLICA;14/12/2004
+1520;7380;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;10;Settore amministrativo;PUBBLICA;16/12/2002
+1521;9991;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;10;Gestione Giuridico delle Risorse Umane;PUBBLICA;01/01/2009
+1522;7098;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;10;S.C. Economato;PUBBLICA;07/12/2004
+1523;9992;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;11;Relazioni Sindacali e Valutazioni;PUBBLICA;01/01/2009
+1524;9448;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;11;Economato e servizi in concessione;PUBBLICA;08/05/2007
+1525;7099;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;11;S.C. Logistica;PUBBLICA;07/12/2004
+1526;9993;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;12;Attivita' Fiscale;PUBBLICA;01/01/2009
+1527;9449;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;12;Capitolati e bandi;PUBBLICA;08/05/2007
+1528;9994;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;13;Area Gestione Contratti;PUBBLICA;01/01/2009
+1529;7103;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;14;S.C. Ingegneria Clinica;PUBBLICA;07/12/2004
+1530;9995;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;14;Manutenzione ex. Impianti Tecnologici;PUBBLICA;01/01/2009
+1531;7104;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;15;S.C. Informatica e Telematica;PUBBLICA;07/12/2004
+1532;9996;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;15;Logistica;PUBBLICA;01/01/2009
+1533;7111;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;16;S.C. Programmazione e Controllo di Gestione;PUBBLICA;07/12/2004
+1534;13400;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;16;Amministrazione e Programmazione Interventi;PUBBLICA;29/12/2010
+1535;10788;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;17;Gestione postazioni lavoro e licenze SW;PUBBLICA;19/02/2009
+1536;10789;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;18;SW sanitari e amministrativi;PUBBLICA;19/02/2009
+1537;10792;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;21;Rischi correlati all'attivita lavorativa-Referente formativa per la sicurezza;PUBBLICA;19/02/2009
+1538;10793;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;22;Gestione LL.PP.;PUBBLICA;19/02/2009
+1539;10794;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;23;Opere pubbliche;PUBBLICA;19/02/2009
+1540;10795;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;24;Sicurezza;PUBBLICA;19/02/2009
+1541;13861;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;25;Informatica medica software medicale-dispositivo med-HTA SW metodolog e tecnico-direttiva 200747 CE;PUBBLICA;01/05/2012
+1542;7184;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;31;Gestione contratti coordinamento servizi economali;PUBBLICA;07/12/2004
+1543;7185;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;32;Metodi e pianificazione approvvigionamenti;PUBBLICA;07/12/2004
+1544;7186;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;33;Gestione magazzini e anagrafica prodotti;PUBBLICA;07/12/2004
+1545;9240;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;42;S.C. Tecnico;PUBBLICA;01/12/2006
+1546;9781;;909;;;11;Area funzioni generali e supp tecn/amm;1;0;48;Gestione amministrativa Libera Professione Intramuraria;PUBBLICA;26/11/2008
+1547;7481;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;1;Flussi Informativi e Informatizzazione Sanitaria;PUBBLICA;14/12/2004
+1548;7580;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;2;Organizzazione e sviluppo delle risorse umane;PUBBLICA;19/11/2002
+1549;7581;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;3;Servizio di prevenzione e protezione;PUBBLICA;23/12/2003
+1550;7503;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;3;AFFARI ISTITUZIONALI GENERALI;PUBBLICA;14/12/2004
+1551;7504;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;4;Qualita' e Risk Management Accreditamento;PUBBLICA;14/12/2004
+1552;7582;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;4;Ufficio relazioni con il pubblico;PUBBLICA;23/12/2003
+1553;9450;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;5;Programmazione e controllo di Gestione;PUBBLICA;08/05/2007
+1554;14194;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;6;Unità amministrativa di DG e staff;PUBBLICA;01/07/2012
+1555;9452;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;7;Ufficio per la Qualita';PUBBLICA;08/05/2007
+1556;7508;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;8;SICUREZZA E AMBIENTE Servizio Prevenzione e Protezione;PUBBLICA;14/12/2004
+1557;9626;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;8;Affari Istituzionali e Legali;PUBBLICA;15/09/2008
+1558;9630;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;9;Rischio clinico e occupazionale;PUBBLICA;25/09/2008
+1559;10870;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;10;Qualit, Comunicazione e URP Interaziendale;PUBBLICA;26/04/2010
+1560;9989;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;11;Formazione permanente e aggiornamento delle risorse umane;PUBBLICA;01/01/2009
+1561;9990;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;12;Servizio Assistenza e Professioni Tecnico Sanitarie ;PUBBLICA;01/01/2009
+1562;10001;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;13;Direzione Amministrativa dei Presidi Ospedalieri;PUBBLICA;01/01/2009
+1563;10468;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;14;Archivio Aziendale;PUBBLICA;01/06/2009
+1564;13404;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;15;Controlli Interni e Organi Collegiali;PUBBLICA;01/01/2011
+1565;13405;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;16;Processi di cura;PUBBLICA;01/01/2011
+1566;13408;;909;;;11;Area funzioni generali e supp tecn/amm;2;0;17;Libera Professione;PUBBLICA;01/01/2011
+1567;14339;;909;;;11;Area funzioni generali e supp tecn/amm;3;0;1;ICT ;PUBBLICA;14/02/2014
+1568;8395;;996;;;11;Area funzioni generali e supp tecn/amm;1;0;1;Direzione amministrativa e finanziaria;PUBBLICA;01/10/2002
+1569;8397;;996;;;11;Area funzioni generali e supp tecn/amm;1;0;2;Front-office;PUBBLICA;01/10/2002
+1570;8400;;996;;;11;Area funzioni generali e supp tecn/amm;1;0;3;Accettazione amministrativa;PUBBLICA;01/10/2002
+1571;8447;;996;;;11;Area funzioni generali e supp tecn/amm;1;0;4;Direzione medica;PUBBLICA;01/10/2002
+1572;8448;;996;;;11;Area funzioni generali e supp tecn/amm;1;0;5;Direzione tecnica;PUBBLICA;01/10/2002
+1573;8450;;996;;;11;Area funzioni generali e supp tecn/amm;2;0;1;Direzione generale;PUBBLICA;01/10/2002

@@ -1,0 +1,11 @@
+Provincia,Comune,Nome Sala,Tipo Sala,Posti per calcolo quozienti,VIA,TELEFONO,NOTE,lon,lat,Geojson
+Latina,Formia,S. JANNI,ARENA,0,,,ULTIMA PROGRAMMAZIONE EVIDENTE SU INTERNET NEL 2012,,,"{""type"":""Point"",""coordinates"":[,]}"
+Latina,Minturno,EDEN,ARENA,0,,,NON ESISTENTE,,,"{""type"":""Point"",""coordinates"":[,]}"
+Latina,San Felice Circeo,VITTORIA,ARENA,0,VIA MARCO EMILIO LEPIDO,773547770,NESSUNA INFORMAZIONE,,,"{""type"":""Point"",""coordinates"":[,]}"
+Latina,Terracina,PILLI,ARENA,0,"VIA PANTANELLE, 1",0771 727500,,13.24169,41.29165,"{""type"":""Point"",""coordinates"":[13.24169,41.29165]}"
+Roma,Santa Marinella,CORALLO,ARENA,0,VIA DEI NORMANNI,,,11.956547,42.02252,"{""type"":""Point"",""coordinates"":[11.956547,42.02252]}"
+Roma,Santa Marinella,LUCCIOLA,ARENA,0,"VIA AURELIA, 311",3334644181,,11.865492,42.035474,"{""type"":""Point"",""coordinates"":[11.865492,42.035474]}"
+Roma,Tivoli,GIUSEPPETTI,ARENA,622,"VICOLO INVERSATA, 5",0774 335087,,12.800114,41.961442,"{""type"":""Point"",""coordinates"":[12.800114,41.961442]}"
+Roma,Trevignano Romano,PALMA,ARENA,240,"VIALE GARIBALDI, 101",06 9999769,,12.249115,42.154777,"{""type"":""Point"",""coordinates"":[12.249115,42.154777]}"
+Viterbo,Tarquinia,ARENA ETRUSCO,ARENA,0,"VIA DEL PORTO CLEMENTINO, snc",0766 856432,UNICO CINEMA,,,"{""type"":""Point"",""coordinates"":[,]}"
+Viterbo,Tarquinia Lido,ARENA LIDO,ARENA,0,,,,,,"{""type"":""Point"",""coordinates"":[,]}"
