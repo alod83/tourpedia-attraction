@@ -1,268 +1,57 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-15"
+     xml:base="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-25"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-15">
-    <Prefix name="" IRI="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-15"/>
+     ontologyIRI="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-25">
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <Class IRI="#winehouse"/>
+        <Class IRI="#FoodAndWineShop"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#gouvernament_building"/>
+        <Class IRI="#PlaceForShopping"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#monument"/>
+        <Class IRI="#ArchitecturalMuseum"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#place_of_entertainment"/>
+        <DataProperty IRI="#property"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#artistical_movement"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#theater"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#address"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#place_of_performing_arts"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#palace"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#amusement_park"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#tavern_and_typical_restaurant"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#aquarium"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#thermal_bath"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#sector_museum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#nature_reserve"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#spa"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#cemetery"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#lake"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#art_museum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#art_gallery"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#statue"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#region"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#museum"/>
+        <Class IRI="#Distillery"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#email"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#lat"/>
+        <Class IRI="#HistoricMuseum"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#tourist_attraction"/>
+        <Class IRI="#Outlet"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#river"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#bakery"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#free_entrance"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#racecourse"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#bar"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#historical_period"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#beach"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#observatory_and_planetarium"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#fort"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#postal_code"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#shopping_center"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#science_museum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#waterfall"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#fountain"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#phone"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#national_park"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#distillery"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#tower"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#archeological_museum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#regional_park"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#garden"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#mountain"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#historic_museum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#place_of_worship"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#auditorium"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#province"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#place_for_shopping"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#natural"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ski_run"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#theme_park"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#market"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#opening_hours"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#artificial/cultural"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#coffee_shop"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#children&apos;s_museum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#beer_house"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#arena"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#website"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#architectural_museum"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ancient_ruin"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#natural_history_museum"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#builder"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#antique_store"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#archeological_site"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#temple"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#castle"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#place_for_sport"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#place_for_wellness_and_beauty"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#water_park"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#historic_and_prehistoric_site"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#property"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#department_store"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#cinema"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#contacts"/>
+        <Class IRI="#Waterfall"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#fax"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#zoo"/>
+        <Class IRI="#ArchaeologicalMuseum"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#locality"/>
+        <Class IRI="#River"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#name"/>
+        <Class IRI="#WaterPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Museum"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#localization"/>
@@ -271,411 +60,623 @@
         <DataProperty IRI="#lng"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#outlet"/>
+        <Class IRI="#Beach"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#collection_historical_period"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#food_and_wine_shop"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ethnographic_museum"/>
+        <DataProperty IRI="#freeEntrance"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#city"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#park"/>
+        <Class IRI="#Mountain"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#watercourse"/>
+        <Class IRI="#PlaceOfWorship"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#funfair"/>
+        <Class IRI="#NationalPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Auditorium"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#phone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AmusementPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Palace"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Racecourse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SectorMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Funfair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AntiqueStore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ThermalBath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShoppingCenter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChildrensMuseum"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#historicalPeriod"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Statue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Theater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArtMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DepartmentStore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NaturalAttraction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Watercourse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fort"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#website"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NatureReserve"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RegionalPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SkiRun"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bar"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#builder"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lake"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#name"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ObservatoryAndPlanetarium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Garden"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArtGallery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cemetery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ThemePark"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#lat"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#contacts"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TouristAttraction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArchaeologicalSite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NaturalHistoryMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cinema"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Winehouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Market"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Monument"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#address"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Zoo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bakery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Aquarium"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#artisticalMovement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BeerHouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fountain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Castle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AncientRuin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PlaceOfEntertainment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Arena"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PlaceOfPerformingArts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ScienceMuseum"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#province"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CoffeeShop"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PlaceForSport"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#locality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Park"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Temple"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EthnographicMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TavernAndTypicalRestaurant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GouvernamentBuilding"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#openingHours"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#postalCode"/>
     </Declaration>
     <SubClassOf>
-        <Class IRI="#amusement_park"/>
-        <Class IRI="#place_of_entertainment"/>
+        <Class IRI="#AmusementPark"/>
+        <Class IRI="#PlaceOfEntertainment"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#ancient_ruin"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <Class IRI="#AncientRuin"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#antique_store"/>
-        <Class IRI="#place_for_shopping"/>
+        <Class IRI="#AntiqueStore"/>
+        <Class IRI="#PlaceForShopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#aquarium"/>
-        <Class IRI="#natural"/>
+        <Class IRI="#Aquarium"/>
+        <Class IRI="#NaturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#archeological_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#ArchaeologicalMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#archeological_site"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <Class IRI="#ArchaeologicalSite"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#architectural_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#ArchitecturalMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#arena"/>
-        <Class IRI="#place_of_performing_arts"/>
+        <Class IRI="#Arena"/>
+        <Class IRI="#PlaceOfPerformingArts"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#art_gallery"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#ArtGallery"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#art_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#ArtMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#auditorium"/>
-        <Class IRI="#place_of_performing_arts"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+        <Class IRI="#TouristAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#bakery"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#Auditorium"/>
+        <Class IRI="#PlaceOfPerformingArts"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#bar"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#Bakery"/>
+        <Class IRI="#FoodAndWineShop"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#beach"/>
-        <Class IRI="#natural"/>
+        <Class IRI="#Bar"/>
+        <Class IRI="#FoodAndWineShop"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#beer_house"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#Beach"/>
+        <Class IRI="#NaturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#castle"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <Class IRI="#BeerHouse"/>
+        <Class IRI="#FoodAndWineShop"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#cemetery"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#Castle"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#cinema"/>
-        <Class IRI="#place_of_performing_arts"/>
+        <Class IRI="#Cemetery"/>
+        <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#coffee_shop"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#ChildrensMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#department_store"/>
-        <Class IRI="#place_for_shopping"/>
+        <Class IRI="#Cinema"/>
+        <Class IRI="#PlaceOfPerformingArts"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#distillery"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#CoffeeShop"/>
+        <Class IRI="#FoodAndWineShop"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#ethnographic_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#DepartmentStore"/>
+        <Class IRI="#PlaceForShopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#food_and_wine_shop"/>
-        <Class IRI="#place_for_shopping"/>
+        <Class IRI="#Distillery"/>
+        <Class IRI="#FoodAndWineShop"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#fort"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <Class IRI="#EthnographicMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#fountain"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#FoodAndWineShop"/>
+        <Class IRI="#PlaceForShopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#funfair"/>
-        <Class IRI="#amusement_park"/>
+        <Class IRI="#Fort"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#garden"/>
-        <Class IRI="#natural"/>
+        <Class IRI="#Fountain"/>
+        <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#gouvernament_building"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#Funfair"/>
+        <Class IRI="#AmusementPark"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#historic_and_prehistoric_site"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#Garden"/>
+        <Class IRI="#NaturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#historic_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#GouvernamentBuilding"/>
+        <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#lake"/>
-        <Class IRI="#watercourse"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#market"/>
-        <Class IRI="#place_for_shopping"/>
+        <Class IRI="#HistoricMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#monument"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#Lake"/>
+        <Class IRI="#Watercourse"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#mountain"/>
-        <Class IRI="#natural"/>
+        <Class IRI="#Market"/>
+        <Class IRI="#PlaceForShopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#museum"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#Monument"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#national_park"/>
-        <Class IRI="#park"/>
+        <Class IRI="#Mountain"/>
+        <Class IRI="#NaturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#natural"/>
-        <Class IRI="#tourist_attraction"/>
+        <Class IRI="#Museum"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#natural_history_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#NationalPark"/>
+        <Class IRI="#Park"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#nature_reserve"/>
-        <Class IRI="#park"/>
+        <Class IRI="#NaturalAttraction"/>
+        <Class IRI="#TouristAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#observatory_and_planetarium"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#NaturalHistoryMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#outlet"/>
-        <Class IRI="#place_for_shopping"/>
+        <Class IRI="#NatureReserve"/>
+        <Class IRI="#Park"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#palace"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#ObservatoryAndPlanetarium"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#park"/>
-        <Class IRI="#natural"/>
+        <Class IRI="#Outlet"/>
+        <Class IRI="#PlaceForShopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#place_for_shopping"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#Palace"/>
+        <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#place_for_sport"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#Park"/>
+        <Class IRI="#NaturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#place_for_wellness_and_beauty"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#PlaceForShopping"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#place_of_entertainment"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#PlaceForSport"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#place_of_performing_arts"/>
-        <Class IRI="#place_of_entertainment"/>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#place_of_worship"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#PlaceOfEntertainment"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#racecourse"/>
-        <Class IRI="#place_for_sport"/>
+        <Class IRI="#PlaceOfPerformingArts"/>
+        <Class IRI="#PlaceOfEntertainment"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#regional_park"/>
-        <Class IRI="#park"/>
+        <Class IRI="#PlaceOfWorship"/>
+        <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#river"/>
-        <Class IRI="#watercourse"/>
+        <Class IRI="#Racecourse"/>
+        <Class IRI="#PlaceForSport"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#science_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#RegionalPark"/>
+        <Class IRI="#Park"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#sector_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#River"/>
+        <Class IRI="#Watercourse"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#shopping_center"/>
-        <Class IRI="#place_for_shopping"/>
+        <Class IRI="#ScienceMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#ski_run"/>
-        <Class IRI="#place_for_sport"/>
+        <Class IRI="#SectorMuseum"/>
+        <Class IRI="#Museum"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#spa"/>
-        <Class IRI="#place_for_wellness_and_beauty"/>
+        <Class IRI="#ShoppingCenter"/>
+        <Class IRI="#PlaceForShopping"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#statue"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#SkiRun"/>
+        <Class IRI="#PlaceForSport"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#tavern_and_typical_restaurant"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#Spa"/>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#temple"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <Class IRI="#Statue"/>
+        <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#theater"/>
-        <Class IRI="#place_of_performing_arts"/>
+        <Class IRI="#TavernAndTypicalRestaurant"/>
+        <Class IRI="#FoodAndWineShop"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#theme_park"/>
-        <Class IRI="#amusement_park"/>
+        <Class IRI="#Temple"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#thermal_bath"/>
-        <Class IRI="#place_for_wellness_and_beauty"/>
+        <Class IRI="#Theater"/>
+        <Class IRI="#PlaceOfPerformingArts"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#tower"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#ThemePark"/>
+        <Class IRI="#AmusementPark"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#water_park"/>
-        <Class IRI="#amusement_park"/>
+        <Class IRI="#ThermalBath"/>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#watercourse"/>
-        <Class IRI="#natural"/>
+        <Class IRI="#Tower"/>
+        <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#waterfall"/>
-        <Class IRI="#watercourse"/>
+        <Class IRI="#WaterPark"/>
+        <Class IRI="#AmusementPark"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#winehouse"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#Watercourse"/>
+        <Class IRI="#NaturalAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#zoo"/>
-        <Class IRI="#natural"/>
+        <Class IRI="#Waterfall"/>
+        <Class IRI="#Watercourse"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#artificial/cultural"/>
-        <Class IRI="#tourist_attraction"/>
+        <Class IRI="#Winehouse"/>
+        <Class IRI="#FoodAndWineShop"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#children&apos;s_museum"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#Zoo"/>
+        <Class IRI="#NaturalAttraction"/>
     </SubClassOf>
     <DisjointClasses>
-        <Class IRI="#amusement_park"/>
-        <Class IRI="#place_of_performing_arts"/>
+        <Class IRI="#AmusementPark"/>
+        <Class IRI="#PlaceOfPerformingArts"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#ancient_ruin"/>
-        <Class IRI="#archeological_site"/>
-        <Class IRI="#castle"/>
-        <Class IRI="#fort"/>
-        <Class IRI="#temple"/>
+        <Class IRI="#AncientRuin"/>
+        <Class IRI="#ArchaeologicalSite"/>
+        <Class IRI="#Castle"/>
+        <Class IRI="#Fort"/>
+        <Class IRI="#Temple"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#antique_store"/>
-        <Class IRI="#department_store"/>
-        <Class IRI="#food_and_wine_shop"/>
-        <Class IRI="#market"/>
-        <Class IRI="#outlet"/>
-        <Class IRI="#shopping_center"/>
+        <Class IRI="#AntiqueStore"/>
+        <Class IRI="#DepartmentStore"/>
+        <Class IRI="#FoodAndWineShop"/>
+        <Class IRI="#Market"/>
+        <Class IRI="#Outlet"/>
+        <Class IRI="#ShoppingCenter"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#archeological_museum"/>
-        <Class IRI="#architectural_museum"/>
-        <Class IRI="#art_gallery"/>
-        <Class IRI="#art_museum"/>
-        <Class IRI="#ethnographic_museum"/>
-        <Class IRI="#historic_museum"/>
-        <Class IRI="#natural_history_museum"/>
-        <Class IRI="#observatory_and_planetarium"/>
-        <Class IRI="#science_museum"/>
-        <Class IRI="#sector_museum"/>
-        <Class IRI="#children&apos;s_museum"/>
+        <Class IRI="#Aquarium"/>
+        <Class IRI="#Beach"/>
+        <Class IRI="#Garden"/>
+        <Class IRI="#Mountain"/>
+        <Class IRI="#Park"/>
+        <Class IRI="#Watercourse"/>
+        <Class IRI="#Zoo"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#arena"/>
-        <Class IRI="#auditorium"/>
-        <Class IRI="#cinema"/>
-        <Class IRI="#theater"/>
+        <Class IRI="#ArchaeologicalMuseum"/>
+        <Class IRI="#ArchitecturalMuseum"/>
+        <Class IRI="#ArtGallery"/>
+        <Class IRI="#ArtMuseum"/>
+        <Class IRI="#ChildrensMuseum"/>
+        <Class IRI="#EthnographicMuseum"/>
+        <Class IRI="#HistoricMuseum"/>
+        <Class IRI="#NaturalHistoryMuseum"/>
+        <Class IRI="#ObservatoryAndPlanetarium"/>
+        <Class IRI="#ScienceMuseum"/>
+        <Class IRI="#SectorMuseum"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#arena"/>
-        <Class IRI="#cinema"/>
-        <Class IRI="#theater"/>
+        <Class IRI="#Arena"/>
+        <Class IRI="#Auditorium"/>
+        <Class IRI="#Cinema"/>
+        <Class IRI="#Theater"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#bakery"/>
-        <Class IRI="#bar"/>
-        <Class IRI="#beer_house"/>
-        <Class IRI="#coffee_shop"/>
-        <Class IRI="#distillery"/>
-        <Class IRI="#tavern_and_typical_restaurant"/>
-        <Class IRI="#winehouse"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+        <Class IRI="#NaturalAttraction"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#cemetery"/>
-        <Class IRI="#fountain"/>
-        <Class IRI="#gouvernament_building"/>
-        <Class IRI="#palace"/>
-        <Class IRI="#place_of_worship"/>
-        <Class IRI="#statue"/>
-        <Class IRI="#tower"/>
+        <Class IRI="#Bakery"/>
+        <Class IRI="#Bar"/>
+        <Class IRI="#BeerHouse"/>
+        <Class IRI="#CoffeeShop"/>
+        <Class IRI="#Distillery"/>
+        <Class IRI="#TavernAndTypicalRestaurant"/>
+        <Class IRI="#Winehouse"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#funfair"/>
-        <Class IRI="#theme_park"/>
-        <Class IRI="#water_park"/>
+        <Class IRI="#Cemetery"/>
+        <Class IRI="#Fountain"/>
+        <Class IRI="#GouvernamentBuilding"/>
+        <Class IRI="#Palace"/>
+        <Class IRI="#PlaceOfWorship"/>
+        <Class IRI="#Statue"/>
+        <Class IRI="#Tower"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#historic_and_prehistoric_site"/>
-        <Class IRI="#monument"/>
-        <Class IRI="#museum"/>
-        <Class IRI="#place_for_shopping"/>
-        <Class IRI="#place_for_sport"/>
-        <Class IRI="#place_for_wellness_and_beauty"/>
-        <Class IRI="#place_of_entertainment"/>
+        <Class IRI="#Funfair"/>
+        <Class IRI="#ThemePark"/>
+        <Class IRI="#WaterPark"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#lake"/>
-        <Class IRI="#river"/>
-        <Class IRI="#watercourse"/>
-        <Class IRI="#waterfall"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
+        <Class IRI="#Monument"/>
+        <Class IRI="#Museum"/>
+        <Class IRI="#PlaceForShopping"/>
+        <Class IRI="#PlaceForSport"/>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
+        <Class IRI="#PlaceOfEntertainment"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#national_park"/>
-        <Class IRI="#nature_reserve"/>
-        <Class IRI="#regional_park"/>
-        <Class abbreviatedIRI="owl:Thing"/>
+        <Class IRI="#Lake"/>
+        <Class IRI="#River"/>
+        <Class IRI="#Waterfall"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#natural"/>
-        <Class IRI="#artificial/cultural"/>
+        <Class IRI="#NationalPark"/>
+        <Class IRI="#NatureReserve"/>
+        <Class IRI="#RegionalPark"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#racecourse"/>
-        <Class IRI="#ski_run"/>
+        <Class IRI="#Racecourse"/>
+        <Class IRI="#SkiRun"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#spa"/>
-        <Class IRI="#thermal_bath"/>
+        <Class IRI="#Spa"/>
+        <Class IRI="#ThermalBath"/>
     </DisjointClasses>
     <SubDataPropertyOf>
         <DataProperty IRI="#address"/>
@@ -710,7 +711,7 @@
         <DataProperty IRI="#contacts"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#postal_code"/>
+        <DataProperty IRI="#postalCode"/>
         <DataProperty IRI="#localization"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
@@ -725,364 +726,324 @@
         <DataProperty IRI="#website"/>
         <DataProperty IRI="#contacts"/>
     </SubDataPropertyOf>
-    <SubDataPropertyOf>
-        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
-        <DataProperty IRI="#opening_hours"/>
-    </SubDataPropertyOf>
     <DataPropertyDomain>
-        <DataProperty IRI="#address"/>
-        <Class IRI="#tourist_attraction"/>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#ArchitecturalMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#artistical_movement"/>
-        <Class IRI="#architectural_museum"/>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#ArtGallery"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#artistical_movement"/>
-        <Class IRI="#art_gallery"/>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#ArtMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#artistical_movement"/>
-        <Class IRI="#art_museum"/>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#Castle"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#artistical_movement"/>
-        <Class IRI="#castle"/>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#Monument"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#artistical_movement"/>
-        <Class IRI="#monument"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#artistical_movement"/>
-        <Class IRI="#temple"/>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#Temple"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#builder"/>
-        <Class IRI="#castle"/>
+        <Class IRI="#Castle"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#builder"/>
-        <Class IRI="#fort"/>
+        <Class IRI="#Fort"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#builder"/>
-        <Class IRI="#garden"/>
+        <Class IRI="#Garden"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#builder"/>
-        <Class IRI="#monument"/>
+        <Class IRI="#Monument"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#city"/>
-        <Class IRI="#tourist_attraction"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#ArchaeologicalMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#archeological_museum"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#ArchitecturalMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#architectural_museum"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#ArtGallery"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#art_gallery"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#ArtMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#art_museum"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#EthnographicMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#ethnographic_museum"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#HistoricMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#historic_museum"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#NaturalHistoryMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#natural_history_museum"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#collection_historical_period"/>
-        <Class IRI="#science_museum"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
+        <Class IRI="#ScienceMuseum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#antique_store"/>
+        <Class IRI="#AntiqueStore"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#aquarium"/>
+        <Class IRI="#Aquarium"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#cemetery"/>
+        <Class IRI="#Cemetery"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#department_store"/>
+        <Class IRI="#DepartmentStore"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#food_and_wine_shop"/>
+        <Class IRI="#FoodAndWineShop"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#garden"/>
+        <Class IRI="#Garden"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#gouvernament_building"/>
+        <Class IRI="#GouvernamentBuilding"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#Museum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#outlet"/>
+        <Class IRI="#Outlet"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#palace"/>
+        <Class IRI="#Palace"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#park"/>
+        <Class IRI="#Park"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#place_for_sport"/>
+        <Class IRI="#PlaceForSport"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#place_for_wellness_and_beauty"/>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#place_of_entertainment"/>
+        <Class IRI="#PlaceOfEntertainment"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#place_of_worship"/>
+        <Class IRI="#PlaceOfWorship"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#shopping_center"/>
+        <Class IRI="#ShoppingCenter"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#contacts"/>
-        <Class IRI="#zoo"/>
+        <Class IRI="#Zoo"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#aquarium"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Aquarium"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#beach"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Beach"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#cemetery"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Cemetery"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#garden"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Garden"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#gouvernament_building"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#GouvernamentBuilding"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#mountain"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Mountain"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#museum"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Museum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#palace"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Palace"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#park"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Park"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#place_for_shopping"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#PlaceForShopping"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#place_for_sport"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#PlaceForSport"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#place_for_wellness_and_beauty"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#place_of_entertainment"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#PlaceOfEntertainment"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#place_of_worship"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#PlaceOfWorship"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#tower"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Tower"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#watercourse"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Watercourse"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#free_entrance"/>
-        <Class IRI="#zoo"/>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#Zoo"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#historical_period"/>
-        <Class IRI="#garden"/>
+        <DataProperty IRI="#historicalPeriod"/>
+        <Class IRI="#Garden"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#historical_period"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <DataProperty IRI="#historicalPeriod"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#historical_period"/>
-        <Class IRI="#monument"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#lat"/>
-        <Class IRI="#tourist_attraction"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#lng"/>
-        <Class IRI="#tourist_attraction"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#locality"/>
-        <Class IRI="#tourist_attraction"/>
+        <DataProperty IRI="#historicalPeriod"/>
+        <Class IRI="#Monument"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#localization"/>
-        <Class IRI="#tourist_attraction"/>
+        <Class IRI="#TouristAttraction"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#name"/>
-        <Class IRI="#tourist_attraction"/>
+        <Class IRI="#TouristAttraction"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#aquarium"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#Aquarium"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#cemetery"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#Cemetery"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#garden"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#Garden"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#gouvernament_building"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#GouvernamentBuilding"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#historic_and_prehistoric_site"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#HistoricAndPrehistoricSite"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#museum"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#Museum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#palace"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#Palace"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#park"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#Park"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#place_for_shopping"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#PlaceForShopping"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#place_for_sport"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#PlaceForSport"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#place_for_wellness_and_beauty"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#PlaceForWellnessAndBeauty"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#place_of_entertainment"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#PlaceOfEntertainment"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#place_of_worship"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#PlaceOfWorship"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="#opening_hours"/>
-        <Class IRI="#zoo"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#postal_code"/>
-        <Class IRI="#tourist_attraction"/>
+        <DataProperty IRI="#openingHours"/>
+        <Class IRI="#Zoo"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#property"/>
-        <Class IRI="#beach"/>
+        <Class IRI="#Beach"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#property"/>
-        <Class IRI="#castle"/>
+        <Class IRI="#Castle"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#property"/>
-        <Class IRI="#garden"/>
+        <Class IRI="#Garden"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#property"/>
-        <Class IRI="#museum"/>
+        <Class IRI="#Museum"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#property"/>
-        <Class IRI="#palace"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#province"/>
-        <Class IRI="#tourist_attraction"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#region"/>
-        <Class IRI="#tourist_attraction"/>
+        <Class IRI="#Palace"/>
     </DataPropertyDomain>
     <DataPropertyRange>
         <DataProperty IRI="#address"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#artistical_movement"/>
-        <Datatype abbreviatedIRI="xsd:string"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
-        <DataProperty IRI="#builder"/>
+        <DataProperty IRI="#artisticalMovement"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
@@ -1090,7 +1051,7 @@
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#collection_historical_period"/>
+        <DataProperty IRI="#collectionsHistoricalPeriod"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
@@ -1098,18 +1059,18 @@
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#free_entrance"/>
+        <DataProperty IRI="#freeEntrance"/>
         <Datatype abbreviatedIRI="xsd:boolean"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#free_entrance"/>
+        <DataProperty IRI="#freeEntrance"/>
         <DataOneOf>
             <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
             <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
         </DataOneOf>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#historical_period"/>
+        <DataProperty IRI="#historicalPeriod"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
@@ -1125,19 +1086,15 @@
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#localization"/>
-        <Datatype abbreviatedIRI="xsd:decimal"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
         <DataProperty IRI="#name"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#opening_hours"/>
+        <DataProperty IRI="#openingHours"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="#postal_code"/>
+        <DataProperty IRI="#postalCode"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
@@ -1161,12 +1118,12 @@
     </DataPropertyRange>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#food_and_wine_shop</IRI>
+        <IRI>#FoodAndWineShop</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">&quot;food_and_wine_shop&quot; is a place where it&apos;s possible to eat and drink TYPICAL FOOD AND DRINKS</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <IRI>#tourist_attraction</IRI>
+        <IRI>#TouristAttraction</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">A tourist attraction is a PLACE OF INTEREST where tourists visit, typically for its INHERENT OR EXHIBITED NATURAL OR CULTURAL VALUE, historical significance, NATURAL OR BUILT BEAUTY, offering leisure, adventure and amusement (https://en.wikipedia.org/wiki/Tourist_attraction).</Literal>
     </AnnotationAssertion>
 </Ontology>
