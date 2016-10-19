@@ -1,0 +1,1654 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-34"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-34">
+    <Prefix name="" IRI="http://www.semanticweb.org/elisa/ontologies/2016/9/untitled-ontology-34"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Castle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Private"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AntiqueStore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChildrensMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/NationalPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Funfair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Waterfall"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Casino"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/BodyOfWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/EntertainmentBusiness"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Public"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArchaeologicalSite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShoppingLocation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Embassy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/MovieTheater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NaturalHistoryMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Intangible"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#artisticalMovement"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="/description"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Museum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BowlingAlley"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CatholicChurch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArchitecturalMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Place"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BeerHouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PublicSwimmingPool"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CityHall"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShoppingCenter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AncientRuin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TennisComplex"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AntiqueTemple"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/PerformingArtsLocation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Statue"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#builder"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Pond"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Reservoir"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/BuddhistTemple"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fort"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Garden"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EthnographicMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CafeOrCoffeeShop"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GolfCourse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/DefenceEstablishment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#starRating"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#menu"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Auditorium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TouristAttraction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/StadiumOrArena"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HairSalon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ArtGallery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ExerciseGym"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/OceanBodyOfWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OutletStore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BarOrPub"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fountain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/HinduTemple"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/RegionalPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Mosque"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Canal"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#servesCuisine"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rating"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TattooParlor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Park"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DepartmentStore"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HealthClub"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/SeaBodyOfWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SportsClub"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/NightClub"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#acceptsReservations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/NatureReserve"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Beach"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/WaterPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SkiResort"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DaySpa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Aquarium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GovernmentBuilding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Market"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Winery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Monument"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Church"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bakery"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#collectionsTemporalCoverage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SectorMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Palace"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ScienceMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ThermalBath"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#collectionsArtisticalMovement"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#historicalPeriod"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/PerformingArtsTheater"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ownership"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CourtHouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Zoo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/AggregateRating"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArtMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ComedyClub"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MonumentalCemetery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RestaurantOrTavern"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Enumeration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ThemePark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SportsActivityLocation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/NaturalAttraction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/LakeBodyOfWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArchaeologicalMuseum"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#freeEntrance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BeautySalon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/HealthClub"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HistoricMuseum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Distillery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/AmusementPark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Mountain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/AdultEntertainment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Synagogue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StadiumOrArena"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArtGallery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ObservatoryOrPlanetarium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OwnershipType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/RiverBodyOfWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PlaceOfWorship"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/LegislativeBuilding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Cinema"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NailSalon"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#AncientRuin"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#AntiqueStore"/>
+        <Class IRI="#ShoppingLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#AntiqueTemple"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ArchaeologicalMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ArchaeologicalSite"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ArchitecturalMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ArtGallery"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ArtMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+        <Class IRI="#TouristAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bakery"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BarOrPub"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BeautySalon"/>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BeerHouse"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BowlingAlley"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CafeOrCoffeeShop"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Castle"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ChildrensMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DaySpa"/>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DepartmentStore"/>
+        <Class IRI="#ShoppingLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Distillery"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Enumeration"/>
+        <Class IRI="#Intangible"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EthnographicMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ExerciseGym"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fort"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fountain"/>
+        <Class IRI="#Monument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GolfCourse"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GovernmentBuilding"/>
+        <Class IRI="#Monument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HairSalon"/>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HealthClub"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HistoricMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Market"/>
+        <Class IRI="#ShoppingLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Monument"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MonumentalCemetery"/>
+        <Class IRI="#Monument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Museum"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NailSalon"/>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NaturalHistoryMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ObservatoryOrPlanetarium"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OutletStore"/>
+        <Class IRI="#ShoppingLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OwnershipType"/>
+        <Class IRI="#Enumeration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Palace"/>
+        <Class IRI="#Monument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PlaceOfWorship"/>
+        <Class IRI="#Monument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PublicSwimmingPool"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rating"/>
+        <Class IRI="#Intangible"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RestaurantOrTavern"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ScienceMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SectorMuseum"/>
+        <Class IRI="#Museum"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShoppingCenter"/>
+        <Class IRI="#ShoppingLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShoppingLocation"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SkiResort"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SportsActivityLocation"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SportsClub"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StadiumOrArena"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Statue"/>
+        <Class IRI="#Monument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TattooParlor"/>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TennisComplex"/>
+        <Class IRI="#SportsActivityLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ThermalBath"/>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TouristAttraction"/>
+        <Class IRI="#Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tower"/>
+        <Class IRI="#Monument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+        <Class IRI="#ShoppingLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Winery"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/AdultEntertainment"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/AggregateRating"/>
+        <Class IRI="#Rating"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/AmusementPark"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Aquarium"/>
+        <Class IRI="/NaturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/ArtGallery"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Auditorium"/>
+        <Class IRI="/PerformingArtsLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Beach"/>
+        <Class IRI="/NaturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/BodyOfWater"/>
+        <Class IRI="/NaturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/BuddhistTemple"/>
+        <Class IRI="#PlaceOfWorship"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Canal"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Casino"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/CatholicChurch"/>
+        <Class IRI="#PlaceOfWorship"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Church"/>
+        <Class IRI="#PlaceOfWorship"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Cinema"/>
+        <Class IRI="/PerformingArtsLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/CityHall"/>
+        <Class IRI="#GovernmentBuilding"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/ComedyClub"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/CourtHouse"/>
+        <Class IRI="#GovernmentBuilding"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/DefenceEstablishment"/>
+        <Class IRI="#GovernmentBuilding"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Embassy"/>
+        <Class IRI="#GovernmentBuilding"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/EntertainmentBusiness"/>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Funfair"/>
+        <Class IRI="/AmusementPark"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Garden"/>
+        <Class IRI="/NaturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/HealthClub"/>
+        <Class IRI="#HealthAndBeautyBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/HinduTemple"/>
+        <Class IRI="#PlaceOfWorship"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/LakeBodyOfWater"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/LegislativeBuilding"/>
+        <Class IRI="#GovernmentBuilding"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Mosque"/>
+        <Class IRI="#PlaceOfWorship"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Mountain"/>
+        <Class IRI="/NaturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/MovieTheater"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/NationalPark"/>
+        <Class IRI="/Park"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/NaturalAttraction"/>
+        <Class IRI="#TouristAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/NatureReserve"/>
+        <Class IRI="/Park"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/NightClub"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/OceanBodyOfWater"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Park"/>
+        <Class IRI="/NaturalAttraction"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/PerformingArtsLocation"/>
+        <Class IRI="/EntertainmentBusiness"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/PerformingArtsTheater"/>
+        <Class IRI="/PerformingArtsLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Pond"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/RegionalPark"/>
+        <Class IRI="/Park"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Reservoir"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/RiverBodyOfWater"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/SeaBodyOfWater"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/StadiumOrArena"/>
+        <Class IRI="/PerformingArtsLocation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Synagogue"/>
+        <Class IRI="#PlaceOfWorship"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/ThemePark"/>
+        <Class IRI="/AmusementPark"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/WaterPark"/>
+        <Class IRI="/AmusementPark"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Waterfall"/>
+        <Class IRI="/BodyOfWater"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Zoo"/>
+        <Class IRI="/NaturalAttraction"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#ArtificialCulturalAttraction"/>
+        <Class IRI="/NaturalAttraction"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#BowlingAlley"/>
+        <Class IRI="#ExerciseGym"/>
+        <Class IRI="#GolfCourse"/>
+        <Class IRI="#HealthClub"/>
+        <Class IRI="#PublicSwimmingPool"/>
+        <Class IRI="#SkiResort"/>
+        <Class IRI="#SportsClub"/>
+        <Class IRI="#StadiumOrArena"/>
+        <Class IRI="#TennisComplex"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Enumeration"/>
+        <Class IRI="#Rating"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Intangible"/>
+        <Class IRI="#Place"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Canal"/>
+        <Class IRI="/LakeBodyOfWater"/>
+        <Class IRI="/OceanBodyOfWater"/>
+        <Class IRI="/Pond"/>
+        <Class IRI="/Reservoir"/>
+        <Class IRI="/RiverBodyOfWater"/>
+        <Class IRI="/SeaBodyOfWater"/>
+        <Class IRI="/Waterfall"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/NationalPark"/>
+        <Class IRI="/NatureReserve"/>
+        <Class IRI="/RegionalPark"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#OwnershipType"/>
+        <NamedIndividual IRI="#Private"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OwnershipType"/>
+        <NamedIndividual IRI="#Public"/>
+    </ClassAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ownership"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ownership"/>
+        <Class IRI="#Museum"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ownership"/>
+        <Class IRI="#Palace"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ownership"/>
+        <Class IRI="/Beach"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ownership"/>
+        <Class IRI="/Garden"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#starRating"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ownership"/>
+        <Class IRI="#OwnershipType"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#starRating"/>
+        <Class IRI="#Rating"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="#acceptsReservations"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Class IRI="#Monument"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#builder"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#builder"/>
+        <Class IRI="#Monument"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#builder"/>
+        <Class IRI="/Garden"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#collectionsArtisticalMovement"/>
+        <Class IRI="#Museum"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#collectionsTemporalCoverage"/>
+        <Class IRI="#Museum"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#freeEntrance"/>
+        <Class IRI="#TouristAttraction"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#historicalPeriod"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#historicalPeriod"/>
+        <Class IRI="#Monument"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#historicalPeriod"/>
+        <Class IRI="/Garden"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#menu"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#servesCuisine"/>
+        <Class IRI="#TypicalFoodAndDrinksShop"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#acceptsReservations"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#acceptsReservations"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#acceptsReservations"/>
+        <DataOneOf>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">No</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Yes</Literal>
+        </DataOneOf>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#artisticalMovement"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#builder"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#collectionsArtisticalMovement"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#collectionsTemporalCoverage"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#freeEntrance"/>
+        <Datatype abbreviatedIRI="xsd:boolean"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#freeEntrance"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#freeEntrance"/>
+        <DataOneOf>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">No</Literal>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Yes</Literal>
+        </DataOneOf>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#historicalPeriod"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#menu"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#menu"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#servesCuisine"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#AncientRuin</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An ancient ruin.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#AntiqueStore</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An antique shop.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#AntiqueTemple</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An antique temple such as ancient greek temples in Athens.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ArchaeologicalMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An archaelogical museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ArchaeologicalSite</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An archaeological site.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ArchitecturalMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An architectural museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ArtGallery</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An art gallery. (https://schema.org/ArtGallery)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ArtMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An art museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ArtificialCulturalAttraction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A man-made tourist attraction.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Bakery</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A bakery. (https://schema.org/Bakery)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#BarOrPub</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A bar or pub. (https://schema.org/BarOrPub)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#BeautySalon</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Beauty salon. (https://schema.org/BeautySalon)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#BeerHouse</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A beer house.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#BowlingAlley</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A bowling alley. (https://schema.org/BowlingAlley)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#CafeOrCoffeeShop</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A cafe or coffee shop. (https://schema.org/CafeOrCoffeeShop)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Castle</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A castle.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ChildrensMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A children&apos;s museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#DaySpa</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A day spa. (https://schema.org/DaySpa)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#DepartmentStore</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A department store. (https://schema.org/DepartmentStore)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Distillery</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A distillery. (https://pending.schema.org/Distillery)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Enumeration</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Lists or enumerations—for example, a list of cuisines or music genres, etc. (https://schema.org/Enumeration)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#EthnographicMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An ethnographic museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ExerciseGym</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A gym. (https://schema.org/ExerciseGym)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Fort</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A fortification.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Fountain</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A fountain.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#GolfCourse</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A golf course. (https://schema.org/GolfCourse)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#GovernmentBuilding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A government building. (https://schema.org/GovernmentBuilding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#HairSalon</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A hair salon. (https://schema.org/HairSalon)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#HealthAndBeautyBusiness</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Health and beauty. (https://schema.org/HealthAndBeautyBusiness)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#HealthClub</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A health club. (https://schema.org/HealthClub)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#HistoricMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A historic museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#HistoricOrPrehistoricSite</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A historic or prehistoric site.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Intangible</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A utility class that serves as the umbrella for a number of &apos;intangible&apos; things such as quantities, structured values, etc. (https://schema.org/Intangible)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Market</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A marketplace or a public market.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Monument</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A monument, also in the sense of a building or a structur that is considered example of important architectural or cultural heritage.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#MonumentalCemetery</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A monumental cemetery, such as &quot;Camposanto monumentale&quot; in Pisa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Museum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A museum. (https://schema.org/Museum)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#NailSalon</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A nail salon. (https://schema.org/NailSalon)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#NaturalHistoryMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A natural history museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ObservatoryOrPlanetarium</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An observatory or planetarium.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#OutletStore</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An outlet store. (https://schema.org/OutletStore)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#OwnershipType</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A legal designation for the ownership of an item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Palace</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A palace.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Place</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Entities that have a somewhat fixed, physical extension. (https://schema.org/Place)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#PlaceOfWorship</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Place of worship, such as a church, synagogue, or mosque. (https://schema.org/PlaceOfWorship)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#PublicSwimmingPool</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A public swimming pool. (https://schema.org/PublicSwimmingPool)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Rating</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A rating is an evaluation on a numeric scale, such as 1 to 5 stars. (https://schema.org/Rating)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#RestaurantOrTavern</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A typical restaurant or tavern.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ScienceMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A science museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#SectorMuseum</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A sector museum.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ShoppingCenter</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A shopping center or mall. (https://schema.org/ShoppingCenter)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ShoppingLocation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A location for shopping.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#SkiResort</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A ski resort. (https://schema.org/SkiResort)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#SportsActivityLocation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A sports location, such as a playing field. (https://schema.org/SportsActivityLocation)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#SportsClub</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A sports club. (https://schema.org/SportsClub)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#StadiumOrArena</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A stadium. (https://schema.org/StadiumOrArena)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Statue</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A statue.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#TattooParlor</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tattoo parlor. (https://schema.org/TattooParlor)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#TennisComplex</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tennis complex. (https://schema.org/TennisComplex)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ThermalBath</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A thermal bath.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#TouristAttraction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tourist attraction. (https://schema.org/TouristAttraction)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Tower</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tower, such as &quot;Torre pendente&quot; in Pisa.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#TypicalFoodAndDrinksShop</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place where it&apos;s possible to eat and drink typical food and drinks.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#Winery</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A winery. (https://schema.org/Winery)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#acceptsReservations</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates whether a FoodEstablishment accepts reservations. Values can be Boolean, an URL at which reservations can be made or (for backwards compatibility) the strings &quot;Yes&quot; or &quot;No&quot;. (https://schema.org/acceptsReservations)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#artisticalMovement</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates an artistical movement such as Expressionism or Surrealism.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#builder</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the name of the builder (a person or a group of person) of an item, such as a monument.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#collectionsArtisticalMovement</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the artistical movement of the collection of a museum or an artgallery.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#collectionsTemporalCoverage</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the historical period that the collection of a museum or artgallery applies to. It can be described by a textual string indicating the name of a historical period (such as Renaissance) or a time period in  ISO 8601 time interval format (https://en.wikipedia.org/wiki/ISO_8601#Time_intervals).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#freeEntrance</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates if the entrance in a place is free or not. It is described by a boolean or by the string &quot;Yes&quot; or &quot;No&quot;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#historicalPeriod</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the historical period in which a place such as a monument or an historic site was built. It can be described by a textual string indicating the name of a historical period (such as Renaissance) or a time period in  ISO 8601 time interval format (https://en.wikipedia.org/wiki/ISO_8601#Time_intervals).</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#menu</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Either the actual menu or a URL of the menu. (https://schema.org/menu)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#ownership</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The legal ownership of an item, e.g.  public or private ownership.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#servesCuisine</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The cuisine of the restaurant. (https://schema.org/servesCuisine)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>#starRating</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. Use the author property to indicate the rating organization, e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelstars). (https://schema.org/starRating)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/AdultEntertainment</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An adult entertainment establishment. (http://schema.org/AdultEntertainment)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/AggregateRating</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The average rating based on multiple ratings or reviews. (https://schema.org/AggregateRating)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/AmusementPark</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An amusement park. (http://schema.org/AmusementPark)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Aquarium</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Aquarium. (https://schema.org/Aquarium)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/ArtGallery</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An art gallery. (https://schema.org/ArtGallery)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Auditorium</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An auditorium.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Beach</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Beach. (https://schema.org/Beach)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/BodyOfWater</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A body of water, such as a sea, ocean, or lake. (https://schema.org/BodyOfWater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/BuddhistTemple</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A Buddhist temple. (https://schema.org/BuddhistTemple)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Canal</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A canal, like the Panama Canal. (https://schema.org/Canal)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Casino</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A casino. (https://schema.org/Casino)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/CatholicChurch</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A Catholic church. (https://schema.org/CatholicChurch)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Church</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A church. (https://schema.org/Church)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Cinema</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A cinema.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/CityHall</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A city hall. (https://schema.org/CityHall)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/ComedyClub</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A comedy club. (https://schema.org/ComedyClub)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/CourtHouse</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A courthouse. (https://schema.org/Courthouse)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/DefenceEstablishment</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A defence establishment, such as an army or navy base. (https://schema.org/DefenceEstablishment)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Embassy</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An embassy. (https://schema.org/Embassy)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/EntertainmentBusiness</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A business providing entertainment. (https://schema.org/EntertainmentBusiness)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Funfair</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A funfair.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Garden</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A garden, such as Royal gardens of Reggia di Caserta in Italy.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/HealthClub</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A health club. (https://schema.org/HealthClub)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/HinduTemple</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A Hindu temple. (https://schema.org/HinduTemple)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/LakeBodyOfWater</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A lake (for example, Lake Pontrachain). (https://schema.org/LakeBodyOfWater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/LegislativeBuilding</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A legislative building—for example, the state capitol. (https://schema.org/LegislativeBuilding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Mosque</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A mosque. (https://schema.org/Mosque)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Mountain</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A mountain, like Mount Whitney or Mount Everest. (https://schema.org/Mountain)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/MovieTheater</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A movie theater. (https://schema.org/MovieTheater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/NationalPark</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A national park.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/NaturalAttraction</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A natural tourist attraction.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/NatureReserve</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A nature reserve.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/NightClub</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A nightclub or discotheque. (https://schema.org/NightClub)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/OceanBodyOfWater</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An ocean (for example, the Pacific). (https://schema.org/OceanBodyOfWater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Park</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A park. (https://pending.schema.org/Park)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/PerformingArtsLocation</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A location where performing arts take place.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/PerformingArtsTheater</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A theater or other performing art center.  (http://schema.org/PerformingArtsTheater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Pond</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A pond. (https://schema.org/Pond)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/RegionalPark</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A regional park.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Reservoir</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A reservoir of water, typically an artificially created lake, like the Lake Kariba reservoir. (https://schema.org/Reservoir)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/RiverBodyOfWater</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A river (for example, the broad majestic Shannon). (https://schema.org/RiverBodyOfWater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/SeaBodyOfWater</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A sea (for example, the Caspian sea). (https://schema.org/SeaBodyOfWater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/StadiumOrArena</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A stadium. (http://schema.org/StadiumOrArena)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Synagogue</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A synagogue. (https://schema.org/Synagogue)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/ThemePark</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A themepark.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/WaterPark</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A waterpark.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Waterfall</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A waterfall, like Niagara. (https://schema.org/Waterfall)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Zoo</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A zoo. (https://pending.schema.org/Zoo)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <AbbreviatedIRI>owl:Thing</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The most generic type of item. (http://schema.org/Thing)</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
+
