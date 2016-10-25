@@ -34,6 +34,9 @@
         <Class IRI="/Funfair"/>
     </Declaration>
     <Declaration>
+        <ObjectProperty IRI="/builder"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="/Waterfall"/>
     </Declaration>
     <Declaration>
@@ -43,10 +46,10 @@
         <Class IRI="#HealthAndBeautyBusiness"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/BodyOfWater"/>
+        <Class IRI="/EntertainmentBusiness"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/EntertainmentBusiness"/>
+        <Class IRI="/BodyOfWater"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Public"/>
@@ -70,6 +73,9 @@
         <Class IRI="#Intangible"/>
     </Declaration>
     <Declaration>
+        <Class IRI="/Organization"/>
+    </Declaration>
+    <Declaration>
         <DataProperty IRI="#artisticalMovement"/>
     </Declaration>
     <Declaration>
@@ -89,9 +95,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Place"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#BeerHouse"/>
     </Declaration>
     <Declaration>
         <Class IRI="#PublicSwimmingPool"/>
@@ -118,13 +121,10 @@
         <Class IRI="#Statue"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#builder"/>
+        <Class IRI="/Reservoir"/>
     </Declaration>
     <Declaration>
         <Class IRI="/Pond"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="/Reservoir"/>
     </Declaration>
     <Declaration>
         <Class IRI="/BuddhistTemple"/>
@@ -139,9 +139,6 @@
         <Class IRI="#EthnographicMuseum"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#CafeOrCoffeeShop"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#GolfCourse"/>
     </Declaration>
     <Declaration>
@@ -151,22 +148,13 @@
         <Class IRI="#ArtificialCulturalAttraction"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#starRating"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#menu"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/Auditorium"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#TouristAttraction"/>
     </Declaration>
     <Declaration>
         <Class IRI="/StadiumOrArena"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
+        <Class IRI="#TouristAttraction"/>
     </Declaration>
     <Declaration>
         <Class IRI="#HairSalon"/>
@@ -178,16 +166,13 @@
         <Class IRI="#ExerciseGym"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OceanBodyOfWater"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#HistoricOrPrehistoricSite"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#OutletStore"/>
+        <Class IRI="/OceanBodyOfWater"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#BarOrPub"/>
+        <Class IRI="#OutletStore"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Fountain"/>
@@ -203,12 +188,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="/Canal"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#servesCuisine"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Rating"/>
     </Declaration>
     <Declaration>
         <Class IRI="#TattooParlor"/>
@@ -232,16 +211,13 @@
         <Class IRI="/NightClub"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#acceptsReservations"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/NatureReserve"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/Beach"/>
+        <Class IRI="/WaterPark"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/WaterPark"/>
+        <Class IRI="/Beach"/>
     </Declaration>
     <Declaration>
         <Class IRI="#SkiResort"/>
@@ -259,16 +235,10 @@
         <Class IRI="#Market"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Winery"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Monument"/>
     </Declaration>
     <Declaration>
         <Class IRI="/Church"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Bakery"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#collectionsTemporalCoverage"/>
@@ -295,6 +265,9 @@
         <Class IRI="/PerformingArtsTheater"/>
     </Declaration>
     <Declaration>
+        <Class IRI="/Person"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#ownership"/>
     </Declaration>
     <Declaration>
@@ -304,9 +277,6 @@
         <Class IRI="/Zoo"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/AggregateRating"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#ArtMuseum"/>
     </Declaration>
     <Declaration>
@@ -314,9 +284,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#MonumentalCemetery"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#RestaurantOrTavern"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Enumeration"/>
@@ -349,9 +316,6 @@
         <Class IRI="#HistoricMuseum"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Distillery"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/AmusementPark"/>
     </Declaration>
     <Declaration>
@@ -367,16 +331,16 @@
         <Class IRI="#StadiumOrArena"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ArtGallery"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#ObservatoryOrPlanetarium"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#OwnershipType"/>
     </Declaration>
     <Declaration>
         <Class IRI="/RiverBodyOfWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ArtGallery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ObservatoryOrPlanetarium"/>
     </Declaration>
     <Declaration>
         <Class IRI="#PlaceOfWorship"/>
@@ -427,28 +391,12 @@
         <Class IRI="#TouristAttraction"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#Bakery"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#BarOrPub"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#BeautySalon"/>
         <Class IRI="#HealthAndBeautyBusiness"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#BeerHouse"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#BowlingAlley"/>
         <Class IRI="#SportsActivityLocation"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#CafeOrCoffeeShop"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Castle"/>
@@ -465,10 +413,6 @@
     <SubClassOf>
         <Class IRI="#DepartmentStore"/>
         <Class IRI="#ShoppingLocation"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Distillery"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Enumeration"/>
@@ -565,14 +509,6 @@
     <SubClassOf>
         <Class IRI="#PublicSwimmingPool"/>
         <Class IRI="#SportsActivityLocation"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Rating"/>
-        <Class IRI="#Intangible"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#RestaurantOrTavern"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#ScienceMuseum"/>
@@ -631,20 +567,8 @@
         <Class IRI="#Monument"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-        <Class IRI="#ShoppingLocation"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Winery"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="/AdultEntertainment"/>
         <Class IRI="/EntertainmentBusiness"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="/AggregateRating"/>
-        <Class IRI="#Rating"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/AmusementPark"/>
@@ -846,10 +770,6 @@
         <Class IRI="#TennisComplex"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="#Enumeration"/>
-        <Class IRI="#Rating"/>
-    </DisjointClasses>
-    <DisjointClasses>
         <Class IRI="#Intangible"/>
         <Class IRI="#Place"/>
     </DisjointClasses>
@@ -897,40 +817,36 @@
         <Class IRI="/Garden"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#starRating"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
+        <ObjectProperty IRI="/builder"/>
+        <Class IRI="#HistoricOrPrehistoricSite"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/builder"/>
+        <Class IRI="#Monument"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/builder"/>
+        <Class IRI="/Garden"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#ownership"/>
         <Class IRI="#OwnershipType"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#starRating"/>
-        <Class IRI="#Rating"/>
+        <ObjectProperty IRI="/builder"/>
+        <Class IRI="/Organization"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/builder"/>
+        <Class IRI="/Person"/>
     </ObjectPropertyRange>
     <DataPropertyDomain>
-        <DataProperty IRI="#acceptsReservations"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
         <DataProperty IRI="#artisticalMovement"/>
         <Class IRI="#HistoricOrPrehistoricSite"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#artisticalMovement"/>
         <Class IRI="#Monument"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#builder"/>
-        <Class IRI="#HistoricOrPrehistoricSite"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#builder"/>
-        <Class IRI="#Monument"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#builder"/>
-        <Class IRI="/Garden"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#collectionsArtisticalMovement"/>
@@ -956,35 +872,8 @@
         <DataProperty IRI="#historicalPeriod"/>
         <Class IRI="/Garden"/>
     </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#menu"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-    </DataPropertyDomain>
-    <DataPropertyDomain>
-        <DataProperty IRI="#servesCuisine"/>
-        <Class IRI="#TypicalFoodAndDrinksShop"/>
-    </DataPropertyDomain>
-    <DataPropertyRange>
-        <DataProperty IRI="#acceptsReservations"/>
-        <Datatype abbreviatedIRI="xsd:anyURI"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
-        <DataProperty IRI="#acceptsReservations"/>
-        <Datatype abbreviatedIRI="xsd:boolean"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
-        <DataProperty IRI="#acceptsReservations"/>
-        <DataOneOf>
-            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">No</Literal>
-            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Yes</Literal>
-        </DataOneOf>
-    </DataPropertyRange>
     <DataPropertyRange>
         <DataProperty IRI="#artisticalMovement"/>
-        <Datatype abbreviatedIRI="xsd:string"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
-        <DataProperty IRI="#builder"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
@@ -1012,18 +901,6 @@
     </DataPropertyRange>
     <DataPropertyRange>
         <DataProperty IRI="#historicalPeriod"/>
-        <Datatype abbreviatedIRI="xsd:string"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
-        <DataProperty IRI="#menu"/>
-        <Datatype abbreviatedIRI="xsd:anyURI"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
-        <DataProperty IRI="#menu"/>
-        <Datatype abbreviatedIRI="xsd:string"/>
-    </DataPropertyRange>
-    <DataPropertyRange>
-        <DataProperty IRI="#servesCuisine"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <AnnotationAssertion>
@@ -1073,33 +950,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
-        <IRI>#Bakery</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A bakery. (https://schema.org/Bakery)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#BarOrPub</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A bar or pub. (https://schema.org/BarOrPub)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
         <IRI>#BeautySalon</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Beauty salon. (https://schema.org/BeautySalon)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
-        <IRI>#BeerHouse</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A beer house.</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
         <IRI>#BowlingAlley</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A bowling alley. (https://schema.org/BowlingAlley)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#CafeOrCoffeeShop</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A cafe or coffee shop. (https://schema.org/CafeOrCoffeeShop)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1120,11 +977,6 @@
         <AnnotationProperty IRI="/description"/>
         <IRI>#DepartmentStore</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A department store. (https://schema.org/DepartmentStore)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#Distillery</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A distillery. (https://pending.schema.org/Distillery)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1199,7 +1051,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
         <IRI>#Monument</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A monument, also in the sense of a building or a structur that is considered example of important architectural or cultural heritage.</Literal>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A monument, also in the sense of a building or a structure that is considered example of important architectural or cultural heritage.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1255,16 +1107,6 @@
         <AnnotationProperty IRI="/description"/>
         <IRI>#PublicSwimmingPool</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A public swimming pool. (https://schema.org/PublicSwimmingPool)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#Rating</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A rating is an evaluation on a numeric scale, such as 1 to 5 stars. (https://schema.org/Rating)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#RestaurantOrTavern</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A typical restaurant or tavern.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1338,33 +1180,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
-        <IRI>#TypicalFoodAndDrinksShop</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place where it&apos;s possible to eat and drink typical food and drinks.</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#Winery</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A winery. (https://schema.org/Winery)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#acceptsReservations</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates whether a FoodEstablishment accepts reservations. Values can be Boolean, an URL at which reservations can be made or (for backwards compatibility) the strings &quot;Yes&quot; or &quot;No&quot;. (https://schema.org/acceptsReservations)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
         <IRI>#artisticalMovement</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates an artistical movement such as Expressionism or Surrealism.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
-        <IRI>#builder</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the name of the builder (a person or a group of person) of an item, such as a monument.</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
         <IRI>#collectionsArtisticalMovement</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the artistical movement of the collection of a museum or an artgallery.</Literal>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the artistical movement of the collection of a museum or an art gallery.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1383,33 +1205,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
-        <IRI>#menu</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Either the actual menu or a URL of the menu. (https://schema.org/menu)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
         <IRI>#ownership</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The legal ownership of an item, e.g.  public or private ownership.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
-        <IRI>#servesCuisine</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The cuisine of the restaurant. (https://schema.org/servesCuisine)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>#starRating</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. Use the author property to indicate the rating organization, e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelstars). (https://schema.org/starRating)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
         <IRI>/AdultEntertainment</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An adult entertainment establishment. (http://schema.org/AdultEntertainment)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="/description"/>
-        <IRI>/AggregateRating</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The average rating based on multiple ratings or reviews. (https://schema.org/AggregateRating)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1573,6 +1375,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
+        <IRI>/Organization</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An organization such as a school, NGO, corporation, club, etc. (https://schema.org/Organization)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
         <IRI>/Park</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A park. (https://pending.schema.org/Park)</Literal>
     </AnnotationAssertion>
@@ -1585,6 +1392,11 @@
         <AnnotationProperty IRI="/description"/>
         <IRI>/PerformingArtsTheater</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A theater or other performing art center.  (http://schema.org/PerformingArtsTheater)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/Person</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A person (alive, dead, undead, or fictional). (https://schema.org/Person)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1624,12 +1436,12 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
         <IRI>/ThemePark</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A themepark.</Literal>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A theme park.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
         <IRI>/WaterPark</IRI>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A waterpark.</Literal>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A water park.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
@@ -1640,6 +1452,11 @@
         <AnnotationProperty IRI="/description"/>
         <IRI>/Zoo</IRI>
         <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A zoo. (https://pending.schema.org/Zoo)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/description"/>
+        <IRI>/builder</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the builder (a person or an organization) of an item, such as a monument.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="/description"/>
