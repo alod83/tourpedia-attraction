@@ -6,6 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/elisa/ontologies/2017/5/untitled-ontology-83">
+    <Prefix name="" IRI="http://www.semanticweb.org/elisa/ontologies/2017/5/untitled-ontology-83"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -15,10 +16,10 @@
         <DataProperty IRI="/OWLDataProperty_814fdf41_4502_42bf_b6d9_0935ad7a4112"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_796c5610_6e83_4d0a_9e6d_31e16ce25d42"/>
+        <Class IRI="/OWLClass_4dbc747e_eabe_4ef1_b64f_cfc3b49283f7"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_4dbc747e_eabe_4ef1_b64f_cfc3b49283f7"/>
+        <Class IRI="/OWLClass_796c5610_6e83_4d0a_9e6d_31e16ce25d42"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_08b2557d_f5ad_4b3e_9f44_9fe45ea4d734"/>
@@ -33,13 +34,7 @@
         <Class IRI="/OWLClass_e5e9e2f4_d06e_4b7d_b811_2d72a776d2cc"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_7dc30a2f_0f59_4b08_a153_547c7af04ee3"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/OWLClass_f4c1b911_b95d_460b_aabd_dc9f8f97c6b6"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="/OWLObjectProperty_55a4bad8_e360_4b93_975e_fe869e0ddd23"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="/OWLDataProperty_b474c490_8224_4735_9a56_9f436d78dfec"/>
@@ -81,19 +76,19 @@
         <Class IRI="/OWLClass_f6916ba9_3bf0_4fd8_916f_7fcb1f953c8b"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="/OWLDataProperty_30775407_57af_4cc0_b200_c8dfdf806ef3"/>
+        <DataProperty IRI="/OWLDataProperty_6a80ed84_41d2_4eb4_9355_59672f5c1c71"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="/OWLDataProperty_6a80ed84_41d2_4eb4_9355_59672f5c1c71"/>
+        <DataProperty IRI="/OWLDataProperty_30775407_57af_4cc0_b200_c8dfdf806ef3"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_edbfba6d_5a2e_4673_9180_ee2445e27b47"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_990a1fce_760f_40f6_95cf_83145714b447"/>
+        <Class IRI="/OWLClass_8f1bd76f_f160_4ebe_9f7b_5aac12fce375"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_8f1bd76f_f160_4ebe_9f7b_5aac12fce375"/>
+        <Class IRI="/OWLClass_990a1fce_760f_40f6_95cf_83145714b447"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_3c35bac1_b205_4909_a007_e61b67ae2811"/>
@@ -102,13 +97,10 @@
         <Class IRI="/OWLClass_1847a3d9_6530_43fe_8a30_3c70fa0b4326"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_9ec97519_a6f6_44ef_99a6_77ef04b68c83"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/OWLClass_5ab2d7e5_5ba5_46c7_bd90_9b1faf23f400"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_9a4f93ee_d7e3_43b6_a2a8_aa49e500aaf1"/>
+        <Class IRI="/OWLClass_9ec97519_a6f6_44ef_99a6_77ef04b68c83"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_8a429e39_2b84_4260_8937_8e8ea76dfd32"/>
@@ -120,13 +112,10 @@
         <Class IRI="/OWLClass_a89f8449_47d0_46f2_8964_c76c6d248668"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_44e3aae1_c914_433c_8bc4_fb1e3ea1c85b"/>
+        <Class IRI="/OWLClass_d5b7a209_4f0c_4082_8f6f_3446d41eb1d8"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_f1041c0f_7fc3_48ce_b633_4e41f52e4918"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="/OWLClass_9051a0c2_d00a_460f_99fc_ae2823eec664"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_14e3186c_079d_4176_8083_d93c78ff7b05"/>
@@ -141,22 +130,16 @@
         <Class IRI="/OWLClass_d213e75e_f0e0_4968_a431_078f0c6881ae"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_0746f4fa_db45_44e8_891c_58631d7086d5"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/OWLClass_c37129fd_60ff_4df3_8e74_8ceadf526abf"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_8975aab4_dcd4_46ab_a2a5_b9b1516f0a18"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="/OWLClass_fed6e996_7863_4eba_b418_5bf407e19f45"/>
+        <Class IRI="/OWLClass_0746f4fa_db45_44e8_891c_58631d7086d5"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_3ccd8dfb_7072_426c_9180_c9e3dfd5fd02"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_9614e7cf_4698_4eaf_bc3b_814657f82315"/>
+        <Class IRI="/OWLClass_fed6e996_7863_4eba_b418_5bf407e19f45"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_6374e2e2_23ce_4753_bd13_51e843f05a30"/>
@@ -195,10 +178,10 @@
         <Class IRI="/OWLClass_bb37ad7e_6cf5_4953_b46b_d7bac9cf0ba9"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_b397e29e_c5b4_4789_83d0_c31297bc1f8b"/>
+        <Class IRI="/OWLClass_57b38705_d61d_49d5_b6df_4e5b95237156"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_57b38705_d61d_49d5_b6df_4e5b95237156"/>
+        <Class IRI="/OWLClass_b397e29e_c5b4_4789_83d0_c31297bc1f8b"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="/OWLDataProperty_1317f884_cbee_4865_bc3d_0f604fad6d43"/>
@@ -222,34 +205,28 @@
         <Class IRI="/OWLClass_861b112b_3d3a_44bb_a9dc_9263bda10c89"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_22e48153_0ed2_464c_8355_d5f9c24f3fbe"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/OWLClass_47b11ac6_4505_478b_9084_cd4602d2900a"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_ccbfddcf_0d09_4c41_92b2_17b1ea80f11d"/>
+        <Class IRI="/OWLClass_22e48153_0ed2_464c_8355_d5f9c24f3fbe"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_9c050f26_b6f6_4ebf_84bd_e087e958fbb0"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_6a3ce312_7623_40be_8349_4f5b101f5db9"/>
+        <Class IRI="/OWLClass_ccbfddcf_0d09_4c41_92b2_17b1ea80f11d"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_9366f1c6_1f9e_43ee_b97f_1e538d527641"/>
+        <Class IRI="/OWLClass_6a3ce312_7623_40be_8349_4f5b101f5db9"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_e6723dab_91b9_412c_9c97_db43ac35251b"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_80bdd5ae_7611_4a28_af40_574ef5f92158"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/OWLClass_3e6097c4_47c0_4fb2_9921_cc0fd6e93fd9"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_3e6f83c6_4899_454c_b76e_766375d8cda7"/>
+        <Class IRI="/OWLClass_80bdd5ae_7611_4a28_af40_574ef5f92158"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_93a18371_7813_4cfb_939e_ab7655e3239a"/>
@@ -279,9 +256,6 @@
         <Class IRI="/OWLClass_a271e766_0547_482b_a118_2cf765d03fb0"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_7d8737db_2b0a_47d1_81d7_43b5e420fbe3"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="/OWLClass_670e49d3_b073_430f_a12a_906c00a79bd6"/>
     </Declaration>
     <Declaration>
@@ -299,6 +273,10 @@
     <Declaration>
         <Class IRI="/OWLClass_035a6252_0ae6_45f6_b969_797d6a93481a"/>
     </Declaration>
+    <EquivalentClasses>
+        <Class IRI="/OWLClass_3a21a960_4fd8_45fa_8b28_f175a7679d48"/>
+        <Class IRI="/OWLClass_4dbc747e_eabe_4ef1_b64f_cfc3b49283f7"/>
+    </EquivalentClasses>
     <SubClassOf>
         <Class IRI="/OWLClass_035a6252_0ae6_45f6_b969_797d6a93481a"/>
         <Class IRI="/OWLClass_e3156fd4_7277_458b_a43c_e0c1f3ddafa2"/>
@@ -362,10 +340,6 @@
     <SubClassOf>
         <Class IRI="/OWLClass_3e6097c4_47c0_4fb2_9921_cc0fd6e93fd9"/>
         <Class IRI="/OWLClass_0746f4fa_db45_44e8_891c_58631d7086d5"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="/OWLClass_3e6f83c6_4899_454c_b76e_766375d8cda7"/>
-        <Class IRI="/OWLClass_68b29f5a_0e2a_46fb_a105_d80e75415804"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/OWLClass_47b11ac6_4505_478b_9084_cd4602d2900a"/>
@@ -432,14 +406,6 @@
         <Class IRI="/OWLClass_33528dc0_8e81_459b_8213_ecfd1a36a74b"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="/OWLClass_7d8737db_2b0a_47d1_81d7_43b5e420fbe3"/>
-        <Class IRI="/OWLClass_c37129fd_60ff_4df3_8e74_8ceadf526abf"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="/OWLClass_7dc30a2f_0f59_4b08_a153_547c7af04ee3"/>
-        <Class IRI="/OWLClass_c3e06202_3e28_46ca_a706_9f41c30a3b61"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="/OWLClass_7e1c765d_76d7_4506_825a_f64cd6cc67b7"/>
         <Class IRI="/OWLClass_c3e06202_3e28_46ca_a706_9f41c30a3b61"/>
     </SubClassOf>
@@ -472,10 +438,6 @@
         <Class IRI="/OWLClass_33528dc0_8e81_459b_8213_ecfd1a36a74b"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="/OWLClass_8975aab4_dcd4_46ab_a2a5_b9b1516f0a18"/>
-        <Class IRI="/OWLClass_6116aa22_f3f8_446e_a58a_dc12e788934b"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="/OWLClass_8a429e39_2b84_4260_8937_8e8ea76dfd32"/>
         <Class IRI="/OWLClass_670e49d3_b073_430f_a12a_906c00a79bd6"/>
     </SubClassOf>
@@ -488,28 +450,12 @@
         <Class IRI="/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="/OWLClass_9051a0c2_d00a_460f_99fc_ae2823eec664"/>
-        <Class IRI="/OWLClass_68b29f5a_0e2a_46fb_a105_d80e75415804"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="/OWLClass_9366f1c6_1f9e_43ee_b97f_1e538d527641"/>
-        <Class IRI="/OWLClass_d2cddfbd_d13b_4085_890f_52ae1374c811"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="/OWLClass_93a18371_7813_4cfb_939e_ab7655e3239a"/>
         <Class IRI="/OWLClass_5f3542cc_92e2_4ae2_9963_b453071f3693"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="/OWLClass_9614e7cf_4698_4eaf_bc3b_814657f82315"/>
-        <Class IRI="/OWLClass_a271e766_0547_482b_a118_2cf765d03fb0"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="/OWLClass_990a1fce_760f_40f6_95cf_83145714b447"/>
         <Class IRI="/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="/OWLClass_9a4f93ee_d7e3_43b6_a2a8_aa49e500aaf1"/>
-        <Class IRI="/OWLClass_670e49d3_b073_430f_a12a_906c00a79bd6"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/OWLClass_9c050f26_b6f6_4ebf_84bd_e087e958fbb0"/>
@@ -584,6 +530,10 @@
         <Class IRI="/OWLClass_831db32e_3e02_4e1b_87a4_7aa524aab3ef"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="/OWLClass_d5b7a209_4f0c_4082_8f6f_3446d41eb1d8"/>
+        <Class IRI="/OWLClass_68b29f5a_0e2a_46fb_a105_d80e75415804"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="/OWLClass_d6d0b002_27cf_4831_a4ec_233041c5178a"/>
         <Class IRI="/OWLClass_4dbc747e_eabe_4ef1_b64f_cfc3b49283f7"/>
     </SubClassOf>
@@ -643,14 +593,6 @@
         <Class IRI="/OWLClass_fed6e996_7863_4eba_b418_5bf407e19f45"/>
         <Class IRI="/OWLClass_a271e766_0547_482b_a118_2cf765d03fb0"/>
     </SubClassOf>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="/OWLObjectProperty_55a4bad8_e360_4b93_975e_fe869e0ddd23"/>
-        <Class IRI="/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="/OWLObjectProperty_55a4bad8_e360_4b93_975e_fe869e0ddd23"/>
-        <Class IRI="/OWLClass_44e3aae1_c914_433c_8bc4_fb1e3ea1c85b"/>
-    </ObjectPropertyRange>
     <DataPropertyDomain>
         <DataProperty IRI="/OWLDataProperty_1317f884_cbee_4865_bc3d_0f604fad6d43"/>
         <Class IRI="/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da"/>
@@ -665,7 +607,7 @@
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="/OWLDataProperty_6233aabb_bc6e_4a51_9f68_faa2ec72cbfa"/>
-        <Class IRI="/OWLClass_44e3aae1_c914_433c_8bc4_fb1e3ea1c85b"/>
+        <Class IRI="/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="/OWLDataProperty_6a80ed84_41d2_4eb4_9355_59672f5c1c71"/>
@@ -673,11 +615,11 @@
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="/OWLDataProperty_814fdf41_4502_42bf_b6d9_0935ad7a4112"/>
-        <Class IRI="/OWLClass_44e3aae1_c914_433c_8bc4_fb1e3ea1c85b"/>
+        <Class IRI="/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="/OWLDataProperty_b474c490_8224_4735_9a56_9f436d78dfec"/>
-        <Class IRI="/OWLClass_44e3aae1_c914_433c_8bc4_fb1e3ea1c85b"/>
+        <Class IRI="/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da"/>
     </DataPropertyDomain>
     <DataPropertyRange>
         <DataProperty IRI="/OWLDataProperty_1317f884_cbee_4865_bc3d_0f604fad6d43"/>
@@ -708,9 +650,19 @@
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_035a6252_0ae6_45f6_b969_797d6a93481a</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tract of land declared by the national government to be public property.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_035a6252_0ae6_45f6_b969_797d6a93481a</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NationalPark</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_0746f4fa_db45_44e8_891c_58631d7086d5</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place concerning history.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -718,9 +670,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">HistoricPlace</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_08b2557d_f5ad_4b3e_9f44_9fe45ea4d734</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place from which panorama can be viewed.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_08b2557d_f5ad_4b3e_9f44_9fe45ea4d734</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Viewpoint</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_0cafd6ba_bcdf_49af_9a5c_635f5035adb4</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A dock for small yachts and cabin cruisers.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -728,9 +690,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Marina</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_10bda7d7_9683_4369_bd01_823fd9d04017</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A protoanthropomorphic mehnir.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_10bda7d7_9683_4369_bd01_823fd9d04017</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ProtoAnthropomorphicMehnir</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_14e3186c_079d_4176_8083_d93c78ff7b05</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A surface excavation for extracting stone.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -738,9 +710,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Quarry</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_16b292be_dc9d_4c56_a68b_1d8abbc82469</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A large and densely populated urban area.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_16b292be_dc9d_4c56_a68b_1d8abbc82469</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">City</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_1847a3d9_6530_43fe_8a30_3c70fa0b4326</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A land mass (smaller than a continent) that is surrounded by water.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -748,9 +730,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Island</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_22d54f24_5340_4bf7_a04d_283731007068</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tourist club or village.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_22d54f24_5340_4bf7_a04d_283731007068</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Village</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_22e48153_0ed2_464c_8355_d5f9c24f3fbe</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An aisle nuraghe.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -758,9 +750,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AisleNuraghe</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tourist attraction is an item that encourages people to move from their usual environment to visit it.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_2c818afa_ba49_4191_95b5_1bb1bd3213da</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TouristAttraction</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_33528dc0_8e81_459b_8213_ecfd1a36a74b</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place related to tourism.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -768,9 +770,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TouristPlace</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_3460f9f0_4ccf_4c58_8640_0247659b6060</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place for public and usually Christian worship.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_3460f9f0_4ccf_4c58_8640_0247659b6060</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Church</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_3a21a960_4fd8_45fa_8b28_f175a7679d48</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A construction that stands more or less permanently in one place.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -778,9 +790,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Building</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_3c35bac1_b205_4909_a007_e61b67ae2811</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A deep hole to obtain water.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_3c35bac1_b205_4909_a007_e61b67ae2811</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Well</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_3ccd8dfb_7072_426c_9180_c9e3dfd5fd02</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place used for commercial purpose.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -788,19 +810,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CommercialLandUse</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_3e6097c4_47c0_4fb2_9921_cc0fd6e93fd9</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An important site that is marked and preserved.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_3e6097c4_47c0_4fb2_9921_cc0fd6e93fd9</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Monument</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_3e6f83c6_4899_454c_b76e_766375d8cda7</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NuraghicVillage</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_44e3aae1_c914_433c_8bc4_fb1e3ea1c85b</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Address</Literal>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_47b11ac6_4505_478b_9084_cd4602d2900a</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A remote building located in the mountains intended to provide board and lodging.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -808,9 +830,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AlpineHut</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_4dbc747e_eabe_4ef1_b64f_cfc3b49283f7</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A construction that stands more or less permanently in one place.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_4dbc747e_eabe_4ef1_b64f_cfc3b49283f7</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Building</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_50dcbb4b_cd87_43fb_a9f7_6f4fb2be6de2</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An archaeological site.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -818,9 +850,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ArchaeologicalSite</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_57b38705_d61d_49d5_b6df_4e5b95237156</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A complex of small dwellings where services are centrally managed.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_57b38705_d61d_49d5_b6df_4e5b95237156</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Residence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_5ab2d7e5_5ba5_46c7_bd90_9b1faf23f400</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A hotel providing inexpensive overnight lodging for travelers.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -828,9 +870,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hostel</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_5f3542cc_92e2_4ae2_9963_b453071f3693</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An area set aside for a particular purpose.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_5f3542cc_92e2_4ae2_9963_b453071f3693</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Place</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_6116aa22_f3f8_446e_a58a_dc12e788934b</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A funeral prehistoric megalith monument.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -838,9 +890,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dolmen</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_6374e2e2_23ce_4753_bd13_51e843f05a30</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A managed piece of land that is covered with trees and shrubs.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_6374e2e2_23ce_4753_bd13_51e843f05a30</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Forest</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_647d7c63_b4d6_4137_9403_b5d64e4de645</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A natural area where environmental balance is mantained.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -848,9 +910,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NatureReserve</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_670e49d3_b073_430f_a12a_906c00a79bd6</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An ancient megalithic edifice developed during the Nuragic Age.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_670e49d3_b073_430f_a12a_906c00a79bd6</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Nuraghe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_68b29f5a_0e2a_46fb_a105_d80e75415804</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An archaeological village.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -858,9 +930,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Village</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_68e6c5e5_2d9e_4134_86ee_a4153d119163</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A dolmen of type &quot;allée couverte&quot;.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_68e6c5e5_2d9e_4134_86ee_a4153d119163</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AlleeCouverteDolmen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_6a3ce312_7623_40be_8349_4f5b101f5db9</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An item of interest.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -868,9 +950,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">InterestingElement</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_748e38fa_efa3_49de_b360_9d175448aadb</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A small city.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_748e38fa_efa3_49de_b360_9d175448aadb</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Country</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_758c66a6_2387_44e8_bc49_ff39a587b1eb</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A dolmen-tomba dei giganti.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -878,19 +970,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DolmenTombaDeiGiganti</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_796c5610_6e83_4d0a_9e6d_31e16ce25d42</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A house for housing guests.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_796c5610_6e83_4d0a_9e6d_31e16ce25d42</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">GuestHouse</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_7d8737db_2b0a_47d1_81d7_43b5e420fbe3</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">UserDefined</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_7dc30a2f_0f59_4b08_a153_547c7af04ee3</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TombaDeiGiganti</Literal>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_7e1c765d_76d7_4506_825a_f64cd6cc67b7</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A one-eyed tomba dei giganti.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -898,9 +990,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">OneEyedTombaDeiGiganti</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_7f35f5aa_ff30_40f6_8add_3e91609801f3</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A workplace consisting of farm buildings and cultivated land.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_7f35f5aa_ff30_40f6_8add_3e91609801f3</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Farm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_80bdd5ae_7611_4a28_af40_574ef5f92158</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A furnished apartment or flat with cooking and bathroom facilities that can be rented for holiday vacations.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -908,9 +1010,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Apartment</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_82d9f485_0775_4eb3_9329_76cea7f8bf98</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An open-air area where beer and other alcoholic drinks are served.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_82d9f485_0775_4eb3_9329_76cea7f8bf98</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BeerGarden</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_831db32e_3e02_4e1b_87a4_7aa524aab3ef</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A natural item.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -918,9 +1030,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NaturalElement</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_861b112b_3d3a_44bb_a9dc_9263bda10c89</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An area where public means of transport can stop.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_861b112b_3d3a_44bb_a9dc_9263bda10c89</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StopPosition</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_86663fa7_6ab7_44e9_8f05_107a942bc4b1</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The most generic type of route.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -928,14 +1050,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Highway</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_877db096_6afe_45f1_a12e_0c13d1831921</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A building where travelers can pay for lodging and meals and other services.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_877db096_6afe_45f1_a12e_0c13d1831921</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hotel</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_8975aab4_dcd4_46ab_a2a5_b9b1516f0a18</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dolmen</Literal>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_8a429e39_2b84_4260_8937_8e8ea76dfd32</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A single-tower nuraghe.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -943,9 +1070,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">SingleTowerNuraghe</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_8b7dcaa9_437f_49c4_a190_2ce9fbf7a9a4</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A rest area.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_8b7dcaa9_437f_49c4_a190_2ce9fbf7a9a4</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StopArea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_8f1bd76f_f160_4ebe_9f7b_5aac12fce375</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An unicum or a tafone.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -953,14 +1090,9 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">UnicumAndTafone</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_9051a0c2_d00a_460f_99fc_ae2823eec664</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Village</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_9366f1c6_1f9e_43ee_b97f_1e538d527641</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Domus</Literal>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_93a18371_7813_4cfb_939e_ab7655e3239a</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A small islet.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -968,9 +1100,9 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Islet</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_9614e7cf_4698_4eaf_bc3b_814657f82315</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Menhir</Literal>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_990a1fce_760f_40f6_95cf_83145714b447</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A physical infrastructure used to support air travel.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -978,9 +1110,9 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Aeroway</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLClass_9a4f93ee_d7e3_43b6_a2a8_aa49e500aaf1</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Nuraghe</Literal>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_9c050f26_b6f6_4ebf_84bd_e087e958fbb0</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A line or route along which something travels or moves.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -988,9 +1120,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Path</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_9d88b03f_5f35_4f6c_b96a_227ffdba3bbf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A preserved area in which exploitation of resources is limited.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_9d88b03f_5f35_4f6c_b96a_227ffdba3bbf</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ProtectedArea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_9ec97519_a6f6_44ef_99a6_77ef04b68c83</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A location from which aircraft flight operations take place.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -998,9 +1140,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Aerodrome</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_a271e766_0547_482b_a118_2cf765d03fb0</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A monolithic prehistoric monument.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_a271e766_0547_482b_a118_2cf765d03fb0</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Menhir</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_a2cff23c_e20f_4ffc_9155_143b472c9082</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The top of a mountain or a hill, or other natural item.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1008,9 +1160,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Peak</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_a89f8449_47d0_46f2_8964_c76c6d248668</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A front-sepulture tomba dei giganti.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_a89f8449_47d0_46f2_8964_c76c6d248668</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">FrontSepultureTombaDeiGiganti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_b397e29e_c5b4_4789_83d0_c31297bc1f8b</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An holiday farm.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1018,9 +1180,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Farm</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_b762d790_6926_4d58_8851_843aec6d778c</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place that provides facilities.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_b762d790_6926_4d58_8851_843aec6d778c</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Amenity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_b80b657c_c19f_4d4a_b927_607b4dc6629c</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An anthropomorphic menhir.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1028,9 +1200,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">AnthropomorphicMehnir</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_bb37ad7e_6cf5_4953_b46b_d7bac9cf0ba9</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place that is open late at night and that provides entertainment, food and drinks.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_bb37ad7e_6cf5_4953_b46b_d7bac9cf0ba9</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Nightclub</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_c37129fd_60ff_4df3_8e74_8ceadf526abf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An undefined item.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1038,9 +1220,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">UserDefined</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_c3e06202_3e28_46ca_a706_9f41c30a3b61</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A collective tomb monument developed during the Nuragic Age.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_c3e06202_3e28_46ca_a706_9f41c30a3b61</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TombaDeiGiganti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_c8c1792b_b8b0_4fad_ac82_159223fdcf49</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A cylindrical tall structure.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1048,9 +1240,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Tower</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_ccbfddcf_0d09_4c41_92b2_17b1ea80f11d</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A settlement smaller than a town.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_ccbfddcf_0d09_4c41_92b2_17b1ea80f11d</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Village</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_cde7b4e6_1a33_4618_91c6_b6edfa381b4e</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A large building in the past occupied by a ruler and fortified against attacks.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1058,9 +1260,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Castle</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_d213e75e_f0e0_4968_a431_078f0c6881ae</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A complex nuraghe.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_d213e75e_f0e0_4968_a431_078f0c6881ae</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ComplexNuraghe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_d2cddfbd_d13b_4085_890f_52ae1374c811</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A funeral prehistoric tomb digged in stone.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1068,9 +1280,29 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">DomusDeJanas</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_d34b094b_b7b7_4d4e_bb31_bebfcca122d1</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A water source.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_d34b094b_b7b7_4d4e_bb31_bebfcca122d1</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Water</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_d5b7a209_4f0c_4082_8f6f_3446d41eb1d8</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A nuragic village.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/OWLClass_d5b7a209_4f0c_4082_8f6f_3446d41eb1d8</IRI>
+        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">NuragicVillage</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_d6d0b002_27cf_4831_a4ec_233041c5178a</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A structure constructed to allow people or vehicles to cross an obstacle.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1078,9 +1310,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Bridge</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_e3156fd4_7277_458b_a43c_e0c1f3ddafa2</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place used by humans.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_e3156fd4_7277_458b_a43c_e0c1f3ddafa2</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">LandUse</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_e56fd113_70de_4159_b487_4345c7d39080</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An overnight boardinghouse with breakfast.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1088,9 +1330,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BedAndBreakfast</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_e5e9e2f4_d06e_4b7d_b811_2d72a776d2cc</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An area of sand sloping down to the water source.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_e5e9e2f4_d06e_4b7d_b811_2d72a776d2cc</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Beach</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_e6723dab_91b9_412c_9c97_db43ac35251b</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A tall perennial woody plant having a main trunk and branches forming a distinct elevated crown.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1098,9 +1350,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Tree</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_e7331886_f031_4a55_8f47_884111e9aed6</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A cave naturally formed in stone.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_e7331886_f031_4a55_8f47_884111e9aed6</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CaveTafone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_edbfba6d_5a2e_4673_9180_ee2445e27b47</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A unique sample of particular range.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1108,9 +1370,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Unicum</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_f1041c0f_7fc3_48ce_b633_4e41f52e4918</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A space in which vehicles can be parked.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_f1041c0f_7fc3_48ce_b633_4e41f52e4918</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parking</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_f43da8e3_5120_4fec_803c_477da706d1a7</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A point at which water issues forth.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1118,9 +1390,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Spring</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_f4c1b911_b95d_460b_aabd_dc9f8f97c6b6</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A site where people can pitch a tent.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_f4c1b911_b95d_460b_aabd_dc9f8f97c6b6</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CampSite</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_f6916ba9_3bf0_4fd8_916f_7fcb1f953c8b</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A geological formation consisting of an underground enclosure with access from the surface of the ground.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1128,9 +1410,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CaveEntrance</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_f98b29ab_ffcc_4bb5_97e1_b20d8c7aba49</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A source of water.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_f98b29ab_ffcc_4bb5_97e1_b20d8c7aba49</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">WaterSpring</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_fa8f7e9d_f6ce_472c_bd7e_43f3298b8fbc</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A place for collecting and displaying objects having scientific, historical, artistic or any other value in the range of knowledge.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1138,9 +1430,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Museum</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_fc60c2a8_3739_4880_9362_a990e1f7f16e</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A public transport actvity.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLClass_fc60c2a8_3739_4880_9362_a990e1f7f16e</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">PublicTransport</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLClass_fed6e996_7863_4eba_b418_5bf407e19f45</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A statue stele.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1148,9 +1450,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">StatueMehnir</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLDataProperty_1317f884_cbee_4865_bc3d_0f604fad6d43</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A string that describes the name of an item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLDataProperty_1317f884_cbee_4865_bc3d_0f604fad6d43</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">name</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLDataProperty_30775407_57af_4cc0_b200_c8dfdf806ef3</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Refers to an Url related to an item, such as the web site.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1158,9 +1470,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">url</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLDataProperty_5ac7d7aa_492e_42c7_bc0b_ad921e00932d</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The longitude of an item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLDataProperty_5ac7d7aa_492e_42c7_bc0b_ad921e00932d</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">longitude</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLDataProperty_6233aabb_bc6e_4a51_9f68_faa2ec72cbfa</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the city of an item.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1168,9 +1490,19 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">city</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLDataProperty_6a80ed84_41d2_4eb4_9355_59672f5c1c71</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The latitude of an item.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLDataProperty_6a80ed84_41d2_4eb4_9355_59672f5c1c71</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">latitude</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/OWLDataProperty_814fdf41_4502_42bf_b6d9_0935ad7a4112</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the name of the region of an item.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -1178,14 +1510,14 @@
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">region</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>/OWLDataProperty_b474c490_8224_4735_9a56_9f436d78dfec</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">street</Literal>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Indicates the street number and name of an item.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>/OWLObjectProperty_55a4bad8_e360_4b93_975e_fe869e0ddd23</IRI>
-        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">hasAddress</Literal>
+        <IRI>/OWLDataProperty_b474c490_8224_4735_9a56_9f436d78dfec</IRI>
+        <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">street</Literal>
     </AnnotationAssertion>
 </Ontology>
 

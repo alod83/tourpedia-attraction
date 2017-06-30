@@ -4,30 +4,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-_:genid73328150 a owl:Ontology .
-# 
-# 
-# #################################################################
-# #
-# #    Object Properties
-# #
-# #################################################################
-# 
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_23d4ed64_244f_44f8_8e01_b7d61962c06f
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_23d4ed64_244f_44f8_8e01_b7d61962c06f> a owl:ObjectProperty ;
-	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae> ;
-	rdfs:range <http://www.co-ode.org/ontologies/ont.owl#OWLClass_3a33a0c8_8f12_467e_b436_406cb62c7163> ;
-	rdfs:label "hasCity"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_dadec0ea_4ac9_4682_b6fa_8fb204a9e1d1
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_dadec0ea_4ac9_4682_b6fa_8fb204a9e1d1> a owl:ObjectProperty ;
-	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
-	rdfs:range <http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae> ;
-	rdfs:label "hasAddress"@it .
-# 
+_:genid1457930488 a owl:Ontology .
 # 
 # 
 # #################################################################
@@ -42,6 +19,7 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_153870d7_d568_4983_a1d5_ba77bb81de8b> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "A string that describes a type of entrance, such as free or not, or the price of entrance." ;
 	rdfs:label "entrance"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_184c011d_d978_43a1_8269_cfe5b22eb9f7
@@ -49,13 +27,15 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_184c011d_d978_43a1_8269_cfe5b22eb9f7> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:double ;
+	rdfs:comment "The latitude of an item." ;
 	rdfs:label "latitude"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_2336a899_6146_4009_95f8_4cbe724035cc
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_2336a899_6146_4009_95f8_4cbe724035cc> a owl:DatatypeProperty ;
-	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#OWLClass_3a33a0c8_8f12_467e_b436_406cb62c7163> ;
+	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:integer ;
+	rdfs:comment "Describes the code assigned by Istat to the city of an item." ;
 	rdfs:label "istatCode"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_2c3701a9_3096_4e0f_b473_fe9866f10f67
@@ -63,13 +43,15 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_2c3701a9_3096_4e0f_b473_fe9866f10f67> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#Museum> , <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "Describes information about opening hours of an item." ;
 	rdfs:label "openingHours"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_34f0545e_0f9e_417c_9854_1e1e8a2b28e1
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_34f0545e_0f9e_417c_9854_1e1e8a2b28e1> a owl:DatatypeProperty ;
-	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae> ;
+	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "Indicates the street number and name of an item." ;
 	rdfs:label "street"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_43196216_a1e6_4a87_88e7_1cc5e8349ae8
@@ -77,6 +59,7 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_43196216_a1e6_4a87_88e7_1cc5e8349ae8> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#Library> , <http://www.co-ode.org/ontologies/ont.owl#Museum> , <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "Indicates the telephone number of an item." ;
 	rdfs:label "telephone"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_559e9612_7948_4143_9ed9_83c731fdc155
@@ -84,6 +67,7 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_559e9612_7948_4143_9ed9_83c731fdc155> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#Library> , <http://www.co-ode.org/ontologies/ont.owl#Museum> , <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
 	rdfs:range xsd:anyURI ;
+	rdfs:comment "Refers to an Url related to an item, such as the web site." ;
 	rdfs:label "url"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_693a3d28_83c1_48a6_9428_0def78abe764
@@ -91,6 +75,7 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_693a3d28_83c1_48a6_9428_0def78abe764> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "A string that describes the name of an item." ;
 	rdfs:label "name"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_7891c422_c101_463b_be2f_765a9b558e95
@@ -98,34 +83,47 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_7891c422_c101_463b_be2f_765a9b558e95> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:double ;
+	rdfs:comment "The longitude of an item." ;
 	rdfs:label "longitude"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_bad71daa_d7b6_468e_b79a_b487b47692e0
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_bad71daa_d7b6_468e_b79a_b487b47692e0> a owl:DatatypeProperty ;
-	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae> ;
+	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "Indicates the name of the region of an item." ;
 	rdfs:label "region"@it .
+# 
+# http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_c1fa0818_a65f_463b_b880_38834328a67a
+
+<http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_c1fa0818_a65f_463b_b880_38834328a67a> a owl:DatatypeProperty ;
+	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
+	rdfs:range xsd:string ;
+	rdfs:comment "Indicates the city of an item." ;
+	rdfs:label "city"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_c2025306_0773_4e62_b95f_a9821615dfbe
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_c2025306_0773_4e62_b95f_a9821615dfbe> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#Library> , <http://www.co-ode.org/ontologies/ont.owl#Museum> , <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "An email address." ;
 	rdfs:label "email"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_c79837c6_543d_4f14_9de4_05bca6190379
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_c79837c6_543d_4f14_9de4_05bca6190379> a owl:DatatypeProperty ;
-	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae> ;
+	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:integer ;
+	rdfs:comment "Refers to the postal code of an item." ;
 	rdfs:label "postalCode"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_d64186d5_536e_408f_adbc_61dabc03bb66
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_d64186d5_536e_408f_adbc_61dabc03bb66> a owl:DatatypeProperty ;
-	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae> ;
+	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
 	rdfs:range xsd:string ;
+	rdfs:comment "Indicates the name of the province of an item." ;
 	rdfs:label "province"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_f5c07a0f_0faf_47cb_9461_9946d7264ba5
@@ -133,25 +131,29 @@ _:genid73328150 a owl:Ontology .
 <http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_f5c07a0f_0faf_47cb_9461_9946d7264ba5> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#Museum> , <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
 	rdfs:range xsd:anyURI ;
+	rdfs:comment "Refers to the URL of the image of an item." ;
 	rdfs:label "image"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#historic
 
 <http://www.co-ode.org/ontologies/ont.owl#historic> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
-	rdfs:range xsd:boolean .
+	rdfs:range xsd:boolean ;
+	rdfs:comment "Describes if an item is related to history." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#openAir
 
 <http://www.co-ode.org/ontologies/ont.owl#openAir> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#Market> ;
-	rdfs:range xsd:boolean .
+	rdfs:range xsd:boolean ;
+	rdfs:comment "A boolean to describes if an item is or not open-air." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#publicAccess
 
 <http://www.co-ode.org/ontologies/ont.owl#publicAccess> a owl:DatatypeProperty ;
 	rdfs:domain <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
-	rdfs:range xsd:boolean .
+	rdfs:range xsd:boolean ;
+	rdfs:comment "Describes with a boolean if an item is widely accessible." .
 # 
 # 
 # 
@@ -165,38 +167,45 @@ _:genid73328150 a owl:Ontology .
 # http://www.co-ode.org/ontologies/ont.owl#AmusementPark
 
 <http://www.co-ode.org/ontologies/ont.owl#AmusementPark> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#EntertainmentBusiness> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#EntertainmentBusiness> ;
+	rdfs:comment "A commercially operated park with stalls and shows for amusement." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#BusinessActivity
 
 <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A commercial activity." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#CinemaTourism
 
 <http://www.co-ode.org/ontologies/ont.owl#CinemaTourism> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> ;
+	rdfs:comment "The activity of visiting cinematographic or television location." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Club
 
 <http://www.co-ode.org/ontologies/ont.owl#Club> a owl:Class ;
 	owl:equivalentClass <http://www.co-ode.org/ontologies/ont.owl#OWLClass_b29feab8_e4fa_4508_8474_d829d489791c> ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
+	rdfs:comment "A type of business activity." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#CreativeWork
 
 <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
+	rdfs:comment "The most generic type of creative work." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#EntertainmentBusiness
 
 <http://www.co-ode.org/ontologies/ont.owl#EntertainmentBusiness> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> ;
+	rdfs:comment "A business activity specialized in the sector of entertainment." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Establishment
 
 <http://www.co-ode.org/ontologies/ont.owl#Establishment> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Place> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Place> ;
+	rdfs:comment "A public or private structure." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Event
 
@@ -206,395 +215,442 @@ _:genid73328150 a owl:Ontology .
 # http://www.co-ode.org/ontologies/ont.owl#ExpoActivity
 
 <http://www.co-ode.org/ontologies/ont.owl#ExpoActivity> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> ;
+	rdfs:comment "A generic activity developed for Expo 2015." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#ExpoActivityInMarche
 
 <http://www.co-ode.org/ontologies/ont.owl#ExpoActivityInMarche> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#ExpoActivity> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#ExpoActivity> ;
+	rdfs:comment "An activity occured for Expo 2015 in the region of Marche." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#HealthAndBeautyBusiness
 
 <http://www.co-ode.org/ontologies/ont.owl#HealthAndBeautyBusiness> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> ;
+	rdfs:comment "A business activity concerning health and beauty." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#HistoricalPersonality
 
 <http://www.co-ode.org/ontologies/ont.owl#HistoricalPersonality> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> ;
+	rdfs:comment "A famous historic person." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Library
 
 <http://www.co-ode.org/ontologies/ont.owl#Library> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
+	rdfs:comment "A place where book are kept." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#MarchesActivityAtExpo
 
 <http://www.co-ode.org/ontologies/ont.owl#MarchesActivityAtExpo> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#ExpoActivity> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#ExpoActivity> ;
+	rdfs:comment "An activity occurred in Expo 2015 location." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Market
 
 <http://www.co-ode.org/ontologies/ont.owl#Market> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> ;
+	rdfs:comment "An area in a town where a mercantile establishment is set up." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Museum
 
 <http://www.co-ode.org/ontologies/ont.owl#Museum> a owl:Class ;
 	owl:equivalentClass <http://www.co-ode.org/ontologies/ont.owl#OWLClass_72357b8e_26ea_4f3a_8b38_22cb9ece0b27> ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
+	rdfs:comment "A place for collecting and displaying objects having scientific, historical, artistic or any other value in the range of knowledge." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_05735049_8a25_482c_930a_ad047df70f5e
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_05735049_8a25_482c_930a_ad047df70f5e> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Library> ;
+	rdfs:comment "A library widely accessible." ;
 	rdfs:label "PublicLibrary"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_0b23addc_39aa_4e5c_8233_34f513a489e0
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_0b23addc_39aa_4e5c_8233_34f513a489e0> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_c945ebef_e9e7_4459_95ec_81cf49057a15> ;
+	rdfs:comment "A store for sale of high-quality goods or services." ;
 	rdfs:label "QualityShoppingStore"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_0f3d29f5_3199_468d_82c8_60d938ccf3fe
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_0f3d29f5_3199_468d_82c8_60d938ccf3fe> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "An organization or an entity operating in the tourism sphere." ;
 	rdfs:label "TouristOperator"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_186567bd_6b0c_458d_8133_75b01c85419b
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_186567bd_6b0c_458d_8133_75b01c85419b> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_894fe3a4_76ad_45e9_a6d7_52f95a7e57be> ;
+	rdfs:comment "A place for public and usually Christian worship." ;
 	rdfs:label "Church"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_1acf49bf_86f5_4322_a61c_509f7b55f71c
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_1acf49bf_86f5_4322_a61c_509f7b55f71c> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A seaport." ;
 	rdfs:label "Port"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_1e14fac0_1392_480a_9ead_a9dfd7b1ca85
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_1e14fac0_1392_480a_9ead_a9dfd7b1ca85> a owl:Class ;
-	owl:equivalentClass <http://www.co-ode.org/ontologies/ont.owl#OWLClass_6811bcb6_2a98_49ef_8f9b_387941b51a04> ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Place> ;
+	rdfs:comment "An area menaged by the same authority." ;
 	rdfs:label "AdministrativeArea"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_24d1f24b_4763_4ced_955e_6f4f419e301d
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_24d1f24b_4763_4ced_955e_6f4f419e301d> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A tower with a light that gives warnings." ;
 	rdfs:label "Lighthouse"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_28b2d106_010e_4970_b2be_b3994815b899
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_28b2d106_010e_4970_b2be_b3994815b899> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Club> ;
+	rdfs:comment "A club that  that is licensed to sell alcoholic drinks." ;
 	rdfs:label "Tavern"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_2efd5822_5ddd_4369_8c11_227dec30e200
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_2efd5822_5ddd_4369_8c11_227dec30e200> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A work concernig landscape or architecture." ;
 	rdfs:label "LandscapeAndArchitecturalWork"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_30564912_c226_4b70_9ab9_1acc8ae14d4e
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_30564912_c226_4b70_9ab9_1acc8ae14d4e> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A place for theatrical performances." ;
 	rdfs:label "Theater"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_308a8b5a_c7e0_4962_9791_c7586248dd41
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_308a8b5a_c7e0_4962_9791_c7586248dd41> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A piece of open land for recreational use or preserved as public property." ;
 	rdfs:label "Park"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_311e98f8_7caf_4148_90cc_3b5293911e98
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_311e98f8_7caf_4148_90cc_3b5293911e98> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_687dabbe_4761_4b2d_a464_9d978c5fca04> ;
+	rdfs:comment "An itinerary for cycle tourism." ;
 	rdfs:label "CycleToursticItinerary"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_3a33a0c8_8f12_467e_b436_406cb62c7163
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_3a33a0c8_8f12_467e_b436_406cb62c7163> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_6811bcb6_2a98_49ef_8f9b_387941b51a04> ;
-	rdfs:label "City"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_3acc4a25_df22_49f8_a973_a7f62da407b9
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_3acc4a25_df22_49f8_a973_a7f62da407b9> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Library> ;
-	rdfs:label "HighSchoolLibrary"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_42129fe7_54cb_4ef5_b2a8_2ad0f20cf3c6
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_42129fe7_54cb_4ef5_b2a8_2ad0f20cf3c6> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Place> ;
+	rdfs:comment "A place that distinguish itself for its artistic features." ;
 	rdfs:label "ArtisticPlace"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_457a43ef_f2f2_41f1_ae68_78e145a68392
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_457a43ef_f2f2_41f1_ae68_78e145a68392> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Club> ;
+	rdfs:comment "Other type of club." ;
 	rdfs:label "OtherClub"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_462723f6_029e_4922_a9a8_9a4e52a665ec
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_462723f6_029e_4922_a9a8_9a4e52a665ec> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> ;
+	rdfs:comment "A business or other type of activity concerning artistic craft." ;
 	rdfs:label "ArtisticCraftActivity"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_495b3fd2_cefa_4223_a822_fe6d34163c79
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_495b3fd2_cefa_4223_a822_fe6d34163c79> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> ;
+	rdfs:comment "A business activity constructs in a beach that provides food, drinks and seats." ;
 	rdfs:label "BeachResort"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_4dd59fe4_45fa_4237_ab97_9b84634a2c42
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_4dd59fe4_45fa_4237_ab97_9b84634a2c42> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A center of tourist information." ;
 	rdfs:label "IATCenter"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_4f16bf72_56cb_43e1_a86f_ef5a7985cc6d
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_4f16bf72_56cb_43e1_a86f_ef5a7985cc6d> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Club> ;
+	rdfs:comment "A club that is licensed to sell alcoholic drinks and often provides light meals." ;
 	rdfs:label "Pub"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_501d901a_4213_4192_836a_a1a2d172d2aa
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_501d901a_4213_4192_836a_a1a2d172d2aa> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum that collects objects concerning natural history." ;
 	rdfs:label "NaturalHistoryMuseum"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_509edaa2_38cd_48b4_a9ce_9324b036c831
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_509edaa2_38cd_48b4_a9ce_9324b036c831> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
-	rdfs:label "SportActivity"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_524da3c5_6125_416f_9b0d_29cbddf4daaa
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_524da3c5_6125_416f_9b0d_29cbddf4daaa> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum of ethnography and anthropology." ;
 	rdfs:label "EthnographicAndAnthropologicalMuseum"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_5be25d0a_4dd8_4b31_895e_52fb4c068432
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_5be25d0a_4dd8_4b31_895e_52fb4c068432> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> ;
+	rdfs:comment "An artistic work." ;
 	rdfs:label "ArtPiece"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_5d721e99_1fb4_43af_b63a_742e7a10af53
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_5d721e99_1fb4_43af_b63a_742e7a10af53> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_894fe3a4_76ad_45e9_a6d7_52f95a7e57be> ;
+	rdfs:comment "A residence for a religious community." ;
 	rdfs:label "ConventAndMonastery"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_6811bcb6_2a98_49ef_8f9b_387941b51a04
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_6811bcb6_2a98_49ef_8f9b_387941b51a04> a owl:Class ;
-	rdfs:label "AdministrativeArea"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_687dabbe_4761_4b2d_a464_9d978c5fca04
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_687dabbe_4761_4b2d_a464_9d978c5fca04> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Place> ;
+	rdfs:comment "A proposed route of travel." ;
 	rdfs:label "Itinerary"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_68ff43da_96b7_4ddd_8c34_db8467cd860d
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_68ff43da_96b7_4ddd_8c34_db8467cd860d> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_aad9a5af_b43e_4284_9a00_93be9af3d220> ;
+	rdfs:comment "A business activity where people go to eat." ;
 	rdfs:label "Restaurant"@it .
+# 
+# http://www.co-ode.org/ontologies/ont.owl#OWLClass_6eb58188_ef38_4957_bab0_140af85ba158
+
+<http://www.co-ode.org/ontologies/ont.owl#OWLClass_6eb58188_ef38_4957_bab0_140af85ba158> a owl:Class ;
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Library> ;
+	rdfs:comment "A library managed by high school or university." ;
+	rdfs:label "HighSchoolAndUniversityLibrary"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_702a2ddf_e84c_42f6_932b_f31f95f31cde
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_702a2ddf_e84c_42f6_932b_f31f95f31cde> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A plot of ground where plants are cultivated." ;
 	rdfs:label "Garden"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_718c0276_8d4b_4154_b37f_cc6986828944
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_718c0276_8d4b_4154_b37f_cc6986828944> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A structure constructed to allow people or vehicles to cross an obstacle." ;
 	rdfs:label "Bridge"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_72357b8e_26ea_4f3a_8b38_22cb9ece0b27
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_72357b8e_26ea_4f3a_8b38_22cb9ece0b27> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A place for collecting and displaying objects having scientific, historical, artistic or any other value in the range of knowledge." ;
 	rdfs:label "Museum"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_72c9eed9_a0b7_44f0_9362_e732ee12b488
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_72c9eed9_a0b7_44f0_9362_e732ee12b488> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
-	rdfs:label "ArchaeologicSiteAndWork"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_811590a7_73f9_4799_a8f9_af00094d2303
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_811590a7_73f9_4799_a8f9_af00094d2303> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> ;
+	rdfs:comment "A book usually arranged sistematically." ;
 	rdfs:label "Catalog"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_8532f034_1704_466c_acf1_477152ac61a5
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_8532f034_1704_466c_acf1_477152ac61a5> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum that collects objects concernig scientific knowledge." ;
 	rdfs:label "ScienceAndTechniqueMuseum"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_894fe3a4_76ad_45e9_a6d7_52f95a7e57be
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_894fe3a4_76ad_45e9_a6d7_52f95a7e57be> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A place where congregation gather for prayer." ;
 	rdfs:label "PlaceOfWorship"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_8a0bf2a5_f736_457d_af9c_831f2b04b426
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_8a0bf2a5_f736_457d_af9c_831f2b04b426> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum that collects archaeological objects." ;
 	rdfs:label "ArchaelogicalMuseum"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_91896fa1_bc52_4c3d_a4d9_dc0f4d439863
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_91896fa1_bc52_4c3d_a4d9_dc0f4d439863> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Club> ;
+	rdfs:comment "An outlet in a farmaland." ;
 	rdfs:label "FactoryOutlet"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_9d5e0fae_8dab_4066_9538_0bf304a26ee8
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_9d5e0fae_8dab_4066_9538_0bf304a26ee8> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_fd0c958b_7bac_4cdc_be5e_ff27480a182c> ;
+	rdfs:comment "An area of sand sloping down to the water source." ;
 	rdfs:label "Beach"@it .
+# 
+# http://www.co-ode.org/ontologies/ont.owl#OWLClass_9fc4d138_977a_43de_ae22_9fa44263006b
+
+<http://www.co-ode.org/ontologies/ont.owl#OWLClass_9fc4d138_977a_43de_ae22_9fa44263006b> a owl:Class ;
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Library> ;
+	rdfs:comment "A generic library, not specialized in a sector." ;
+	rdfs:label "NotSpecializedLibrary"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_a011e7ef_1ab5_4eeb_b842_98d010717487
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_a011e7ef_1ab5_4eeb_b842_98d010717487> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_5be25d0a_4dd8_4b31_895e_52fb4c068432> ;
+	rdfs:comment "An art piece considered an excellence." ;
 	rdfs:label "ArtisticExcellence"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_a0e892d2_bacf_4c6b_bed7_32df8a48504c
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_a0e892d2_bacf_4c6b_bed7_32df8a48504c> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Club> ;
+	rdfs:comment "A club providing overnight lodging for travelers." ;
 	rdfs:label "Inn"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_a5fe2edb_9a00_44a7_bb7c_d96ffbced709
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_a5fe2edb_9a00_44a7_bb7c_d96ffbced709> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum that collects objects concerning a specific area." ;
 	rdfs:label "LocalMuseum"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_aad9a5af_b43e_4284_9a00_93be9af3d220
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_aad9a5af_b43e_4284_9a00_93be9af3d220> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> ;
+	rdfs:comment "A place that provides food or beverage." ;
 	rdfs:label "FoodAndBeverageEstablishment"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_ae4e7c8e_bd17_4f8e_80fa_58e7cebf22ae> a owl:Class ;
-	rdfs:label "Address"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_af6a0924_46dc_4a4a_aeab_e78b7aa61d3e
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_af6a0924_46dc_4a4a_aeab_e78b7aa61d3e> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Library> ;
+	rdfs:comment "A library that collects documents about a specific sector of knowledge." ;
 	rdfs:label "SpecializedLibrary"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_b29feab8_e4fa_4508_8474_d829d489791c
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_b29feab8_e4fa_4508_8474_d829d489791c> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> ;
+	rdfs:comment "A type of business activity." ;
 	rdfs:label "Club"@it .
-# 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_bff686ce_71ea_4462_bf05_5427eb01c1d1
-
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_bff686ce_71ea_4462_bf05_5427eb01c1d1> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> ;
-	rdfs:label "LocalProduct"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_c0f5a5ee_aea7_441c_a953_986dd8c603a2
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_c0f5a5ee_aea7_441c_a953_986dd8c603a2> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> ;
+	rdfs:comment "An offering of an organized holiday." ;
 	rdfs:label "HolidayPackage"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_c77f2d63_4ff7_4534_a6b1_0c2573348456
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_c77f2d63_4ff7_4534_a6b1_0c2573348456> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> ;
+	rdfs:comment "A history or a legend." ;
 	rdfs:label "HistoryAndLegend"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_c945ebef_e9e7_4459_95ec_81cf49057a15
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_c945ebef_e9e7_4459_95ec_81cf49057a15> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#BusinessActivity> ;
+	rdfs:comment "A mercantile establishment for the retail sale of goods or services." ;
 	rdfs:label "Store"@it .
+# 
+# http://www.co-ode.org/ontologies/ont.owl#OWLClass_d8ec993a_3e6a_4a8d_ad64_a6b6e098b99e
+
+<http://www.co-ode.org/ontologies/ont.owl#OWLClass_d8ec993a_3e6a_4a8d_ad64_a6b6e098b99e> a owl:Class ;
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "An activity or organization concerning sports." ;
+	rdfs:label "SportActivityAndOrganization"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_db59400c_ff77_4d5e_8542_0d01bd60a481
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_db59400c_ff77_4d5e_8542_0d01bd60a481> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum that collects artistic works." ;
 	rdfs:label "ArtMuseum"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_e04ab5c9_9882_4b78_9110_6dbfdaf47565
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_e04ab5c9_9882_4b78_9110_6dbfdaf47565> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Club> ;
+	rdfs:comment "Small workplace where handcrafts or manufacturing are done." ;
 	rdfs:label "Workshop"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_e147399c_5cfb_4b25_bac9_305d8dc7ad47
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_e147399c_5cfb_4b25_bac9_305d8dc7ad47> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum that collects historical objects." ;
 	rdfs:label "HistoricMuseum"@it .
+# 
+# http://www.co-ode.org/ontologies/ont.owl#OWLClass_e1b1b2ee_30f9_4e7d_993e_1bc572e49348
+
+<http://www.co-ode.org/ontologies/ont.owl#OWLClass_e1b1b2ee_30f9_4e7d_993e_1bc572e49348> a owl:Class ;
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#CreativeWork> ;
+	rdfs:comment "A product or an activity of a specific area." ;
+	rdfs:label "LocalProductAndActivity"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_e3049464_cd1a_4865_bc2a_a038677b2aea
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_e3049464_cd1a_4865_bc2a_a038677b2aea> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#OWLClass_1e14fac0_1392_480a_9ead_a9dfd7b1ca85> ;
+	rdfs:comment "An area, often part of a bigger town." ;
 	rdfs:label "Locality"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_e4d4fb7e_45ce_4e0e_89d4_fd872ffb0043
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_e4d4fb7e_45ce_4e0e_89d4_fd872ffb0043> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A center that can host conferences." ;
 	rdfs:label "ConferenceCenter"@it .
 # 
-# http://www.co-ode.org/ontologies/ont.owl#OWLClass_e7c95b1d_d110_4b88_b2c5_feae363fb083
+# http://www.co-ode.org/ontologies/ont.owl#OWLClass_f0f3b62e_31b0_4e69_b594_4afe38f8a833
 
-<http://www.co-ode.org/ontologies/ont.owl#OWLClass_e7c95b1d_d110_4b88_b2c5_feae363fb083> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Library> ;
-	rdfs:label "ImportantNotSpecializedLibrary"@it .
+<http://www.co-ode.org/ontologies/ont.owl#OWLClass_f0f3b62e_31b0_4e69_b594_4afe38f8a833> a owl:Class ;
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "An archaeological object or site." ;
+	rdfs:label "ArchaeologicalSiteAndWork"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_fac0dc61_c445_4f90_bb94_0dd0bc519291
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_fac0dc61_c445_4f90_bb94_0dd0bc519291> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "A center for environmental education." ;
 	rdfs:label "EnvironmentalEducationCenter"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_fb24861e_c178_4960_90e6_d53ab5c5922d
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_fb24861e_c178_4960_90e6_d53ab5c5922d> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Museum> ;
+	rdfs:comment "A museum that collects object regarding a specific sector of knowledge." ;
 	rdfs:label "SectorMuseum"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OWLClass_fd0c958b_7bac_4cdc_be5e_ff27480a182c
 
 <http://www.co-ode.org/ontologies/ont.owl#OWLClass_fd0c958b_7bac_4cdc_be5e_ff27480a182c> a owl:Class ;
 	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Place> ;
+	rdfs:comment "A geological item." ;
 	rdfs:label "GeologicalFormation"@it .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#OtherEvent
 
 <http://www.co-ode.org/ontologies/ont.owl#OtherEvent> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> ;
+	rdfs:comment "Another type of event." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Place
 
@@ -604,30 +660,48 @@ _:genid73328150 a owl:Ontology .
 # http://www.co-ode.org/ontologies/ont.owl#ThermalBathAndSpa
 
 <http://www.co-ode.org/ontologies/ont.owl#ThermalBathAndSpa> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#HealthAndBeautyBusiness> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#HealthAndBeautyBusiness> ;
+	rdfs:comment "A place situeted near a thermal source." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#TouristAttraction
 
-<http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> a owl:Class .
+<http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> a owl:Class ;
+	rdfs:comment "A tourist attraction is an item that encourages people to move from their usual environment to visit it." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#TouristGuide
 
 <http://www.co-ode.org/ontologies/ont.owl#TouristGuide> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Establishment> ;
+	rdfs:comment "An organization concerning tourist guides." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#TouristPOI
 
 <http://www.co-ode.org/ontologies/ont.owl#TouristPOI> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#TouristAttraction> ;
+	rdfs:comment "A turist Point Of Interest." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#Tradition
 
 <http://www.co-ode.org/ontologies/ont.owl#Tradition> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#Event> ;
+	rdfs:comment "A specific practice of long standing." .
 # 
 # http://www.co-ode.org/ontologies/ont.owl#WellnessCentre
 
 <http://www.co-ode.org/ontologies/ont.owl#WellnessCentre> a owl:Class ;
-	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#HealthAndBeautyBusiness> .
+	rdfs:subClassOf <http://www.co-ode.org/ontologies/ont.owl#HealthAndBeautyBusiness> ;
+	rdfs:comment "A center that provides services for wellness." .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Annotations
+# #
+# #################################################################
+# 
+# 
+
+owl:Thing rdfs:comment "The most generic type of item." .
 # 
 # Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi
