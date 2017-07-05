@@ -205,10 +205,10 @@
         <Class IRI="/OWLClass_861b112b_3d3a_44bb_a9dc_9263bda10c89"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_47b11ac6_4505_478b_9084_cd4602d2900a"/>
+        <Class IRI="/OWLClass_22e48153_0ed2_464c_8355_d5f9c24f3fbe"/>
     </Declaration>
     <Declaration>
-        <Class IRI="/OWLClass_22e48153_0ed2_464c_8355_d5f9c24f3fbe"/>
+        <Class IRI="/OWLClass_47b11ac6_4505_478b_9084_cd4602d2900a"/>
     </Declaration>
     <Declaration>
         <Class IRI="/OWLClass_9c050f26_b6f6_4ebf_84bd_e087e958fbb0"/>
@@ -1518,6 +1518,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>/OWLDataProperty_b474c490_8224_4735_9a56_9f436d78dfec</IRI>
         <Literal xml:lang="it" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">street</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AbbreviatedIRI>owl:Thing</AbbreviatedIRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The most generic type of item.</Literal>
     </AnnotationAssertion>
 </Ontology>
 
